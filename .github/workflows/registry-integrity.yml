@@ -10,98 +10,13 @@ jobs:
   validate-registry:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
       - name: Validate registry and provenance artifacts
-        run: |
-          python - <<'PY'
-          import csv
-          import pathlib
-          import sys
-
-          root = pathlib.Path('.')
-
-          # Files required for governance integrity
-          required_files = [
-              'phase8_31_dataset_registry.csv',
-              'provenance_handoff_card.tsv',
-              'provenance_handoff_card.md',
-              'governance_summary.tsv',
-              'reclaim_run_2026-02-22/purged_data_provenance_master_third_pass.tsv',
-          ]
-
-          missing = [f for f in required_files if not (root / f).exists()]
-          if missing:
-              raise SystemExit(f"Missing required governance files: {missing}")
-
-          # 1) Validate phase8_31 dataset registry structure
-          reg_path = root / 'phase8_31_dataset_registry.csv'
-          with reg_path.open(newline='') as f:
-              reader = csv.DictReader(f)
-              headers = reader.fieldnames or []
-              needed = ['phase_range', 'dataset_name', 'accession', 'doi', 'source_url', 'local_root', 'license', 'restrictions', 'notes', 'contact']
-              missing_headers = [h for h in needed if h not in headers]
-              if missing_headers:
-                  raise SystemExit(f"Missing headers in phase8_31_dataset_registry.csv: {missing_headers}")
-
-              rows = list(reader)
-              if not rows:
-                  raise SystemExit('phase8_31_dataset_registry.csv has no data rows')
-
-              bad = []
-              for i, row in enumerate(rows, start=2):
-                  license_val = (row.get('license') or '').strip()
-                  contact_val = (row.get('contact') or '').strip()
-                  src = (row.get('source_url') or '').strip()
-                  if not src:
-                      bad.append((i, 'source_url missing'))
-                  if not license_val or license_val.lower() in {'n/a', 'na', 'none', 'tbd', 'null'}:
-                      bad.append((i, 'license missing'))
-                  if not contact_val or contact_val.lower() in {'n/a', 'na', 'none', 'tbd', 'null'}:
-                      bad.append((i, 'contact missing'))
-
-              if bad:
-                  examples = ', '.join([f"row {r[0]} ({r[1]})" for r in bad[:10]])
-                  raise SystemExit(f"Registry integrity issues in phase8_31_dataset_registry.csv: {examples}")
-
-          # 2) Validate handoff artifact integrity
-          handoff_path = root / 'provenance_handoff_card.tsv'
-          with handoff_path.open() as f:
-              lines = [ln.strip() for ln in f if ln.strip()]
-              if len(lines) < 2:
-                  raise SystemExit('provenance_handoff_card.tsv must include header and at least one row')
-              header = lines[0].split('\t')
-              expected = 6
-              if len(header) != expected:
-                  raise SystemExit(f'provenance_handoff_card.tsv header should have {expected} columns, found {len(header)}')
-
-          md_path = root / 'provenance_handoff_card.md'
-          with md_path.open() as f:
-              md_text = f.read()
-              if 'provenance_handoff_card' not in md_text.lower():
-                  raise SystemExit('provenance_handoff_card.md content appears incomplete')
-
-          # 3) Validate purge provenance master TSV
-          purge_path = root / 'reclaim_run_2026-02-22/purged_data_provenance_master_third_pass.tsv'
-          with purge_path.open(newline='') as f:
-              lines = [ln for ln in f if ln.strip()]
-              if len(lines) < 5:
-                  raise SystemExit('Purge provenance master TSV seems truncated')
-              columns = lines[0].strip().split('\t')
-              if columns[0] != 'run_id' or len(columns) < 10:
-                  raise SystemExit('Unexpected columns in purged_data_provenance_master_third_pass.tsv')
-
-          print('Governance artifact integrity checks passed.')
-          print(f'registry rows: {len(rows)}')
-          print(f'handoff rows: {len(lines)}')
-          PY
+        run: python3 scripts/registry_integrity_check.py
 
       - name: Quick content policy check
         run: |
