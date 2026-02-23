@@ -1,0 +1,24 @@
+--- df after phase2 ---
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s5   926Gi   575Gi   323Gi    65%    2.7M  3.4G    0%   /System/Volumes/Data
+--- top /Users depth1 after phase2 ---
+537G	/Users/renatosocodato
+170G	/Users/renatosocodato/PFn1 5xFAD
+ 73G	/Users/renatosocodato/Downloads
+ 64G	/Users/renatosocodato/cdc42_2p_fvsm_velocities
+ 42G	/Users/renatosocodato/Library
+ 38G	/Users/renatosocodato/thermocausality_mtce
+ 37G	/Users/renatosocodato/Desktop
+ 29G	/Users/renatosocodato/cyto_kb
+ 24G	/Users/renatosocodato/redox-secretome-axis
+ 13G	/Users/renatosocodato/amanda sierra_colab
+ 11G	/Users/renatosocodato/RNAseq-redox-cytoskel
+7.5G	/Users/renatosocodato/kb_microglia_nexus
+6.8G	/Users/renatosocodato/codex_session_logs
+4.8G	/Users/renatosocodato/.codex
+3.3G	/Users/renatosocodato/tools
+2.9G	/Users/renatosocodato/targetome_paper
+2.0G	/Users/renatosocodato/.npm
+1.6G	/Users/renatosocodato/.colima
+1.5G	/Users/renatosocodato/phospho_cdc42_fxm
+1.4G	/Users/renatosocodato/.local

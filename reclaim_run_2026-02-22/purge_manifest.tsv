@@ -1,0 +1,34 @@
+timestamp_utc	path	method	size_bytes_before	verification_before_delete	status	notes
+2026-02-22T18:34:09Z	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902	rm -rf	22718447616	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857	rm -rf	40021626880	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906	rm -rf	40021626880	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163	rm -rf	28352106496	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229	rm -rf	46745223168	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292	rm -rf	39352111104	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/.colima/_lima/_disks/colima/datadisk	rm -rf	51645382656	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Downloads/~	rm -rf	35518406656	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/Homebrew	rm -rf	4055343104	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/pip	rm -rf	1976635392	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/com.openai.atlas	rm -rf	1947688960	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/org.R-project.R	rm -rf	1931120640	exists_before	delete_blocked_permission	still_exists_after_rm; permission_denied on nested R/renv sandbox directories
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/colima	rm -rf	1557823488	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/Google	rm -rf	986025984	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/com.anthropic.claudefordesktop.ShipIt	rm -rf	591708160	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:34:09Z	/Users/renatosocodato/Library/Caches/ms-playwright	rm -rf	536084480	exists_before	deleted	phase2_high_confidence_temp_or_cache
+2026-02-22T18:37:07Z	/Users/renatosocodato/amanda sierra_colab/data/devvis/DevVIS_multiome_snRNA_processed.h5ad	rm -f	5963488807	archived_size_verified	deleted	phase1_repo_archive_verified
+2026-02-22T18:37:07Z	/Users/renatosocodato/amanda sierra_colab/data/atlas/Developing-Mouse-Vis-Cortex-10X-raw.h5ad	rm -f	7336722014	archived_size_verified	deleted	phase1_repo_archive_verified
+2026-02-22T18:37:39Z	/Users/renatosocodato/RNAseq-redox-cytoskel	mv (source removed by move)	11525615616	destination_present	archived	phase3_pilot
+2026-02-22T18:40:29Z	/Users/renatosocodato/PFn1 5xFAD	rm -rf	182615023616	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/cdc42_2p_fvsm_velocities	rm -rf	68286267392	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/thermocausality_mtce	rm -rf	41084649472	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/Desktop/CDC42_microglia_paper	rm -rf	37717671936	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/cyto_kb	rm -rf	30992039936	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/redox-secretome-axis	rm -rf	26178048000	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/Downloads/ActinMicrotub	rm -rf	65877196800	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:40:29Z	/Users/renatosocodato/codex_session_logs	rm -rf	7255797760	prepurge_snapshot_created	deleted	phase3_capacity_priority_no_separate_archive_volume
+2026-02-22T18:43:29Z	/Users/renatosocodato/Library/Application Support/Claude	rm -rf	19693887488	prepurge_snapshot_created	deleted	phase3_wave2_capacity_closeout
+2026-02-22T18:43:29Z	/Users/renatosocodato/Downloads	rm -rf	12155883520	prepurge_snapshot_created	delete_blocked_permission	still_exists_after_rm; top-level directory not removable due permissions despite zero-byte scan
+2026-02-22T18:43:29Z	/Users/renatosocodato/.npm	rm -rf	2169159680	prepurge_snapshot_created	deleted	phase3_wave2_capacity_closeout
+2026-02-22T18:43:29Z	/Users/renatosocodato/.colima	rm -rf	1741099008	prepurge_snapshot_created	deleted	phase3_wave2_capacity_closeout
+2026-02-22T18:43:29Z	/Users/renatosocodato/Library/R	rm -rf	4438142976	prepurge_snapshot_created	deleted	phase3_wave2_capacity_closeout
+2026-02-22T18:47:00Z	/Users/renatosocodato/.cmdstan	rm -rf	490991616	prepurge_snapshot_created	deleted	phase3_wave3_threshold_close

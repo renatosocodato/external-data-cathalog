@@ -1,0 +1,42 @@
+timestamp_utc	path	size_bytes_before
+2026-02-22T18:43:29Z	/Users/renatosocodato/Library/Application Support/Claude	19693887488
+
+# top_level_entries
+17914536	/Users/renatosocodato/Library/Application Support/Claude/vm_bundles
+534764	/Users/renatosocodato/Library/Application Support/Claude/local-agent-mode-sessions
+263424	/Users/renatosocodato/Library/Application Support/Claude/Cache
+215136	/Users/renatosocodato/Library/Application Support/Claude/claude-code-vm
+178672	/Users/renatosocodato/Library/Application Support/Claude/claude-code
+122120	/Users/renatosocodato/Library/Application Support/Claude/Code Cache
+900	/Users/renatosocodato/Library/Application Support/Claude/DIPS-wal
+548	/Users/renatosocodato/Library/Application Support/Claude/GPUCache
+548	/Users/renatosocodato/Library/Application Support/Claude/DawnWebGPUCache
+548	/Users/renatosocodato/Library/Application Support/Claude/DawnGraphiteCache
+372	/Users/renatosocodato/Library/Application Support/Claude/claude-code-sessions
+336	/Users/renatosocodato/Library/Application Support/Claude/Local Storage
+80	/Users/renatosocodato/Library/Application Support/Claude/Session Storage
+52	/Users/renatosocodato/Library/Application Support/Claude/Shared Dictionary
+40	/Users/renatosocodato/Library/Application Support/Claude/WebStorage
+36	/Users/renatosocodato/Library/Application Support/Claude/Trust Tokens
+36	/Users/renatosocodato/Library/Application Support/Claude/DIPS
+32	/Users/renatosocodato/Library/Application Support/Claude/shared_proto_db
+32	/Users/renatosocodato/Library/Application Support/Claude/Cookies
+28	/Users/renatosocodato/Library/Application Support/Claude/sentry
+24	/Users/renatosocodato/Library/Application Support/Claude/IndexedDB
+8	/Users/renatosocodato/Library/Application Support/Claude/Network Persistent State
+4	/Users/renatosocodato/Library/Application Support/Claude/window-state.json
+4	/Users/renatosocodato/Library/Application Support/Claude/git-worktrees.json
+4	/Users/renatosocodato/Library/Application Support/Claude/extensions-blocklist.json
+4	/Users/renatosocodato/Library/Application Support/Claude/config.json
+4	/Users/renatosocodato/Library/Application Support/Claude/claude_desktop_config.json
+4	/Users/renatosocodato/Library/Application Support/Claude/ant-did
+4	/Users/renatosocodato/Library/Application Support/Claude/TransportSecurity
+4	/Users/renatosocodato/Library/Application Support/Claude/SharedStorage
+4	/Users/renatosocodato/Library/Application Support/Claude/Preferences
+4	/Users/renatosocodato/Library/Application Support/Claude/Crashpad
+0	/Users/renatosocodato/Library/Application Support/Claude/pending-uploads
+0	/Users/renatosocodato/Library/Application Support/Claude/blob_storage
+0	/Users/renatosocodato/Library/Application Support/Claude/VideoDecodeStats
+0	/Users/renatosocodato/Library/Application Support/Claude/Trust Tokens-journal
+0	/Users/renatosocodato/Library/Application Support/Claude/SharedStorage-wal
+0	/Users/renatosocodato/Library/Application Support/Claude/Cookies-journal

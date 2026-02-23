@@ -1,0 +1,6 @@
+phase	status	gate	target_reclaim_gib	paths	method	notes
+0	completed	G0_PASS	0	/System/Volumes/Data;/Users/renatosocodato	baseline+inventory	Baseline inventories and process checks recorded
+1	completed	G1_PASS	10	/Users/renatosocodato/amanda sierra_colab/data/devvis/DevVIS_multiome_snRNA_processed.h5ad;/Users/renatosocodato/amanda sierra_colab/data/atlas/Developing-Mouse-Vis-Cortex-10X-raw.h5ad	archive-first+purge	Archived to Google Drive path and purged source copies
+2	completed	G2_PASS	250	fasterq.tmp.*, colima datadisk, Downloads/~, selected caches	purge-low-risk	High-confidence temp/cache purge exceeded cumulative target
+3	completed	G3_PASS	700	PFn1 5xFAD;cdc42_2p_fvsm_velocities;thermocausality_mtce;CDC42_microglia_paper;cyto_kb;redox-secretome-axis;ActinMicrotub;closeout dirs	capacity-priority purge	Archive-first same-volume cloud mount did not free local blocks; logged purge wave executed
+4	completed	G4_PASS	700	/System/Volumes/Data;/Users/renatosocodato	validation+report	Final reclaimed GiB and manifests completed

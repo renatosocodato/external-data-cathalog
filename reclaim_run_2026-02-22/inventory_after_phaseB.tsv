@@ -1,0 +1,251 @@
+timestamp_utc	category	size_bytes	size_human	path	context
+2026-02-22T18:46:22Z	filesystem_data	994662584320	926.35GiB total	/dev/disk3s5	used=179071084K avail=763286048K cap=20%
+2026-02-22T18:46:22Z	home_depth1	91073044480	84.82GiB	/Users/renatosocodato	du_d1
+2026-02-22T18:46:22Z	home_depth1	59842297856	55.73GiB	/Users/renatosocodato/Library	du_d1
+2026-02-22T18:46:22Z	home_depth1	8049786880	7.50GiB	/Users/renatosocodato/kb_microglia_nexus	du_d1
+2026-02-22T18:46:22Z	home_depth1	5130649600	4.78GiB	/Users/renatosocodato/.codex	du_d1
+2026-02-22T18:46:22Z	home_depth1	3510837248	3.27GiB	/Users/renatosocodato/tools	du_d1
+2026-02-22T18:46:22Z	home_depth1	3089121280	2.88GiB	/Users/renatosocodato/targetome_paper	du_d1
+2026-02-22T18:46:22Z	home_depth1	1638584320	1.53GiB	/Users/renatosocodato/Desktop	du_d1
+2026-02-22T18:46:22Z	home_depth1	1634836480	1.52GiB	/Users/renatosocodato/phospho_cdc42_fxm	du_d1
+2026-02-22T18:46:22Z	home_depth1	1497649152	1.39GiB	/Users/renatosocodato/.local	du_d1
+2026-02-22T18:46:22Z	home_depth1	1449762816	1.35GiB	/Users/renatosocodato/.claude	du_d1
+2026-02-22T18:46:22Z	home_depth1	1303678976	1.21GiB	/Users/renatosocodato/cellbio-venv	du_d1
+2026-02-22T18:46:22Z	home_depth1	1078018048	1.00GiB	/Users/renatosocodato/HUMAN BRAIN_RhoA	du_d1
+2026-02-22T18:46:22Z	home_depth1	901472256	0.84GiB	/Users/renatosocodato/cellbio_env	du_d1
+2026-02-22T18:46:22Z	home_depth1	821338112	0.76GiB	/Users/renatosocodato/amanda sierra_colab	du_d1
+2026-02-22T18:46:22Z	home_depth1	490991616	0.46GiB	/Users/renatosocodato/.cmdstan	du_d1
+2026-02-22T18:46:22Z	home_depth1	282931200	0.26GiB	/Users/renatosocodato/manuscripts	du_d1
+2026-02-22T18:46:22Z	home_depth1	271073280	0.25GiB	/Users/renatosocodato/.pyenv	du_d1
+2026-02-22T18:46:22Z	home_depth1	30371840	0.03GiB	/Users/renatosocodato/morpho_imaris_fxm	du_d1
+2026-02-22T18:46:22Z	home_depth1	17428480	0.02GiB	/Users/renatosocodato/microglia_protrusion_model	du_d1
+2026-02-22T18:46:22Z	home_depth1	10670080	0.01GiB	/Users/renatosocodato/.gemini	du_d1
+2026-02-22T18:46:22Z	home_depth1	10113024	0.01GiB	/Users/renatosocodato/manuscript_glia	du_d1
+2026-02-22T18:46:22Z	home_depth1	2519040	0.00GiB	/Users/renatosocodato/.cursor	du_d1
+2026-02-22T18:46:22Z	home_depth1	1761280	0.00GiB	/Users/renatosocodato/Documents	du_d1
+2026-02-22T18:46:22Z	home_depth1	1531904	0.00GiB	/Users/renatosocodato/.manuscript_compiler	du_d1
+2026-02-22T18:46:22Z	home_depth1	1474560	0.00GiB	/Users/renatosocodato/.cache	du_d1
+2026-02-22T18:46:22Z	home_depth1	1019904	0.00GiB	/Users/renatosocodato/.synapseCache	du_d1
+2026-02-22T18:46:22Z	home_depth1	888832	0.00GiB	/Users/renatosocodato/ai.full governance pack	du_d1
+2026-02-22T18:46:22Z	home_depth1	552960	0.00GiB	/Users/renatosocodato/Applications	du_d1
+2026-02-22T18:46:22Z	home_depth1	446464	0.00GiB	/Users/renatosocodato/.zsh_sessions	du_d1
+2026-02-22T18:46:22Z	home_depth1	327680	0.00GiB	/Users/renatosocodato/Music	du_d1
+2026-02-22T18:46:22Z	home_depth1	249856	0.00GiB	/Users/renatosocodato/external data_cathalog	du_d1
+2026-02-22T18:46:22Z	home_depth1	167936	0.00GiB	/Users/renatosocodato/.matplotlib	du_d1
+2026-02-22T18:46:22Z	home_depth1	73728	0.00GiB	/Users/renatosocodato/.gnupg	du_d1
+2026-02-22T18:46:22Z	home_depth1	36864	0.00GiB	/Users/renatosocodato/revision	du_d1
+2026-02-22T18:46:22Z	home_depth1	32768	0.00GiB	/Users/renatosocodato/Movies	du_d1
+2026-02-22T18:46:22Z	home_depth1	24576	0.00GiB	/Users/renatosocodato/.config	du_d1
+2026-02-22T18:46:22Z	home_depth1	16384	0.00GiB	/Users/renatosocodato/.ssh	du_d1
+2026-02-22T18:46:22Z	home_depth1	8192	0.00GiB	/Users/renatosocodato/gate_logs	du_d1
+2026-02-22T18:46:22Z	home_depth1	8192	0.00GiB	/Users/renatosocodato/.docker	du_d1
+2026-02-22T18:46:22Z	home_depth1	4096	0.00GiB	/Users/renatosocodato/targetome_3006	du_d1
+2026-02-22T18:46:22Z	home_depth1	4096	0.00GiB	/Users/renatosocodato/.ncbi	du_d1
+2026-02-22T18:46:22Z	home_depth1	4096	0.00GiB	/Users/renatosocodato/.conda	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/data	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/Public	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/Pictures	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/Downloads	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/.tmp_r	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/.mamba	du_d1
+2026-02-22T18:46:22Z	home_depth1	0	0.00GiB	/Users/renatosocodato/.claude-worktrees	du_d1
+2026-02-22T18:46:22Z	top200_any	88235995136	82.18GiB	/Users/renatosocodato	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	57005248512	53.09GiB	/Users/renatosocodato/Library	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	35642298368	33.19GiB	/Users/renatosocodato/Library/CloudStorage	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	35642290176	33.19GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	33355141120	31.06GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	24825798656	23.12GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	13300211712	12.39GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/repo_phase1_h5ad	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	11525586944	10.73GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	10122678272	9.43GiB	/Users/renatosocodato/Library/Application Support	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	8129290240	7.57GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	8124469248	7.57GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	8124436480	7.57GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human/ssread	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	8049786880	7.50GiB	/Users/renatosocodato/kb_microglia_nexus	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	8049745920	7.50GiB	/Users/renatosocodato/kb_microglia_nexus/releases	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	7415169024	6.91GiB	/Users/renatosocodato/Library/Application Support/Google	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	7336722432	6.83GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/repo_phase1_h5ad/Developing-Mouse-Vis-Cortex-10X-raw.h5ad	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	7021010944	6.54GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	6481788928	6.04GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	6273695744	5.84GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	6192594944	5.77GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	6015787008	5.60GiB	/Users/renatosocodato/Library/Containers	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5963489280	5.55GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/repo_phase1_h5ad/DevVIS_multiome_snRNA_processed.h5ad	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5366460416	5.00GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5366423552	5.00GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp/domain-temp-gdrive-104121181106634470596/push_temp	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5366423552	5.00GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp/domain-temp-gdrive-104121181106634470596	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5366423552	5.00GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5366423552	5.00GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5322756096	4.96GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	5130649600	4.78GiB	/Users/renatosocodato/.codex	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	4138840064	3.85GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3698081792	3.44GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3510837248	3.27GiB	/Users/renatosocodato/tools	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3266551808	3.04GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3263541248	3.04GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3258454016	3.03GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3089121280	2.88GiB	/Users/renatosocodato/targetome_paper	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3013058560	2.81GiB	/Users/renatosocodato/.codex/sessions	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	3009458176	2.80GiB	/Users/renatosocodato/.codex/sessions/2026	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2895876096	2.70GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2888118272	2.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2855759872	2.66GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/raw	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2792488960	2.60GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/paper2_therapeutic	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2754830336	2.57GiB	/Users/renatosocodato/Library/Mobile Documents	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2717622272	2.53GiB	/Users/renatosocodato/Library/Mobile Documents/.Trash	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2671964160	2.49GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/paper2_therapeutic/results	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2413887488	2.25GiB	/Users/renatosocodato/tools/cellranger-10.0.0	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2341842944	2.18GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d24	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2341732352	2.18GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp/domain-temp-gdrive-104121181106634470596/push_temp/40411-950	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2341732352	2.18GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human/ssread/AD00106.qsave	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2341732352	2.18GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d24/d36/33256	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2341732352	2.18GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d24/d36	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2287149056	2.13GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/Other computers/Dispositivos USB e cartões SD/10 jan aaaa	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2287149056	2.13GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/Other computers/Dispositivos USB e cartões SD	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2287149056	2.13GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/Other computers	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2226696192	2.07GiB	/Users/renatosocodato/Library/Application Support/Comet	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2056585216	1.92GiB	/Users/renatosocodato/.codex/sessions/2026/01	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2055237632	1.91GiB	/Users/renatosocodato/Library/Application Support/Comet/Default	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2049916928	1.91GiB	/Users/renatosocodato/.codex/archived_sessions	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	2013474816	1.88GiB	/Users/renatosocodato/Library/Application Support/Comet/Default/Extensions	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1983098880	1.85GiB	/Users/renatosocodato/Library/Application Support/Comet/Default/Extensions/mjdcklhepheaaemphcopihnmjlmjpcnh	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1939009536	1.81GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1854726144	1.73GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/raw/hippocampus_mibi	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1814753280	1.69GiB	/Users/renatosocodato/tools/cellranger-10.0.0/external	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1725726720	1.61GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1722740736	1.60GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1717694464	1.60GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1638584320	1.53GiB	/Users/renatosocodato/Desktop	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1634836480	1.52GiB	/Users/renatosocodato/phospho_cdc42_fxm	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1624567808	1.51GiB	/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1565229056	1.46GiB	/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1549627392	1.44GiB	/Users/renatosocodato/Desktop/papers 4 peer-review	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1540759552	1.43GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1540755456	1.43GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1539784704	1.43GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1536798720	1.43GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1531752448	1.43GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1497649152	1.39GiB	/Users/renatosocodato/.local	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1497632768	1.39GiB	/Users/renatosocodato/.local/share	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1468104704	1.37GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/raw/hippocampus_mibi/unpacked	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1449762816	1.35GiB	/Users/renatosocodato/.claude	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1414914048	1.32GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase24_thermo_invariants_omics_mirror	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1414909952	1.32GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase24_thermo_invariants_omics_mirror/NIAGADS/NG00131	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1414909952	1.32GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase24_thermo_invariants_omics_mirror/NIAGADS	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1413615616	1.32GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase24_thermo_invariants_omics_mirror/NIAGADS/NG00131/raw	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1380483072	1.29GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1303678976	1.21GiB	/Users/renatosocodato/cellbio-venv	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1298604032	1.21GiB	/Users/renatosocodato/cellbio-venv/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1298604032	1.21GiB	/Users/renatosocodato/cellbio-venv/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1298604032	1.21GiB	/Users/renatosocodato/cellbio-venv/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1297747968	1.21GiB	/Users/renatosocodato/.codex/sessions/2026/01/14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1291710464	1.20GiB	/Users/renatosocodato/.codex/sessions/2026/01/14/rollout-2026-01-14T00-00-53-019bb9ce-2547-77e2-9797-31966f6e8b7d.jsonl	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1283076096	1.19GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/derived	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1223380992	1.14GiB	/Users/renatosocodato/Library/Mobile Documents/.Trash/zenodo_release.tar.gz	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1078018048	1.00GiB	/Users/renatosocodato/HUMAN BRAIN_RhoA	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1060614144	0.99GiB	/Users/renatosocodato/HUMAN BRAIN_RhoA/Hippocampus	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	1054228480	0.98GiB	/Users/renatosocodato/Desktop/papers 4 peer-review/MST1 promotes microglial pyroptosis and neuroinflammation in Alzheimer's disease by regulating the novel DPP8:NLRP1:Caspase-1:GSDMD-N axis	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	992038912	0.92GiB	/Users/renatosocodato/Library/Mobile Documents/.Trash/phase4.5_metabolic	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	985395200	0.92GiB	/Users/renatosocodato/Library/Caches	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	983576576	0.92GiB	/Users/renatosocodato/phospho_cdc42_fxm/environment	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	983552000	0.92GiB	/Users/renatosocodato/phospho_cdc42_fxm/environment/modeling_venv	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	983437312	0.92GiB	/Users/renatosocodato/phospho_cdc42_fxm/environment/modeling_venv/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	983437312	0.92GiB	/Users/renatosocodato/phospho_cdc42_fxm/environment/modeling_venv/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	983437312	0.92GiB	/Users/renatosocodato/phospho_cdc42_fxm/environment/modeling_venv/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	952872960	0.89GiB	/Users/renatosocodato/.codex/sessions/2026/02	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	943538176	0.88GiB	/Users/renatosocodato/Library/Mobile Documents/.Trash/phase4.5_metabolic/wo042mc_serial_mediation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	943489024	0.88GiB	/Users/renatosocodato/Library/Mobile Documents/.Trash/phase4.5_metabolic/wo042mc_serial_mediation/outputs	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	934187008	0.87GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_223754_20260213_sentineldimorph_canonical_guarded_r8_seed7_SentinelDimorphKB	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	932671488	0.87GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/derived/atlas_plaque_masks	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	920846336	0.86GiB	/Users/renatosocodato/.local/share/claude/versions	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	920846336	0.86GiB	/Users/renatosocodato/.local/share/claude	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	901472256	0.84GiB	/Users/renatosocodato/cellbio_env	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	894918656	0.83GiB	/Users/renatosocodato/.claude/projects	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	891850752	0.83GiB	/Users/renatosocodato/Library/Python	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	891203584	0.83GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	891203584	0.83GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	891195392	0.83GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	891195392	0.83GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	872947712	0.81GiB	/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	872947712	0.81GiB	/Users/renatosocodato/cellbio_env/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	872947712	0.81GiB	/Users/renatosocodato/cellbio_env/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	867221504	0.81GiB	/Users/renatosocodato/tools/cellranger-10.0.0.tar.gz	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	834465792	0.78GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_223754_20260213_sentineldimorph_canonical_guarded_r8_seed7_SentinelDimorphKB/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	831500288	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_223754_20260213_sentineldimorph_canonical_guarded_r8_seed7_SentinelDimorphKB/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	829800448	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	829800448	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	826834944	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	826834944	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	826490880	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_223754_20260213_sentineldimorph_canonical_guarded_r8_seed7_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	821825536	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	821825536	0.77GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_230107_20260213_sentineldimorph_canonical_guarded_r9_seed8_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	821338112	0.76GiB	/Users/renatosocodato/amanda sierra_colab	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	805056512	0.75GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d18	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	805044224	0.75GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp/domain-temp-gdrive-104121181106634470596/push_temp/40411-1004	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	805044224	0.75GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human/ssread/AD00206.qsave	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	805044224	0.75GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d18/d13/33384	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	805044224	0.75GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d18/d13	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	796717056	0.74GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/Papers	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	761188352	0.71GiB	/Users/renatosocodato/amanda sierra_colab/data/atlas	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	761188352	0.71GiB	/Users/renatosocodato/amanda sierra_colab/data	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	750727168	0.70GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/fct-preliminary-data	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	750612480	0.70GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/fct-preliminary-data/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	750612480	0.70GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/fct-preliminary-data/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	750612480	0.70GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/fct-preliminary-data/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	744603648	0.69GiB	/Users/renatosocodato/Library/Application Support/Google/GoogleUpdater	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	741081088	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_pdc	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	740970496	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_pdc/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	740970496	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_pdc/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	740970496	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_pdc/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	739598336	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_preliminary_data	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	739491840	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_preliminary_data/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	739491840	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_preliminary_data/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	739491840	0.69GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_preliminary_data/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	718045184	0.67GiB	/Users/renatosocodato/.codex/archived_sessions/rollout-2026-01-03T15-37-42-019b8481-e03c-7b02-a35a-1f03398d40d2.jsonl	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	715825152	0.67GiB	/Users/renatosocodato/Library/Application Support/Google/GoogleUpdater/crx_cache	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	715628544	0.67GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d25	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	715599872	0.67GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp/domain-temp-gdrive-104121181106634470596/push_temp/40411-977	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	715599872	0.67GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human/ssread/AD00201.qsave	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	715599872	0.67GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d25/d104/33324	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	715599872	0.67GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d25/d104	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	710012928	0.66GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	710012928	0.66GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	699949056	0.65GiB	/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib/python3.12	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	691789824	0.64GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d64	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	691765248	0.64GiB	/Users/renatosocodato/Library/Containers/com.google.drivefs.fpext/Data/tmp/domain-temp-gdrive-104121181106634470596/push_temp/40411-967	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	691765248	0.64GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human/ssread/AD00110.qsave	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	691765248	0.64GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d64/d76/33296	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	691765248	0.64GiB	/Users/renatosocodato/Library/Application Support/Google/DriveFS/104121181106634470596/content_cache/d64/d76	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	690548736	0.64GiB	/Users/renatosocodato/Library/Application Support/Google/GoogleUpdater/crx_cache/01ad815360e74f91d14c9d59ced396296e7150520328d482918c15075dbeafb5	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	670416896	0.62GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	670388224	0.62GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	665378816	0.62GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r9_seed8/bundle/documentation/knowledge_base/standalone_promotion/20260213_sentineldimorph_canonical_guarded_r8_seed7/bundle/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	656416768	0.61GiB	/Users/renatosocodato/HUMAN BRAIN_RhoA/Hippocampus/Images TIFF_DMI	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	647094272	0.60GiB	/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib/python3.12/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	629645312	0.59GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/lib/python3.14/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	629645312	0.59GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/lib/python3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	629645312	0.59GiB	/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	621301760	0.58GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260214_082257_20260213_sentineldimorph_canonical_guarded_r11_seed10_SentinelDimorphKB	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	617943040	0.58GiB	/Users/renatosocodato/.codex/archived_sessions/rollout-2025-12-29T23-24-06-019b6c6d-12e1-7921-8a7c-90d176dcdc7c.jsonl	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	607883264	0.57GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260214_082257_20260213_sentineldimorph_canonical_guarded_r11_seed10_SentinelDimorphKB/documentation	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	604835840	0.56GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260214_082257_20260213_sentineldimorph_canonical_guarded_r11_seed10_SentinelDimorphKB/documentation/knowledge_base	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	594522112	0.55GiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260214_082257_20260213_sentineldimorph_canonical_guarded_r11_seed10_SentinelDimorphKB/documentation/knowledge_base/standalone_promotion	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	593022976	0.55GiB	/Users/renatosocodato/Library/Python/3.14	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	592953344	0.55GiB	/Users/renatosocodato/Library/Python/3.14/lib/python/site-packages	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	592953344	0.55GiB	/Users/renatosocodato/Library/Python/3.14/lib/python	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	592953344	0.55GiB	/Users/renatosocodato/Library/Python/3.14/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	587595776	0.55GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/spatial	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	574894080	0.54GiB	/Users/renatosocodato/phospho_cdc42_fxm/outputs	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	558555136	0.52GiB	/Users/renatosocodato/tools/cellranger-10.0.0/lib	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	554000384	0.52GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/spatial/GSE209583	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	553185280	0.52GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/paper2_therapeutic/results/Paper2_stratification_external_gse140829	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	527138816	0.49GiB	/Users/renatosocodato/Desktop/papers 4 peer-review/MST1 promotes microglial pyroptosis and neuroinflammation in Alzheimer's disease by regulating the novel DPP8:NLRP1:Caspase-1:GSDMD-N axis/MST1 promotes microglial	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	527081472	0.49GiB	/Users/renatosocodato/Desktop/papers 4 peer-review/MST1 promotes microglial pyroptosis and neuroinflammation in Alzheimer's disease by regulating the novel DPP8:NLRP1:Caspase-1:GSDMD-N axis/MST1 promotes microglial.zip	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	508657664	0.47GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/paper2_therapeutic/results/Paper2_stratification_external_gse140830	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	503558144	0.47GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/data/human/ssread/AD00205.qsave	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	503037952	0.47GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/spatial/GSE209583/raw	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	493391872	0.46GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/raw/atlas_multi_region	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	490991616	0.46GiB	/Users/renatosocodato/.cmdstan/cmdstan-2.37.0	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	490991616	0.46GiB	/Users/renatosocodato/.cmdstan	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	490864640	0.46GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi/raw/hippocampus_mibi_purl	du_ak_top200
+2026-02-22T18:46:22Z	top200_any	475226112	0.44GiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/LINCS_CMap_2020_Beta	du_ak_top200

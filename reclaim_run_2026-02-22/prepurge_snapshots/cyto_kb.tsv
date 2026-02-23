@@ -1,0 +1,34 @@
+timestamp_utc	path	size_bytes_before
+2026-02-22T18:40:29Z	/Users/renatosocodato/cyto_kb	30992039936
+
+# top_level_entries
+29039360	/Users/renatosocodato/cyto_kb/source_data
+630092	/Users/renatosocodato/cyto_kb/.venv
+170968	/Users/renatosocodato/cyto_kb/corpus
+132224	/Users/renatosocodato/cyto_kb/.venv-xycal
+129968	/Users/renatosocodato/cyto_kb/.venv_kb
+78916	/Users/renatosocodato/cyto_kb/outputs
+50188	/Users/renatosocodato/cyto_kb/registry
+30716	/Users/renatosocodato/cyto_kb/tmp
+1204	/Users/renatosocodato/cyto_kb/scripts
+808	/Users/renatosocodato/cyto_kb/.governance
+640	/Users/renatosocodato/cyto_kb/README.html
+200	/Users/renatosocodato/cyto_kb/Q_A_metrics.md
+124	/Users/renatosocodato/cyto_kb/tests
+84	/Users/renatosocodato/cyto_kb/config
+48	/Users/renatosocodato/cyto_kb/CYTO_KB Full Manifest.rtf
+36	/Users/renatosocodato/cyto_kb/README.md
+20	/Users/renatosocodato/cyto_kb/knowledge_base
+16	/Users/renatosocodato/cyto_kb/docs
+12	/Users/renatosocodato/cyto_kb/.DS_Store
+4	/Users/renatosocodato/cyto_kb/test_federation_v1_smoke.sh
+4	/Users/renatosocodato/cyto_kb/test_federation_v1.sh
+4	/Users/renatosocodato/cyto_kb/requirements.txt
+4	/Users/renatosocodato/cyto_kb/requirements-optional.txt
+4	/Users/renatosocodato/cyto_kb/kb
+4	/Users/renatosocodato/cyto_kb/cpg10_25
+4	/Users/renatosocodato/cyto_kb/cpg10
+4	/Users/renatosocodato/cyto_kb/agent_intent.yaml
+4	/Users/renatosocodato/cyto_kb/AGENTS.md
+4	/Users/renatosocodato/cyto_kb/.github
+0	/Users/renatosocodato/cyto_kb/cyto_kb.db

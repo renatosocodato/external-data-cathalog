@@ -1,0 +1,4 @@
+timestamp_utc\tcheck\tstatus\tdetails
+2026-02-22T18:37:07Z	repo_root	ok	git_missing
+2026-02-22T18:37:07Z	h5ad_sources	post_purge	/Users/renatosocodato/amanda sierra_colab/data/devvis/DevVIS_multiome_snRNA_processed.h5ad:REMOVED;/Users/renatosocodato/amanda sierra_colab/data/atlas/Developing-Mouse-Vis-Cortex-10X-raw.h5ad:REMOVED;
+2026-02-22T18:37:07Z	h5ad_archive	post_copy	total 25976976;-rw-r--r--@ 1 renatosocodato  staff   5.6G Feb 21 10:03 DevVIS_multiome_snRNA_processed.h5ad;-rw-r--r--@ 1 renatosocodato  staff   6.8G Feb 22 00:46 Developing-Mouse-Vis-Cortex-10X-raw.h5ad;

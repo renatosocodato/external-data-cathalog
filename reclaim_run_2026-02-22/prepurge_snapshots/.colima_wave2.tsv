@@ -1,0 +1,10 @@
+timestamp_utc	path	size_bytes_before
+2026-02-22T18:43:29Z	/Users/renatosocodato/.colima	1741099008
+
+# top_level_entries
+1699736	/Users/renatosocodato/.colima/_lima
+548	/Users/renatosocodato/.colima/default
+4	/Users/renatosocodato/.colima/ssh_config
+4	/Users/renatosocodato/.colima/_store
+0	/Users/renatosocodato/.colima/docker.sock
+0	/Users/renatosocodato/.colima/_templates

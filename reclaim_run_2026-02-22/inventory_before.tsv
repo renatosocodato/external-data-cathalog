@@ -1,0 +1,260 @@
+timestamp_utc	category	size_bytes	size_human	path	context
+2026-02-22T18:31:29Z	filesystem_data	994662584320	971350180K total	/dev/disk3s5	used=912867488K avail=29489644K cap=97%
+2026-02-22T18:31:29Z	home_depth1	894733549568	873763232KiB	/Users/renatosocodato	du_d1
+2026-02-22T18:31:29Z	home_depth1	399826165760	390455240KiB	/Users/renatosocodato/PFn1 5xFAD	du_d1
+2026-02-22T18:31:29Z	home_depth1	113551486976	110890124KiB	/Users/renatosocodato/Downloads	du_d1
+2026-02-22T18:31:29Z	home_depth1	68286242816	66685784KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities	du_d1
+2026-02-22T18:31:29Z	home_depth1	58299731968	56933332KiB	/Users/renatosocodato/Library	du_d1
+2026-02-22T18:31:29Z	home_depth1	53386350592	52135108KiB	/Users/renatosocodato/.colima	du_d1
+2026-02-22T18:31:29Z	home_depth1	41084649472	40121728KiB	/Users/renatosocodato/thermocausality_mtce	du_d1
+2026-02-22T18:31:29Z	home_depth1	39286059008	38365292KiB	/Users/renatosocodato/Desktop	du_d1
+2026-02-22T18:31:29Z	home_depth1	30992039936	30265664KiB	/Users/renatosocodato/cyto_kb	du_d1
+2026-02-22T18:31:29Z	home_depth1	26178048000	25564500KiB	/Users/renatosocodato/redox-secretome-axis	du_d1
+2026-02-22T18:31:29Z	home_depth1	14121545728	13790572KiB	/Users/renatosocodato/amanda sierra_colab	du_d1
+2026-02-22T18:31:29Z	home_depth1	11525615616	11255484KiB	/Users/renatosocodato/RNAseq-redox-cytoskel	du_d1
+2026-02-22T18:31:29Z	home_depth1	8049786880	7861120KiB	/Users/renatosocodato/kb_microglia_nexus	du_d1
+2026-02-22T18:31:29Z	home_depth1	7255797760	7085740KiB	/Users/renatosocodato/codex_session_logs	du_d1
+2026-02-22T18:31:29Z	home_depth1	5130649600	5010400KiB	/Users/renatosocodato/.codex	du_d1
+2026-02-22T18:31:29Z	home_depth1	3510837248	3428552KiB	/Users/renatosocodato/tools	du_d1
+2026-02-22T18:31:29Z	home_depth1	3089121280	3016720KiB	/Users/renatosocodato/targetome_paper	du_d1
+2026-02-22T18:31:29Z	home_depth1	2169159680	2118320KiB	/Users/renatosocodato/.npm	du_d1
+2026-02-22T18:31:29Z	home_depth1	1634836480	1596520KiB	/Users/renatosocodato/phospho_cdc42_fxm	du_d1
+2026-02-22T18:31:29Z	home_depth1	1497649152	1462548KiB	/Users/renatosocodato/.local	du_d1
+2026-02-22T18:31:29Z	home_depth1	1449717760	1415740KiB	/Users/renatosocodato/.claude	du_d1
+2026-02-22T18:31:29Z	home_depth1	1303678976	1273124KiB	/Users/renatosocodato/cellbio-venv	du_d1
+2026-02-22T18:31:29Z	home_depth1	1078018048	1052752KiB	/Users/renatosocodato/HUMAN BRAIN_RhoA	du_d1
+2026-02-22T18:31:29Z	home_depth1	901472256	880344KiB	/Users/renatosocodato/cellbio_env	du_d1
+2026-02-22T18:31:29Z	home_depth1	490991616	479484KiB	/Users/renatosocodato/.cmdstan	du_d1
+2026-02-22T18:31:29Z	home_depth1	282955776	276324KiB	/Users/renatosocodato/manuscripts	du_d1
+2026-02-22T18:31:29Z	home_depth1	271073280	264720KiB	/Users/renatosocodato/.pyenv	du_d1
+2026-02-22T18:31:29Z	home_depth1	30371840	29660KiB	/Users/renatosocodato/morpho_imaris_fxm	du_d1
+2026-02-22T18:31:29Z	home_depth1	17428480	17020KiB	/Users/renatosocodato/microglia_protrusion_model	du_d1
+2026-02-22T18:31:29Z	home_depth1	10670080	10420KiB	/Users/renatosocodato/.gemini	du_d1
+2026-02-22T18:31:29Z	home_depth1	10113024	9876KiB	/Users/renatosocodato/manuscript_glia	du_d1
+2026-02-22T18:31:29Z	home_depth1	2519040	2460KiB	/Users/renatosocodato/.cursor	du_d1
+2026-02-22T18:31:29Z	home_depth1	1761280	1720KiB	/Users/renatosocodato/Documents	du_d1
+2026-02-22T18:31:29Z	home_depth1	1531904	1496KiB	/Users/renatosocodato/.manuscript_compiler	du_d1
+2026-02-22T18:31:29Z	home_depth1	1474560	1440KiB	/Users/renatosocodato/.cache	du_d1
+2026-02-22T18:31:29Z	home_depth1	1019904	996KiB	/Users/renatosocodato/.synapseCache	du_d1
+2026-02-22T18:31:29Z	home_depth1	888832	868KiB	/Users/renatosocodato/ai.full governance pack	du_d1
+2026-02-22T18:31:29Z	home_depth1	552960	540KiB	/Users/renatosocodato/Applications	du_d1
+2026-02-22T18:31:29Z	home_depth1	446464	436KiB	/Users/renatosocodato/.zsh_sessions	du_d1
+2026-02-22T18:31:29Z	home_depth1	327680	320KiB	/Users/renatosocodato/Music	du_d1
+2026-02-22T18:31:29Z	home_depth1	167936	164KiB	/Users/renatosocodato/.matplotlib	du_d1
+2026-02-22T18:31:29Z	home_depth1	102400	100KiB	/Users/renatosocodato/external data_cathalog	du_d1
+2026-02-22T18:31:29Z	home_depth1	73728	72KiB	/Users/renatosocodato/.gnupg	du_d1
+2026-02-22T18:31:29Z	home_depth1	36864	36KiB	/Users/renatosocodato/revision	du_d1
+2026-02-22T18:31:29Z	home_depth1	32768	32KiB	/Users/renatosocodato/Movies	du_d1
+2026-02-22T18:31:29Z	home_depth1	24576	24KiB	/Users/renatosocodato/.config	du_d1
+2026-02-22T18:31:29Z	home_depth1	16384	16KiB	/Users/renatosocodato/.ssh	du_d1
+2026-02-22T18:31:29Z	home_depth1	8192	8KiB	/Users/renatosocodato/gate_logs	du_d1
+2026-02-22T18:31:29Z	home_depth1	8192	8KiB	/Users/renatosocodato/.docker	du_d1
+2026-02-22T18:31:29Z	home_depth1	4096	4KiB	/Users/renatosocodato/targetome_3006	du_d1
+2026-02-22T18:31:29Z	home_depth1	4096	4KiB	/Users/renatosocodato/.ncbi	du_d1
+2026-02-22T18:31:29Z	home_depth1	4096	4KiB	/Users/renatosocodato/.conda	du_d1
+2026-02-22T18:31:29Z	home_depth1	0	0KiB	/Users/renatosocodato/data	du_d1
+2026-02-22T18:31:29Z	home_depth1	0	0KiB	/Users/renatosocodato/Public	du_d1
+2026-02-22T18:31:29Z	home_depth1	0	0KiB	/Users/renatosocodato/Pictures	du_d1
+2026-02-22T18:31:29Z	home_depth1	0	0KiB	/Users/renatosocodato/.tmp_r	du_d1
+2026-02-22T18:31:29Z	home_depth1	0	0KiB	/Users/renatosocodato/.mamba	du_d1
+2026-02-22T18:31:29Z	home_depth1	0	0KiB	/Users/renatosocodato/.claude-worktrees	du_d1
+2026-02-22T18:31:29Z	top200_any	894733414400	873763100KiB	/Users/renatosocodato	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	399826165760	390455240KiB	/Users/renatosocodato/PFn1 5xFAD	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	330098393088	322361712KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	259060256768	252988532KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	113551486976	110890124KiB	/Users/renatosocodato/Downloads	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	102875750400	100464600KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	93203234816	91018784KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	68286242816	66685784KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	65877196800	64333200KiB	/Users/renatosocodato/Downloads/ActinMicrotub	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	59956666368	58551432KiB	/Users/renatosocodato/Downloads/ActinMicrotub/male	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	58299736064	56933336KiB	/Users/renatosocodato/Library	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	56026136576	54713024KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	53720670208	52461592KiB	/Users/renatosocodato/Downloads/ActinMicrotub/male/test002.nd2	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	53386350592	52135108KiB	/Users/renatosocodato/.colima	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	53385781248	52134552KiB	/Users/renatosocodato/.colima/_lima	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	51645251584	50434816KiB	/Users/renatosocodato/.colima/_lima/_disks/colima/datadisk	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	51645251584	50434816KiB	/Users/renatosocodato/.colima/_lima/_disks/colima	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	51645251584	50434816KiB	/Users/renatosocodato/.colima/_lima/_disks	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	50256752640	49078860KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	46745223168	45649632KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	43403571200	42386300KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/PXD045058	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	41084649472	40121728KiB	/Users/renatosocodato/thermocausality_mtce	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	40021626880	39083620KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	40021626880	39083620KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	39352111104	38429796KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	39286059008	38365292KiB	/Users/renatosocodato/Desktop	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	37941825536	37052564KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/PXD045058/MAINstudy_searchresults_sampleannotations.zip	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	37717671936	36833664KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	36090081280	35244220KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	36019503104	35175296KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	35518406656	34685944KiB	/Users/renatosocodato/Downloads/~/Google Drive/My Drive/LINCS_CMap_2020_Beta/level5_beta_trt_cp_n720216x12328.gctx	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	35518406656	34685944KiB	/Users/renatosocodato/Downloads/~/Google Drive/My Drive/LINCS_CMap_2020_Beta	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	35518406656	34685944KiB	/Users/renatosocodato/Downloads/~/Google Drive/My Drive	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	35518406656	34685944KiB	/Users/renatosocodato/Downloads/~/Google Drive	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	35518406656	34685944KiB	/Users/renatosocodato/Downloads/~	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	35204300800	34379200KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	32329027584	31571316KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/ssread_temp	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	30992039936	30265664KiB	/Users/renatosocodato/cyto_kb	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	29736304640	29039360KiB	/Users/renatosocodato/cyto_kb/source_data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	29711728640	29015360KiB	/Users/renatosocodato/cyto_kb/source_data/raw	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	29273780224	28587676KiB	/Users/renatosocodato/cyto_kb/source_data/raw/src_e0366dc3	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	28352106496	27687604KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	26178048000	25564500KiB	/Users/renatosocodato/redox-secretome-axis	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	26112413696	25500404KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4_synthesis	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	26089766912	25478288KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/phase4_synthesis	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	25720074240	25117260KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/phase4_synthesis/external_data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	25720066048	25117252KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4_synthesis/external_data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	25711972352	25109348KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4_synthesis/external_data/proteomics_pdresults	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	25711972352	25109348KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/phase4_synthesis/external_data/proteomics_pdresults	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	23608348672	23055028KiB	/Users/renatosocodato/Library/Application Support	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	22718447616	22185984KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	22178668544	21658856KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	22158516224	21639176KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery/revision	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	19693838336	19232264KiB	/Users/renatosocodato/Library/Application Support/Claude	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	18344484864	17914536KiB	/Users/renatosocodato/Library/Application Support/Claude/vm_bundles/claudevm.bundle	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	18344484864	17914536KiB	/Users/renatosocodato/Library/Application Support/Claude/vm_bundles	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	15985737728	15611072KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	15904145408	15531392KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/GSE178317	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	15516778496	15153104KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	15509856256	15146344KiB	/Users/renatosocodato/redox-secretome-axis/outputs	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	15496339456	15133144KiB	/Users/renatosocodato/redox-secretome-axis/outputs/phase1_contrast-map_rr-vs-fadp	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	15401914368	15040932KiB	/Users/renatosocodato/redox-secretome-axis/outputs/phase1_contrast-map_rr-vs-fadp/de_sweep	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	14566776832	14225368KiB	/Users/renatosocodato/Library/Caches	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	14121545728	13790572KiB	/Users/renatosocodato/amanda sierra_colab	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	14061400064	13731836KiB	/Users/renatosocodato/amanda sierra_colab/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	14029115392	13700308KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/GSE178317_geneexpr_subset_SRR14828083_20M	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	12617035776	12321324KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery/revision/20260202_1300_phase1_discovery	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	12555264000	12261000KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery/revision/20260202_1300_phase1_discovery/mirrors	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	12531249152	12237548KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery/revision/20260202_1300_phase1_discovery/mirrors/repo_root_02	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	11525615616	11255484KiB	/Users/renatosocodato/RNAseq-redox-cytoskel	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10816499712	10562988KiB	/Users/renatosocodato/Library/CloudStorage	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10816491520	10562980KiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10737418240	10485760KiB	/Users/renatosocodato/Library/Application Support/Claude/vm_bundles/claudevm.bundle/rootfs.img	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10627813376	10378724KiB	/Users/renatosocodato/redox-secretome-axis/phase3_secretome-integration	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10473746432	10228268KiB	/Users/renatosocodato/thermocausality_mtce/phase22_thermodynamic_cost	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10455621632	10210568KiB	/Users/renatosocodato/thermocausality_mtce/phase22_thermodynamic_cost/omics_mirror	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10360901632	10118068KiB	/Users/renatosocodato/thermocausality_mtce/revision	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	10096951296	9860304KiB	/Users/renatosocodato/thermocausality_mtce/revision/20260202_1400_tierA_closure	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9541480448	9317852KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery/revision/release_bundles	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9508421632	9285568KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9379885056	9160044KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9365520384	9146016KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/GSE178317/sra	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9276735488	9059312KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9268887552	9051648KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9266786304	9049596KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/spatial	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9094946816	8881784KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4_synthesis/external_data/proteomics_pdresults/FvsM_ct_Young_glia.pdResult	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9094946816	8881784KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/phase4_synthesis/external_data/proteomics_pdresults/FvsM_ct_Young_glia.pdResult	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9007276032	8796168KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4_synthesis/external_data/proteomics_pdresults/cko_Vs_ct_females_young_new.pdResult	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	9007276032	8796168KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/phase4_synthesis/external_data/proteomics_pdresults/cko_Vs_ct_females_young_new.pdResult	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8529342464	8329436KiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8503828480	8304520KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/spatial/GSE233208	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8503828480	8304520KiB	/Users/renatosocodato/thermocausality_mtce/phase22_thermodynamic_cost/omics_mirror/spatial/GSE233208	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8503828480	8304520KiB	/Users/renatosocodato/thermocausality_mtce/phase22_thermodynamic_cost/omics_mirror/spatial	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8129290240	7938760KiB	/Users/renatosocodato/RNAseq-redox-cytoskel/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8124469248	7934052KiB	/Users/renatosocodato/RNAseq-redox-cytoskel/data/human	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8124436480	7934020KiB	/Users/renatosocodato/RNAseq-redox-cytoskel/data/human/ssread	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8097910784	7908116KiB	/Users/renatosocodato/amanda sierra_colab/data/atlas	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8065048576	7876024KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/consolidation_phase1+2+3+4	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8049786880	7861120KiB	/Users/renatosocodato/kb_microglia_nexus	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	8049745920	7861080KiB	/Users/renatosocodato/kb_microglia_nexus/releases	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7828750336	7645264KiB	/Users/renatosocodato/redox-secretome-axis/phase3_secretome-integration/.cache	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7828582400	7645100KiB	/Users/renatosocodato/redox-secretome-axis/phase3_secretome-integration/.cache/torch/hub/checkpoints	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7828582400	7645100KiB	/Users/renatosocodato/redox-secretome-axis/phase3_secretome-integration/.cache/torch/hub	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7828582400	7645100KiB	/Users/renatosocodato/redox-secretome-axis/phase3_secretome-integration/.cache/torch	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7828578304	7645096KiB	/Users/renatosocodato/redox-secretome-axis/phase3_secretome-integration/.cache/torch/hub/checkpoints/esm1b_t33_650M_UR50S.pt	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7802761216	7619884KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229/SRR14828093.Renatos-MacBook-Pro-2.local.9229.0003.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7802060800	7619200KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229/SRR14828093.Renatos-MacBook-Pro-2.local.9229.0002.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7801962496	7619104KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229/SRR14828093.Renatos-MacBook-Pro-2.local.9229.0005.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7801556992	7618708KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229/SRR14828093.Renatos-MacBook-Pro-2.local.9229.0001.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7801319424	7618476KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229/SRR14828093.Renatos-MacBook-Pro-2.local.9229.0004.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7735562240	7554260KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9229/SRR14828093.Renatos-MacBook-Pro-2.local.9229.0000.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7701151744	7520656KiB	/Users/renatosocodato/redox-secretome-axis/outputs/phase1_contrast-map_rr-vs-fadp/de_sweep/RR	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7700762624	7520276KiB	/Users/renatosocodato/redox-secretome-axis/outputs/phase1_contrast-map_rr-vs-fadp/de_sweep/FAD-P	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7609749504	7431396KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4_synthesis/external_data/proteomics_pdresults/cko_Vs_ct_males_young_new.pdResult	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7609749504	7431396KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/phase4_synthesis/external_data/proteomics_pdresults/cko_Vs_ct_males_young_new.pdResult	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7606919168	7428632KiB	/Users/renatosocodato/Library/Application Support/Claude/vm_bundles/claudevm.bundle/sessiondata.img	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7527673856	7351244KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/consolidation_phase1+2+3+4/.deprecated	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7336722432	7164768KiB	/Users/renatosocodato/amanda sierra_colab/data/atlas/Developing-Mouse-Vis-Cortex-10X-raw.h5ad	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7322329088	7150712KiB	/Users/renatosocodato/Downloads/ssREAD_AD human scRNAseq_crebral cortex	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7255797760	7085740KiB	/Users/renatosocodato/codex_session_logs	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7139745792	6972408KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/extracted_datasets/GSE84422_MSBB	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7139745792	6972408KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/extracted_datasets	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	7021010944	6856456KiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6990237696	6826404KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/ssread_temp/AD00803.rds	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6796369920	6637080KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/GSE178317_geneexpr_subset_SRR14828083_20M/SRR14828083_3.fastq	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6688735232	6531968KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/kb_ref_human_nac_20260208	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6681911296	6525304KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906/SRR14828091.Renatos-MacBook-Pro-2.local.8906.0003.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6681911296	6525304KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857/SRR14828091.Renatos-MacBook-Pro-2.local.99857.0003.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6681468928	6524872KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906/SRR14828091.Renatos-MacBook-Pro-2.local.8906.0005.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6681468928	6524872KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857/SRR14828091.Renatos-MacBook-Pro-2.local.99857.0005.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6681432064	6524836KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906/SRR14828091.Renatos-MacBook-Pro-2.local.8906.0002.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6681432064	6524836KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857/SRR14828091.Renatos-MacBook-Pro-2.local.99857.0002.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6680887296	6524304KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906/SRR14828091.Renatos-MacBook-Pro-2.local.8906.0004.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6680887296	6524304KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857/SRR14828091.Renatos-MacBook-Pro-2.local.99857.0004.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6678441984	6521916KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906/SRR14828091.Renatos-MacBook-Pro-2.local.8906.0001.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6678441984	6521916KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857/SRR14828091.Renatos-MacBook-Pro-2.local.99857.0001.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6664114176	6507924KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/kb_ref_human_nac_20260208/index.idx	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6617485312	6462388KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.8906/SRR14828091.Renatos-MacBook-Pro-2.local.8906.0000.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6617485312	6462388KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.99857/SRR14828091.Renatos-MacBook-Pro-2.local.99857.0000.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6570340352	6416348KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292/SRR14828094.Renatos-MacBook-Pro-2.local.9292.0003.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6569877504	6415896KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292/SRR14828094.Renatos-MacBook-Pro-2.local.9292.0005.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6569820160	6415840KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292/SRR14828094.Renatos-MacBook-Pro-2.local.9292.0002.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6569332736	6415364KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292/SRR14828094.Renatos-MacBook-Pro-2.local.9292.0004.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6565847040	6411960KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292/SRR14828094.Renatos-MacBook-Pro-2.local.9292.0001.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6559531008	6405792KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4.6_performance	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6506893312	6354388KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9292/SRR14828094.Renatos-MacBook-Pro-2.local.9292.0000.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6254379008	6107792KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/miga_microglia_eqtl	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6172549120	6027880KiB	/Users/renatosocodato/Downloads/ActinMicrotub/male/test003.nd2	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	6148833280	6004720KiB	/Users/renatosocodato/thermocausality_mtce/revision/20260202_1400_tierA_closure/downloads	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5963489280	5823720KiB	/Users/renatosocodato/amanda sierra_colab/data/devvis/DevVIS_multiome_snRNA_processed.h5ad	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5963489280	5823720KiB	/Users/renatosocodato/amanda sierra_colab/data/devvis	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5920530432	5781768KiB	/Users/renatosocodato/Downloads/ActinMicrotub/Female/test005.nd2	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5920530432	5781768KiB	/Users/renatosocodato/Downloads/ActinMicrotub/Female	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5834092544	5697356KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4.6_performance/external_data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5782781952	5647248KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/ssread_temp/AD00802.rds	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5322756096	5198004KiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5271994368	5148432KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/PXD045058/PILOTstudy_searchresults_sampleannotations.zip	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5130649600	5010400KiB	/Users/renatosocodato/.codex	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5031460864	4913536KiB	/Users/renatosocodato/codex_session_logs/session_20260202T044733Z.log	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5018402816	4900784KiB	/Users/renatosocodato/Desktop/CDC42_microglia_paper/phase2/consolidation_phase1+2+3+4/.deprecated/old_bundles	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	5015683072	4898128KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/GSE178317/fastq	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4905172992	4790208KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase4.6_performance/external_data/phase4_proteome_mirror	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4859781120	4745880KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/large_scrna	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4736823296	4625804KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163/SRR14828092.Renatos-MacBook-Pro-2.local.9163.0003.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4736499712	4625488KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163/SRR14828092.Renatos-MacBook-Pro-2.local.9163.0002.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4736479232	4625468KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163/SRR14828092.Renatos-MacBook-Pro-2.local.9163.0005.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4736163840	4625160KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163/SRR14828092.Renatos-MacBook-Pro-2.local.9163.0004.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4716937216	4606384KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163/SRR14828092.Renatos-MacBook-Pro-2.local.9163.0001.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4690841600	4580900KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/Gastrulation/gastrulation.h5ad	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4690841600	4580900KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/Gastrulation	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4689203200	4579300KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/fasterq.tmp.Renatos-MacBook-Pro-2.local.9163/SRR14828092.Renatos-MacBook-Pro-2.local.9163.0000.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4657332224	4548176KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4611006464	4502936KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/processed	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4606541824	4498576KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/geo_full_datasets	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4444438528	4340272KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/scRNA	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4438142976	4334124KiB	/Users/renatosocodato/Library/R/arm64/4.5/library	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4438142976	4334124KiB	/Users/renatosocodato/Library/R/arm64/4.5	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4438142976	4334124KiB	/Users/renatosocodato/Library/R/arm64	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4438142976	4334124KiB	/Users/renatosocodato/Library/R	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4315672576	4214524KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/phases/phase1_discovery/revision/20260202_1300_phase1_discovery/mirrors/repo_root_02/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4315672576	4214524KiB	/Users/renatosocodato/cdc42_2p_fvsm_velocities/data	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4306853888	4205912KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/spatial/GSE233208/GSE233208_5XFAD_seurat_processed_annotated.rds	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4306853888	4205912KiB	/Users/renatosocodato/thermocausality_mtce/phase22_thermodynamic_cost/omics_mirror/spatial/GSE233208/GSE233208_5XFAD_seurat_processed_annotated.rds	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4196933632	4098568KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/spatial/GSE233208/GSE233208_5XFAD_seurat_processed_annotated.rds.gz	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4196933632	4098568KiB	/Users/renatosocodato/thermocausality_mtce/phase22_thermodynamic_cost/omics_mirror/spatial/GSE233208/GSE233208_5XFAD_seurat_processed_annotated.rds.gz	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4138840064	4041836KiB	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/mibi	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4076371968	3980832KiB	/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/data/raw/GSE178317_geneexpr_subset_SRR14828083_20M/SRR14828083_2.fastq	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	4055343104	3960296KiB	/Users/renatosocodato/Library/Caches/Homebrew	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3993042944	3899456KiB	/Users/renatosocodato/Library/Caches/Homebrew/downloads	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3909091328	3817472KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902/SRR14828091.Renatos-MacBook-Pro-2.local.95902.0000.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3907719168	3816132KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/scRNA/allen_ctx_hpf_smartseq	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3845128192	3755008KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902/SRR14828091.Renatos-MacBook-Pro-2.local.95902.0002.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3836739584	3746816KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902/SRR14828091.Renatos-MacBook-Pro-2.local.95902.0001.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3800293376	3711224KiB	/Users/renatosocodato/thermocausality_mtce/revision/20260202_1400_tierA_closure/downloads/mibi	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3739222016	3651584KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902/SRR14828091.Renatos-MacBook-Pro-2.local.95902.0004.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3721396224	3634176KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902/SRR14828091.Renatos-MacBook-Pro-2.local.95902.0005.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3719282688	3632112KiB	/Users/renatosocodato/thermocausality_mtce/revision/20260202_1400_tierA_closure/unpacked	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3698081792	3611408KiB	/Users/renatosocodato/kb_microglia_nexus/releases/20260213_233034_20260213_sentineldimorph_canonical_guarded_r10_seed9_SentinelDimorphKB	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3666870272	3580928KiB	/Users/renatosocodato/PFn1 5xFAD/fasterq.tmp.Renatos-MacBook-Pro-2.local.95902/SRR14828091.Renatos-MacBook-Pro-2.local.95902.0003.0	du_ak_top200
+2026-02-22T18:31:29Z	top200_any	3585765376	3501724KiB	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/omics_mirror/scRNA/allen_ctx_hpf_smartseq/expression_matrix.hdf5	du_ak_top200

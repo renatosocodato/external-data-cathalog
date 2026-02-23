@@ -1,0 +1,4 @@
+timestamp_utc\tcheck\tstatus\tdetails
+2026-02-22T18:31:29Z	fasterq	ok	
+2026-02-22T18:31:29Z	docker	stopped_or_unavailable	NA
+2026-02-22T18:31:29Z	colima	stopped_or_unavailable	NA
