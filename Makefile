@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-.PHONY: help ci refresh-governance protect-main visibility-public visibility-private
+.PHONY: help ci refresh-governance protect-main visibility-public visibility-private set-topics
 
 PYTHON := python3
 
@@ -9,6 +9,7 @@ help:
 	@echo "  ci                   - run registry/governance integrity checks"
 	@echo "  refresh-governance   - regenerate handoff card + governance summary"
 	@echo "  protect-main         - configure strict branch protection on main"
+	@echo "  set-topics           - set repository topics for governance and reproducibility"
 	@echo "  visibility-public    - switch repository to public"
 	@echo "  visibility-private   - switch repository to private"
 
@@ -27,3 +28,6 @@ visibility-public:
 
 visibility-private:
 	@./scripts/set_repo_visibility.sh private
+
+set-topics:
+	@./scripts/set_repo_topics.sh

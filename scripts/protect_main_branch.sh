@@ -18,11 +18,7 @@ cat >/tmp/branch-protection-payload.json <<'JSON'
     "required_approving_review_count": 1,
     "dismiss_stale_reviews": true,
     "require_code_owner_reviews": false,
-    "require_last_push_approval": false,
-    "dismissal_restrictions": {
-      "users": [],
-      "teams": []
-    }
+    "require_last_push_approval": false
   },
   "restrictions": null,
   "required_linear_history": true,

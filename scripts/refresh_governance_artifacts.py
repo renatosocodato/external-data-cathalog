@@ -63,7 +63,7 @@ def main() -> None:
     local_rows = [row.get('source_path', '').strip() for row in rows if (row.get('public_repository_class') or '').strip().lower() == 'local-only']
 
     with out_md.open('w') as f:
-        f.write('# Provenance Handoff Card\n')
+        f.write('# provenance_handoff_card\n')
         f.write('Run ID: reclaim_run_2026-02-22\n')
         f.write('Generated: ') 
         from datetime import datetime
