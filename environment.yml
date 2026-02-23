@@ -1,0 +1,13 @@
+name: external-data-cathalog
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - r-base=4.3
+  - r-essentials
+  - pip:
+      - pandas>=2.0
+      - pyyaml>=6.0
+      - requests>=2.28

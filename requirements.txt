@@ -1,0 +1,4 @@
+# Optional Python dependencies for catalog/parsing/reproducibility scripts
+pandas>=2.0
+pyyaml>=6.0
+requests>=2.28

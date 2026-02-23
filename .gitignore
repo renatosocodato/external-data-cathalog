@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.DS_Store?
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.python-version
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.RDataTmp
+*.Rproj
+
+# Editors
+.vscode/
+.idea/
+
+# Logs and transient outputs
+*.log
