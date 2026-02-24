@@ -121,7 +121,7 @@ if [ "$SYNC_MODE" = "weekly" ]; then
     sync_failed=1
   fi
 
-  if git status --short --branch | grep -q .; then
+  if git status --short | grep -q .; then
     notify "INFO" "Weekly verification note: working tree is not clean."
   fi
 
