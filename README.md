@@ -53,6 +53,49 @@ The repository is intended to support transparent review, publication artifacts,
 3. Use handoff cards for project handovers and release packets.
 4. Keep this repo clean (`git status` should be clear between commits).
 
+## Auto-sync and branch hygiene
+
+- `scripts/sync.sh`  
+  - Fast-forwards from remote `main` when behind.
+  - Pushes local `main` when ahead and safe.
+  - Alerts immediately on non-fast-forward divergence for manual action.
+
+### Daily sync
+
+Enable background sync once daily:
+
+```bash
+bash ./scripts/install_repo_auto_sync.sh
+```
+
+Default: **06:00 local time**.
+Optional override:
+
+```bash
+EXT_SYNC_HOUR=6 EXT_SYNC_MINUTE=0 bash ./scripts/install_repo_auto_sync.sh
+```
+
+### Weekly verification
+
+Enable weekly integrity verification:
+
+```bash
+bash ./scripts/install_repo_auto_sync_weekly.sh
+```
+
+Default: **Friday (weekday 5) at 22:00 local time**.
+Optional override:
+
+```bash
+EXT_WEEKLY_SYNC_WEEKDAY=5 EXT_WEEKLY_SYNC_HOUR=22 EXT_WEEKLY_SYNC_MINUTE=0 bash ./scripts/install_repo_auto_sync_weekly.sh
+```
+
+Disable scheduled jobs:
+
+```bash
+bash ./scripts/uninstall_repo_auto_sync.sh
+```
+
 ## Quick start
 
 ```bash
@@ -75,4 +118,3 @@ conda env create -f environment.yml
 ## License and citation policy
 
 See the catalog and manifest files for dataset-level licensing, restrictions, and citation requirements.
-
