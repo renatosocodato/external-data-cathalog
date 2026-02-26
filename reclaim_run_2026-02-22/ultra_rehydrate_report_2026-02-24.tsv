@@ -1,0 +1,18 @@
+metric	value
+candidate_jsonl	294
+paths_discovered	3027
+payload_paths	783
+written_payload_files	0
+payload_overwrote_placeholder	0
+written_placeholders	257
+skipped_existing_nonplaceholder	783
+path_collisions	196
+project_files[/Users/renatosocodato/redox-secretome-axis]	190
+project_dirs[/Users/renatosocodato/redox-secretome-axis]	48
+project_size_bytes[/Users/renatosocodato/redox-secretome-axis]	4920059
+project_files[/Users/renatosocodato/cyto_kb]	425
+project_dirs[/Users/renatosocodato/cyto_kb]	127
+project_size_bytes[/Users/renatosocodato/cyto_kb]	7697548
+project_files[/Users/renatosocodato/PFn1 5xFAD]	28
+project_dirs[/Users/renatosocodato/PFn1 5xFAD]	35
+project_size_bytes[/Users/renatosocodato/PFn1 5xFAD]	50590

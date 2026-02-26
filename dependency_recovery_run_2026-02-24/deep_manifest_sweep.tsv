@@ -1,0 +1,73 @@
+folder	manifests	status
+/Users/renatosocodato/.claude/plugins/marketplaces/claude-scientific-writer	pyproject.toml	processed
+/Users/renatosocodato/Desktop/CDC42_microglia_paper	renv.lock;requirements.txt	processed
+/Users/renatosocodato/Desktop/CDC42_microglia_paper_RECOVERY_WORK/repo_from_bundle	renv.lock;requirements.txt	processed
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/maldi2alz/MALDI2Alz	environment.yml	processed
+/Users/renatosocodato/cdc42_2p_fvsm_velocities	renv.lock;requirements.txt	processed
+/Users/renatosocodato/cyto_kb	requirements.txt	processed
+/Users/renatosocodato/external data_cathalog	environment.yml;requirements.txt	processed
+/Users/renatosocodato/thermocausality_mtce	environment.yml;requirements.txt	processed
+/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz	environment.yml	processed
+/Users/renatosocodato/.claude/plugins/cache/claude-scientific-writer/claude-scientific-writer/2ae9407efbb2	pyproject.toml	unprocessed
+/Users/renatosocodato/.cmdstan/cmdstan-2.38.0/stan/lib/stan_math/lib/benchmark_1.5.1/bindings/python	requirements.txt	unprocessed
+/Users/renatosocodato/.codex/skills/mcp-builder/assets/python_server_template	pyproject.toml	unprocessed
+/Users/renatosocodato/.local/share/cursor-agent/versions/2026.01.09-231024f	package.json	unprocessed
+/Users/renatosocodato/.npm/_npx/a3241bba59c344f5	package.json	unprocessed
+/Users/renatosocodato/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/df4adb73-567c-48fd-a48b-405be8fd2f67/9d83903f-4b6c-4ea2-9c89-0f8e035e2c44/skills/mcp-builder/scripts	requirements.txt	unprocessed
+/Users/renatosocodato/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/df4adb73-567c-48fd-a48b-405be8fd2f67/9d83903f-4b6c-4ea2-9c89-0f8e035e2c44/skills/slack-gif-creator	requirements.txt	unprocessed
+/Users/renatosocodato/Library/Application Support/r-reticulate/pyenv/plugins/python-build/scripts	requirements.txt	unprocessed
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel/audits/.venv_synapseclient/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/spatial_integration_archive/code/MALDI2Alz/pyImagingMSpec	requirements.txt	unprocessed
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/maldi2alz/MALDI2Alz/pyImagingMSpec	requirements.txt	unprocessed
+/Users/renatosocodato/Library/Mobile Documents/.Trash/bundles_github	renv.lock;requirements.txt	unprocessed
+/Users/renatosocodato/Library/Python/3.14/lib/python/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/Library/Python/3.9/lib/python/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/code/MALDI2Alz/pyImagingMSpec	requirements.txt	unprocessed
+/Users/renatosocodato/RNAseq-redox-cytoskel/audits/.venv_synapseclient/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/amanda sierra_colab/.venv_run0040/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/cellbio-venv/lib/python3.14/site-packages/datashader/examples	environment.yml	unprocessed
+/Users/renatosocodato/cellbio-venv/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/cellbio-venv/lib/python3.14/site-packages/plotly/labextension	package.json	unprocessed
+/Users/renatosocodato/cellbio-venv/share/jupyter/labextensions/jupyterlab-plotly	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/galata/@jupyterlab/galata-extension	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/staging	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/static	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/extension	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/incompat	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/interop/consumer	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/interop/provider	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/interop/token	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/mimeextension	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/package	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/service-manager-extension	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/test-hyphens	package.json;pyproject.toml	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/test-hyphens-underscore	package.json;pyproject.toml	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/jupyterlab/tests/mock_packages/test_no_hyphens	package.json;pyproject.toml	unprocessed
+/Users/renatosocodato/cellbio_env/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/cellbio_env/share/jupyter/lab/static	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/share/jupyter/labextensions/@jupyter-notebook/lab-extension	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager	package.json	unprocessed
+/Users/renatosocodato/cellbio_env/share/jupyter/labextensions/jupyterlab_pygments	package.json	unprocessed
+/Users/renatosocodato/manuscripts/2026_cell_systems_targetome_suite/env	environment.yml	unprocessed
+/Users/renatosocodato/manuscripts/2026_cell_systems_targetome_suite/release/github_bundle/env	environment.yml	unprocessed
+/Users/renatosocodato/manuscripts/2026_cell_systems_targetome_suite/release/zenodo_bundle/env	environment.yml	unprocessed
+/Users/renatosocodato/manuscripts/2026_trends_open_constraint_ledger_perspective/env	environment.yml	unprocessed
+/Users/renatosocodato/manuscripts/2026_trends_open_constraint_ledger_perspective/release/github_bundle/env	environment.yml	unprocessed
+/Users/renatosocodato/manuscripts/2026_trends_open_constraint_ledger_perspective/release/zenodo_bundle/env	environment.yml	unprocessed
+/Users/renatosocodato/phospho_cdc42_fxm/environment	requirements.txt	unprocessed
+/Users/renatosocodato/phospho_cdc42_fxm/environment/modeling_venv/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/research/galactic_council	requirements.txt	unprocessed
+/Users/renatosocodato/targetome_paper/.venv_synapse/lib/python3.12/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data	environment.yml;requirements.txt	unprocessed
+/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_pdc/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_pdc/lib/python3.14/site-packages/rdkit/Contrib/FreeWilson	requirements.txt	unprocessed
+/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_preliminary_data/lib/python3.14/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/targetome_paper/FCT_grant_2026_Ren/preliminary_data/.venv_preliminary_data/lib/python3.14/site-packages/rdkit/Contrib/FreeWilson	requirements.txt	unprocessed
+/Users/renatosocodato/targetome_paper/scripts_archive	requirements.txt	unprocessed
+/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz/pyImagingMSpec	requirements.txt	unprocessed
+/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/etc/conda/test-files/rpds-py/1/tests	requirements.txt	unprocessed
+/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib/python3.12/etc/conda/test-files/referencing/1/suite	pyproject.toml	unprocessed
+/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib/python3.12/share/jupyter/labextensions/jupyterlab-plotly	package.json	unprocessed
+/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib/python3.12/site-packages/pandas	pyproject.toml	unprocessed
+/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/lib/python3.12/site-packages/plotly/labextension	package.json	unprocessed
+/Users/renatosocodato/tools/cellranger-10.0.0/external/anaconda/share/hwloc/hwloc-ps.www	package.json	unprocessed

@@ -1,0 +1,4 @@
+timestamp	path	action	status	note
+2026-02-24T10:11:44Z	/Users/renatosocodato/RNAseq-redox-cytoskel/paper2_therapeutic/data/human/ssread	replace_symlink_with_copy	converted	source=/Users/renatosocodato/RNAseq-redox-cytoskel/data/human/ssread
+2026-02-24T10:11:44Z	/Users/renatosocodato/RNAseq-redox-cytoskel/paper1_mechanism/legacy/data/electro	replace_broken_symlink_with_placeholder_dir	converted	missing_source=/Users/renatosocodato/RNAseq-redox-cytoskel/paper1_mechanism/data/electro
+2026-02-24T10:11:44Z	/Users/renatosocodato/RNAseq-redox-cytoskel/paper1_mechanism/legacy/data/nor	replace_broken_symlink_with_placeholder_dir	converted	missing_source=/Users/renatosocodato/RNAseq-redox-cytoskel/paper1_mechanism/data/nor

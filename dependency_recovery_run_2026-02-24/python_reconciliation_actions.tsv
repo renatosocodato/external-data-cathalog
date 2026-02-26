@@ -1,0 +1,520 @@
+timestamp_utc	root	action	status	detail
+2026-02-24T11:59:58.179592Z	/Users/renatosocodato/.claude/plugins/marketplaces/claude-scientific-writer	recheck	all_satisfied	
+2026-02-24T11:59:58.493842Z	/Users/renatosocodato/Desktop/CDC42_microglia_paper	recheck	all_satisfied	
+2026-02-24T11:59:58.701971Z	/Users/renatosocodato/Desktop/CDC42_microglia_paper_RECOVERY_WORK/repo_from_bundle	recheck	all_satisfied	
+2026-02-24T11:59:58.904298Z	/Users/renatosocodato/cdc42_2p_fvsm_velocities	recheck	all_satisfied	
+2026-02-24T11:59:59.076295Z	/Users/renatosocodato/cyto_kb	recheck	all_satisfied	
+2026-02-24T11:59:59.250382Z	/Users/renatosocodato/external data_cathalog	recheck	all_satisfied	
+2026-02-24T12:00:00.784235Z	/Users/renatosocodato/thermocausality_mtce	install_retry:numpy>=1.24	ok	"Collecting numpy>=1.24
+  Using cached numpy-2.4.2-cp314-cp314-macosx_14_0_arm64.whl.metadata (6.6 kB)
+Using cached numpy-2.4.2-cp314-cp314-macosx_14_0_arm64.whl (5.2 MB)
+Installing collected packages: numpy
+Successfully installed numpy-2.4.2
+"
+2026-02-24T12:00:03.355434Z	/Users/renatosocodato/thermocausality_mtce	install_retry:scipy>=1.11	ok	"Collecting scipy>=1.11
+  Using cached scipy-1.17.1-cp314-cp314-macosx_14_0_arm64.whl.metadata (62 kB)
+Requirement already satisfied: numpy<2.7,>=1.26.4 in ./.venv/lib/python3.14/site-packages (from scipy>=1.11) (2.4.2)
+Using cached scipy-1.17.1-cp314-cp314-macosx_14_0_arm64.whl (20.3 MB)
+Installing collected packages: scipy
+Successfully installed scipy-1.17.1
+"
+2026-02-24T12:00:06.224545Z	/Users/renatosocodato/thermocausality_mtce	install_retry:pandas>=2.0	ok	"Collecting pandas>=2.0
+  Using cached pandas-3.0.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (79 kB)
+Requirement already satisfied: numpy>=2.3.3 in ./.venv/lib/python3.14/site-packages (from pandas>=2.0) (2.4.2)
+Collecting python-dateutil>=2.8.2 (from pandas>=2.0)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas>=2.0)
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Using cached pandas-3.0.1-cp314-cp314-macosx_11_0_arm64.whl (9.9 MB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, python-dateutil, pandas
+
+Successfully installed pandas-3.0.1 python-dateutil-2.9.0.post0 six-1.17.0
+"
+2026-02-24T12:00:10.602560Z	/Users/renatosocodato/thermocausality_mtce	install_retry:jax>=0.4.0	ok	"Collecting jax>=0.4.0
+  Using cached jax-0.9.0.1-py3-none-any.whl.metadata (13 kB)
+Collecting jaxlib<=0.9.0.1,>=0.9.0.1 (from jax>=0.4.0)
+  Using cached jaxlib-0.9.0.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (1.3 kB)
+Collecting ml_dtypes>=0.5.0 (from jax>=0.4.0)
+  Downloading ml_dtypes-0.5.4-cp314-cp314-macosx_10_13_universal2.whl.metadata (8.9 kB)
+Requirement already satisfied: numpy>=2.0 in ./.venv/lib/python3.14/site-packages (from jax>=0.4.0) (2.4.2)
+Collecting opt_einsum (from jax>=0.4.0)
+  Using cached opt_einsum-3.4.0-py3-none-any.whl.metadata (6.3 kB)
+Requirement already satisfied: scipy>=1.13 in ./.venv/lib/python3.14/site-packages (from jax>=0.4.0) (1.17.1)
+Downloading jax-0.9.0.1-py3-none-any.whl (3.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.0/3.0 MB 15.2 MB/s  0:00:00
+Downloading jaxlib-0.9.0.1-cp314-cp314-macosx_11_0_arm64.whl (56.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 56.1/56.1 MB 29.0 MB/s  0:00:01
+Downloading ml_dtypes-0.5.4-cp314-cp314-macosx_10_13_universal2.whl (673 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 673.8/673.8 kB 13.8 MB/s  0:00:00
+Using cached opt_einsum-3.4.0-py3-none-any.whl (71 kB)
+Installing collected packages: opt_einsum, ml_dtypes, jaxlib, jax
+
+Successfully installed jax-0.9.0.1 jaxlib-0.9.0.1 ml_dtypes-0.5.4 opt_einsum-3.4.0
+"
+2026-02-24T12:00:10.806324Z	/Users/renatosocodato/thermocausality_mtce	install_retry:jaxlib>=0.4.0	ok	"Requirement already satisfied: jaxlib>=0.4.0 in ./.venv/lib/python3.14/site-packages (0.9.0.1)
+Requirement already satisfied: scipy>=1.13 in ./.venv/lib/python3.14/site-packages (from jaxlib>=0.4.0) (1.17.1)
+Requirement already satisfied: numpy>=2.0 in ./.venv/lib/python3.14/site-packages (from jaxlib>=0.4.0) (2.4.2)
+Requirement already satisfied: ml_dtypes>=0.5.0 in ./.venv/lib/python3.14/site-packages (from jaxlib>=0.4.0) (0.5.4)
+"
+2026-02-24T12:00:25.201904Z	/Users/renatosocodato/thermocausality_mtce	install_retry:torch>=2.0	ok	"ages (from torch>=2.0) (82.0.0)
+Collecting sympy>=1.13.3 (from torch>=2.0)
+  Using cached sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Collecting networkx>=2.5.1 (from torch>=2.0)
+  Using cached networkx-3.6.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting jinja2 (from torch>=2.0)
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting fsspec>=0.8.5 (from torch>=2.0)
+  Using cached fsspec-2026.2.0-py3-none-any.whl.metadata (10 kB)
+Collecting mpmath<1.4,>=1.1.0 (from sympy>=1.13.3->torch>=2.0)
+  Using cached mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->torch>=2.0)
+  Using cached markupsafe-3.0.3-cp314-cp314-macosx_11_0_arm64.whl.metadata (2.7 kB)
+Downloading torch-2.10.0-cp314-cp314-macosx_14_0_arm64.whl (79.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 79.5/79.5 MB 20.1 MB/s  0:00:03
+Using cached fsspec-2026.2.0-py3-none-any.whl (202 kB)
+Using cached networkx-3.6.1-py3-none-any.whl (2.1 MB)
+Using cached sympy-1.14.0-py3-none-any.whl (6.3 MB)
+Using cached mpmath-1.3.0-py3-none-any.whl (536 kB)
+Using cached typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Using cached filelock-3.24.3-py3-none-any.whl (24 kB)
+Using cached jinja2-3.1.6-py3-none-any.whl (134 kB)
+Using cached markupsafe-3.0.3-cp314-cp314-macosx_11_0_arm64.whl (12 kB)
+Installing collected packages: mpmath, typing-extensions, sympy, networkx, MarkupSafe, fsspec, filelock, jinja2, torch
+
+Successfully installed MarkupSafe-3.0.3 filelock-3.24.3 fsspec-2026.2.0 jinja2-3.1.6 mpmath-1.3.0 networkx-3.6.1 sympy-1.14.0 torch-2.10.0 typing-extensions-4.15.0
+"
+2026-02-24T12:00:26.548388Z	/Users/renatosocodato/thermocausality_mtce	install_retry:torchvision	ok	"m torchvision)
+  Using cached pillow-12.1.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (8.8 kB)
+Requirement already satisfied: filelock in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (3.24.3)
+Requirement already satisfied: typing-extensions>=4.10.0 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (4.15.0)
+Requirement already satisfied: setuptools in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (82.0.0)
+Requirement already satisfied: sympy>=1.13.3 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (3.6.1)
+Requirement already satisfied: jinja2 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (3.1.6)
+Requirement already satisfied: fsspec>=0.8.5 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchvision) (2026.2.0)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in ./.venv/lib/python3.14/site-packages (from sympy>=1.13.3->torch==2.10.0->torchvision) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in ./.venv/lib/python3.14/site-packages (from jinja2->torch==2.10.0->torchvision) (3.0.3)
+Downloading torchvision-0.25.0-cp314-cp314-macosx_11_0_arm64.whl (1.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.9/1.9 MB 6.8 MB/s  0:00:00
+Using cached pillow-12.1.1-cp314-cp314-macosx_11_0_arm64.whl (4.7 MB)
+Installing collected packages: pillow, torchvision
+
+Successfully installed pillow-12.1.1 torchvision-0.25.0
+"
+2026-02-24T12:00:27.015639Z	/Users/renatosocodato/thermocausality_mtce	install_retry:torchaudio	ok	" Using cached torchaudio-2.10.0-cp314-cp314-macosx_11_0_arm64.whl.metadata (6.7 kB)
+Requirement already satisfied: torch==2.10.0 in ./.venv/lib/python3.14/site-packages (from torchaudio) (2.10.0)
+Requirement already satisfied: filelock in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (3.24.3)
+Requirement already satisfied: typing-extensions>=4.10.0 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (4.15.0)
+Requirement already satisfied: setuptools in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (82.0.0)
+Requirement already satisfied: sympy>=1.13.3 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (3.6.1)
+Requirement already satisfied: jinja2 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (3.1.6)
+Requirement already satisfied: fsspec>=0.8.5 in ./.venv/lib/python3.14/site-packages (from torch==2.10.0->torchaudio) (2026.2.0)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in ./.venv/lib/python3.14/site-packages (from sympy>=1.13.3->torch==2.10.0->torchaudio) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in ./.venv/lib/python3.14/site-packages (from jinja2->torch==2.10.0->torchaudio) (3.0.3)
+Downloading torchaudio-2.10.0-cp314-cp314-macosx_11_0_arm64.whl (739 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 739.5/739.5 kB 22.4 MB/s  0:00:00
+Installing collected packages: torchaudio
+Successfully installed torchaudio-2.10.0
+"
+2026-02-24T12:00:28.612617Z	/Users/renatosocodato/thermocausality_mtce	install_retry:scikit-learn>=1.3	ok	"Collecting scikit-learn>=1.3
+  Using cached scikit_learn-1.8.0-cp314-cp314-macosx_12_0_arm64.whl.metadata (11 kB)
+Requirement already satisfied: numpy>=1.24.1 in ./.venv/lib/python3.14/site-packages (from scikit-learn>=1.3) (2.4.2)
+Requirement already satisfied: scipy>=1.10.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn>=1.3) (1.17.1)
+Collecting joblib>=1.3.0 (from scikit-learn>=1.3)
+  Using cached joblib-1.5.3-py3-none-any.whl.metadata (5.5 kB)
+Collecting threadpoolctl>=3.2.0 (from scikit-learn>=1.3)
+  Using cached threadpoolctl-3.6.0-py3-none-any.whl.metadata (13 kB)
+Using cached scikit_learn-1.8.0-cp314-cp314-macosx_12_0_arm64.whl (8.1 MB)
+Using cached joblib-1.5.3-py3-none-any.whl (309 kB)
+Using cached threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Installing collected packages: threadpoolctl, joblib, scikit-learn
+
+Successfully installed joblib-1.5.3 scikit-learn-1.8.0 threadpoolctl-3.6.0
+"
+2026-02-24T12:00:30.460451Z	/Users/renatosocodato/thermocausality_mtce	install_retry:matplotlib>=3.7	ok	">=4.22.0 (from matplotlib>=3.7)
+  Using cached fonttools-4.61.1-cp314-cp314-macosx_10_15_universal2.whl.metadata (114 kB)
+Collecting kiwisolver>=1.3.1 (from matplotlib>=3.7)
+  Using cached kiwisolver-1.4.9-cp314-cp314-macosx_11_0_arm64.whl.metadata (6.3 kB)
+Requirement already satisfied: numpy>=1.23 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.7) (2.4.2)
+Requirement already satisfied: packaging>=20.0 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.7) (26.0)
+Requirement already satisfied: pillow>=8 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.7) (12.1.1)
+Collecting pyparsing>=3 (from matplotlib>=3.7)
+  Using cached pyparsing-3.3.2-py3-none-any.whl.metadata (5.8 kB)
+Requirement already satisfied: python-dateutil>=2.7 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.7) (2.9.0.post0)
+Requirement already satisfied: six>=1.5 in ./.venv/lib/python3.14/site-packages (from python-dateutil>=2.7->matplotlib>=3.7) (1.17.0)
+Using cached matplotlib-3.10.8-cp314-cp314-macosx_11_0_arm64.whl (8.2 MB)
+Using cached contourpy-1.3.3-cp314-cp314-macosx_11_0_arm64.whl (273 kB)
+Using cached cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Using cached fonttools-4.61.1-cp314-cp314-macosx_10_15_universal2.whl (2.8 MB)
+Using cached kiwisolver-1.4.9-cp314-cp314-macosx_11_0_arm64.whl (64 kB)
+Using cached pyparsing-3.3.2-py3-none-any.whl (122 kB)
+Installing collected packages: pyparsing, kiwisolver, fonttools, cycler, contourpy, matplotlib
+
+Successfully installed contourpy-1.3.3 cycler-0.12.1 fonttools-4.61.1 kiwisolver-1.4.9 matplotlib-3.10.8 pyparsing-3.3.2
+"
+2026-02-24T12:00:30.920942Z	/Users/renatosocodato/thermocausality_mtce	install_retry:seaborn>=0.12	ok	"python3.14/site-packages (from seaborn>=0.12) (3.0.1)
+Requirement already satisfied: matplotlib!=3.6.1,>=3.4 in ./.venv/lib/python3.14/site-packages (from seaborn>=0.12) (3.10.8)
+Requirement already satisfied: contourpy>=1.0.1 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (1.3.3)
+Requirement already satisfied: cycler>=0.10 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (4.61.1)
+Requirement already satisfied: kiwisolver>=1.3.1 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (1.4.9)
+Requirement already satisfied: packaging>=20.0 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (26.0)
+Requirement already satisfied: pillow>=8 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (12.1.1)
+Requirement already satisfied: pyparsing>=3 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (3.3.2)
+Requirement already satisfied: python-dateutil>=2.7 in ./.venv/lib/python3.14/site-packages (from matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (2.9.0.post0)
+Requirement already satisfied: six>=1.5 in ./.venv/lib/python3.14/site-packages (from python-dateutil>=2.7->matplotlib!=3.6.1,>=3.4->seaborn>=0.12) (1.17.0)
+Downloading seaborn-0.13.2-py3-none-any.whl (294 kB)
+Installing collected packages: seaborn
+Successfully installed seaborn-0.13.2
+"
+2026-02-24T12:00:32.913375Z	/Users/renatosocodato/thermocausality_mtce	install_retry:plotly>=5.14	ok	"Collecting plotly>=5.14
+  Using cached plotly-6.5.2-py3-none-any.whl.metadata (8.5 kB)
+Collecting narwhals>=1.15.1 (from plotly>=5.14)
+  Downloading narwhals-2.17.0-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: packaging in ./.venv/lib/python3.14/site-packages (from plotly>=5.14) (26.0)
+Downloading plotly-6.5.2-py3-none-any.whl (9.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.9/9.9 MB 53.3 MB/s  0:00:00
+Downloading narwhals-2.17.0-py3-none-any.whl (444 kB)
+Installing collected packages: narwhals, plotly
+
+Successfully installed narwhals-2.17.0 plotly-6.5.2
+"
+2026-02-24T12:00:33.130284Z	/Users/renatosocodato/thermocausality_mtce	install_retry:sympy>=1.12	ok	"Requirement already satisfied: sympy>=1.12 in ./.venv/lib/python3.14/site-packages (1.14.0)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in ./.venv/lib/python3.14/site-packages (from sympy>=1.12) (1.3.0)
+"
+2026-02-24T12:00:33.527608Z	/Users/renatosocodato/thermocausality_mtce	install_retry:h5py	ok	"Collecting h5py
+  Using cached h5py-3.15.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (3.0 kB)
+Requirement already satisfied: numpy>=1.21.2 in ./.venv/lib/python3.14/site-packages (from h5py) (2.4.2)
+Using cached h5py-3.15.1-cp314-cp314-macosx_11_0_arm64.whl (2.8 MB)
+Installing collected packages: h5py
+Successfully installed h5py-3.15.1
+"
+2026-02-24T12:00:35.025920Z	/Users/renatosocodato/thermocausality_mtce	install_retry:netCDF4	ok	"Collecting netCDF4
+  Using cached netcdf4-1.7.4-cp311-abi3-macosx_14_0_arm64.whl.metadata (2.1 kB)
+Collecting cftime (from netCDF4)
+  Downloading cftime-1.6.5-cp314-cp314-macosx_11_0_arm64.whl.metadata (8.7 kB)
+Collecting certifi (from netCDF4)
+  Using cached certifi-2026.1.4-py3-none-any.whl.metadata (2.5 kB)
+Requirement already satisfied: numpy>=1.21.2 in ./.venv/lib/python3.14/site-packages (from netCDF4) (2.4.2)
+Downloading netcdf4-1.7.4-cp311-abi3-macosx_14_0_arm64.whl (22.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 22.8/22.8 MB 29.0 MB/s  0:00:00
+Using cached certifi-2026.1.4-py3-none-any.whl (152 kB)
+Downloading cftime-1.6.5-cp314-cp314-macosx_11_0_arm64.whl (485 kB)
+Installing collected packages: cftime, certifi, netCDF4
+
+Successfully installed certifi-2026.1.4 cftime-1.6.5 netCDF4-1.7.4
+"
+2026-02-24T12:00:35.990027Z	/Users/renatosocodato/thermocausality_mtce	install_retry:xarray	ok	"Collecting xarray
+  Using cached xarray-2026.2.0-py3-none-any.whl.metadata (12 kB)
+Requirement already satisfied: numpy>=1.26 in ./.venv/lib/python3.14/site-packages (from xarray) (2.4.2)
+Requirement already satisfied: packaging>=24.1 in ./.venv/lib/python3.14/site-packages (from xarray) (26.0)
+Requirement already satisfied: pandas>=2.2 in ./.venv/lib/python3.14/site-packages (from xarray) (3.0.1)
+Requirement already satisfied: python-dateutil>=2.8.2 in ./.venv/lib/python3.14/site-packages (from pandas>=2.2->xarray) (2.9.0.post0)
+Requirement already satisfied: six>=1.5 in ./.venv/lib/python3.14/site-packages (from python-dateutil>=2.8.2->pandas>=2.2->xarray) (1.17.0)
+Using cached xarray-2026.2.0-py3-none-any.whl (1.4 MB)
+Installing collected packages: xarray
+Successfully installed xarray-2026.2.0
+"
+2026-02-24T12:00:37.157242Z	/Users/renatosocodato/thermocausality_mtce	install_retry:sqlalchemy	ok	"Collecting sqlalchemy
+  Using cached sqlalchemy-2.0.46-cp314-cp314-macosx_11_0_arm64.whl.metadata (9.5 kB)
+Requirement already satisfied: typing-extensions>=4.6.0 in ./.venv/lib/python3.14/site-packages (from sqlalchemy) (4.15.0)
+Downloading sqlalchemy-2.0.46-cp314-cp314-macosx_11_0_arm64.whl (2.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 19.8 MB/s  0:00:00
+Installing collected packages: sqlalchemy
+Successfully installed sqlalchemy-2.0.46
+"
+2026-02-24T12:00:38.031998Z	/Users/renatosocodato/thermocausality_mtce	install_retry:pytest	ok	"Collecting pytest
+  Using cached pytest-9.0.2-py3-none-any.whl.metadata (7.6 kB)
+Collecting iniconfig>=1.0.1 (from pytest)
+  Using cached iniconfig-2.3.0-py3-none-any.whl.metadata (2.5 kB)
+Requirement already satisfied: packaging>=22 in ./.venv/lib/python3.14/site-packages (from pytest) (26.0)
+Collecting pluggy<2,>=1.5 (from pytest)
+  Using cached pluggy-1.6.0-py3-none-any.whl.metadata (4.8 kB)
+Collecting pygments>=2.7.2 (from pytest)
+  Using cached pygments-2.19.2-py3-none-any.whl.metadata (2.5 kB)
+Using cached pytest-9.0.2-py3-none-any.whl (374 kB)
+Using cached pluggy-1.6.0-py3-none-any.whl (20 kB)
+Using cached iniconfig-2.3.0-py3-none-any.whl (7.5 kB)
+Using cached pygments-2.19.2-py3-none-any.whl (1.2 MB)
+Installing collected packages: pygments, pluggy, iniconfig, pytest
+
+Successfully installed iniconfig-2.3.0 pluggy-1.6.0 pygments-2.19.2 pytest-9.0.2
+"
+2026-02-24T12:00:38.840479Z	/Users/renatosocodato/thermocausality_mtce	install_retry:black	ok	"Collecting black
+  Using cached black-26.1.0-cp314-cp314-macosx_11_0_arm64.whl.metadata (88 kB)
+Collecting click>=8.0.0 (from black)
+  Using cached click-8.3.1-py3-none-any.whl.metadata (2.6 kB)
+Collecting mypy-extensions>=0.4.3 (from black)
+  Downloading mypy_extensions-1.1.0-py3-none-any.whl.metadata (1.1 kB)
+Requirement already satisfied: packaging>=22.0 in ./.venv/lib/python3.14/site-packages (from black) (26.0)
+Collecting pathspec>=1.0.0 (from black)
+  Downloading pathspec-1.0.4-py3-none-any.whl.metadata (13 kB)
+Collecting platformdirs>=2 (from black)
+  Using cached platformdirs-4.9.2-py3-none-any.whl.metadata (4.7 kB)
+Collecting pytokens>=0.3.0 (from black)
+  Downloading pytokens-0.4.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (3.8 kB)
+Downloading black-26.1.0-cp314-cp314-macosx_11_0_arm64.whl (1.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 27.8 MB/s  0:00:00
+Using cached click-8.3.1-py3-none-any.whl (108 kB)
+Downloading mypy_extensions-1.1.0-py3-none-any.whl (5.0 kB)
+Downloading pathspec-1.0.4-py3-none-any.whl (55 kB)
+Using cached platformdirs-4.9.2-py3-none-any.whl (21 kB)
+Downloading pytokens-0.4.1-cp314-cp314-macosx_11_0_arm64.whl (160 kB)
+Installing collected packages: pytokens, platformdirs, pathspec, mypy-extensions, click, black
+
+Successfully installed black-26.1.0 click-8.3.1 mypy-extensions-1.1.0 pathspec-1.0.4 platformdirs-4.9.2 pytokens-0.4.1
+"
+2026-02-24T12:00:39.436263Z	/Users/renatosocodato/thermocausality_mtce	install_retry:flake8	ok	"Collecting flake8
+  Using cached flake8-7.3.0-py2.py3-none-any.whl.metadata (3.8 kB)
+Collecting mccabe<0.8.0,>=0.7.0 (from flake8)
+  Downloading mccabe-0.7.0-py2.py3-none-any.whl.metadata (5.0 kB)
+Collecting pycodestyle<2.15.0,>=2.14.0 (from flake8)
+  Downloading pycodestyle-2.14.0-py2.py3-none-any.whl.metadata (4.5 kB)
+Collecting pyflakes<3.5.0,>=3.4.0 (from flake8)
+  Downloading pyflakes-3.4.0-py2.py3-none-any.whl.metadata (3.5 kB)
+Downloading flake8-7.3.0-py2.py3-none-any.whl (57 kB)
+Downloading mccabe-0.7.0-py2.py3-none-any.whl (7.3 kB)
+Downloading pycodestyle-2.14.0-py2.py3-none-any.whl (31 kB)
+Downloading pyflakes-3.4.0-py2.py3-none-any.whl (63 kB)
+Installing collected packages: pyflakes, pycodestyle, mccabe, flake8
+
+Successfully installed flake8-7.3.0 mccabe-0.7.0 pycodestyle-2.14.0 pyflakes-3.4.0
+"
+2026-02-24T12:00:41.066064Z	/Users/renatosocodato/thermocausality_mtce	install_retry:mypy	ok	"Collecting mypy
+  Using cached mypy-1.19.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (2.2 kB)
+Requirement already satisfied: typing_extensions>=4.6.0 in ./.venv/lib/python3.14/site-packages (from mypy) (4.15.0)
+Requirement already satisfied: mypy_extensions>=1.0.0 in ./.venv/lib/python3.14/site-packages (from mypy) (1.1.0)
+Requirement already satisfied: pathspec>=0.9.0 in ./.venv/lib/python3.14/site-packages (from mypy) (1.0.4)
+Collecting librt>=0.6.2 (from mypy)
+  Downloading librt-0.8.1-cp314-cp314-macosx_11_0_arm64.whl.metadata (1.3 kB)
+Downloading mypy-1.19.1-cp314-cp314-macosx_11_0_arm64.whl (12.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.2/12.2 MB 36.2 MB/s  0:00:00
+Downloading librt-0.8.1-cp314-cp314-macosx_11_0_arm64.whl (68 kB)
+Installing collected packages: librt, mypy
+
+Successfully installed librt-0.8.1 mypy-1.19.1
+"
+2026-02-24T12:00:43.556745Z	/Users/renatosocodato/thermocausality_mtce	install_retry:sphinx	ok	".whl (10.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.2/10.2 MB 65.2 MB/s  0:00:00
+Downloading imagesize-1.4.1-py2.py3-none-any.whl (8.8 kB)
+Using cached requests-2.32.5-py3-none-any.whl (64 kB)
+Using cached charset_normalizer-3.4.4-cp314-cp314-macosx_10_13_universal2.whl (207 kB)
+Using cached idna-3.11-py3-none-any.whl (71 kB)
+Using cached urllib3-2.6.3-py3-none-any.whl (131 kB)
+Downloading roman_numerals-4.1.0-py3-none-any.whl (7.7 kB)
+Downloading snowballstemmer-3.0.1-py3-none-any.whl (103 kB)
+Downloading sphinxcontrib_applehelp-2.0.0-py3-none-any.whl (119 kB)
+Downloading sphinxcontrib_devhelp-2.0.0-py3-none-any.whl (82 kB)
+Downloading sphinxcontrib_htmlhelp-2.1.0-py3-none-any.whl (98 kB)
+Downloading sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl (5.1 kB)
+Downloading sphinxcontrib_qthelp-2.0.0-py3-none-any.whl (88 kB)
+Downloading sphinxcontrib_serializinghtml-2.0.0-py3-none-any.whl (92 kB)
+Installing collected packages: urllib3, sphinxcontrib-serializinghtml, sphinxcontrib-qthelp, sphinxcontrib-jsmath, sphinxcontrib-htmlhelp, sphinxcontrib-devhelp, sphinxcontrib-applehelp, snowballstemmer, roman-numerals, imagesize, idna, docutils, charset_normalizer, babel, alabaster, requests, sphinx
+
+Successfully installed alabaster-1.0.0 babel-2.18.0 charset_normalizer-3.4.4 docutils-0.22.4 idna-3.11 imagesize-1.4.1 requests-2.32.5 roman-numerals-4.1.0 snowballstemmer-3.0.1 sphinx-9.1.0 sphinxcontrib-applehelp-2.0.0 sphinxcontrib-devhelp-2.0.0 sphinxcontrib-htmlhelp-2.1.0 sphinxcontrib-jsmath-1.0.1 sphinxcontrib-qthelp-2.0.0 sphinxcontrib-serializinghtml-2.0.0 urllib3-2.6.3
+"
+2026-02-24T12:00:44.155230Z	/Users/renatosocodato/thermocausality_mtce	install_retry:sphinx-rtd-theme	ok	"b/python3.14/site-packages (from sphinx<10,>=6->sphinx-rtd-theme) (1.4.1)
+Requirement already satisfied: requests>=2.30.0 in ./.venv/lib/python3.14/site-packages (from sphinx<10,>=6->sphinx-rtd-theme) (2.32.5)
+Requirement already satisfied: roman-numerals>=1.0.0 in ./.venv/lib/python3.14/site-packages (from sphinx<10,>=6->sphinx-rtd-theme) (4.1.0)
+Requirement already satisfied: packaging>=23.0 in ./.venv/lib/python3.14/site-packages (from sphinx<10,>=6->sphinx-rtd-theme) (26.0)
+Requirement already satisfied: MarkupSafe>=2.0 in ./.venv/lib/python3.14/site-packages (from Jinja2>=3.1->sphinx<10,>=6->sphinx-rtd-theme) (3.0.3)
+Requirement already satisfied: charset_normalizer<4,>=2 in ./.venv/lib/python3.14/site-packages (from requests>=2.30.0->sphinx<10,>=6->sphinx-rtd-theme) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in ./.venv/lib/python3.14/site-packages (from requests>=2.30.0->sphinx<10,>=6->sphinx-rtd-theme) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./.venv/lib/python3.14/site-packages (from requests>=2.30.0->sphinx<10,>=6->sphinx-rtd-theme) (2.6.3)
+Requirement already satisfied: certifi>=2017.4.17 in ./.venv/lib/python3.14/site-packages (from requests>=2.30.0->sphinx<10,>=6->sphinx-rtd-theme) (2026.1.4)
+Downloading sphinx_rtd_theme-3.1.0-py2.py3-none-any.whl (7.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.7/7.7 MB 60.5 MB/s  0:00:00
+Downloading sphinxcontrib_jquery-4.1-py2.py3-none-any.whl (121 kB)
+Installing collected packages: sphinxcontrib-jquery, sphinx-rtd-theme
+
+Successfully installed sphinx-rtd-theme-3.1.0 sphinxcontrib-jquery-4.1
+"
+2026-02-24T12:00:44.847175Z	/Users/renatosocodato/thermocausality_mtce	install_retry:deepxde>=1.9	ok	"_0_arm64.whl.metadata (2.4 kB)
+Requirement already satisfied: threadpoolctl>=3.2.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn->deepxde>=1.9) (3.6.0)
+Requirement already satisfied: contourpy>=1.0.1 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (1.3.3)
+Requirement already satisfied: cycler>=0.10 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (4.61.1)
+Requirement already satisfied: kiwisolver>=1.3.1 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (1.4.9)
+Requirement already satisfied: pillow>=8 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (12.1.1)
+Requirement already satisfied: pyparsing>=3 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (3.3.2)
+Requirement already satisfied: python-dateutil>=2.7 in ./.venv/lib/python3.14/site-packages (from matplotlib->deepxde>=1.9) (2.9.0.post0)
+Requirement already satisfied: six>=1.5 in ./.venv/lib/python3.14/site-packages (from python-dateutil>=2.7->matplotlib->deepxde>=1.9) (1.17.0)
+Downloading deepxde-1.15.0-py3-none-any.whl (195 kB)
+Downloading scikit_optimize-0.10.2-py2.py3-none-any.whl (107 kB)
+Downloading pyaml-26.2.1-py3-none-any.whl (27 kB)
+Using cached pyyaml-6.0.3-cp314-cp314-macosx_11_0_arm64.whl (173 kB)
+Installing collected packages: PyYAML, pyaml, scikit-optimize, deepxde
+
+Successfully installed PyYAML-6.0.3 deepxde-1.15.0 pyaml-26.2.1 scikit-optimize-0.10.2
+"
+2026-02-24T12:00:46.021828Z	/Users/renatosocodato/thermocausality_mtce	install_retry:gpytorch>=1.11	ok	"linear_operator>=0.6->gpytorch>=1.11) (82.0.0)
+Requirement already satisfied: sympy>=1.13.3 in ./.venv/lib/python3.14/site-packages (from torch>=2.0->linear_operator>=0.6->gpytorch>=1.11) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in ./.venv/lib/python3.14/site-packages (from torch>=2.0->linear_operator>=0.6->gpytorch>=1.11) (3.6.1)
+Requirement already satisfied: jinja2 in ./.venv/lib/python3.14/site-packages (from torch>=2.0->linear_operator>=0.6->gpytorch>=1.11) (3.1.6)
+Requirement already satisfied: fsspec>=0.8.5 in ./.venv/lib/python3.14/site-packages (from torch>=2.0->linear_operator>=0.6->gpytorch>=1.11) (2026.2.0)
+Collecting wadler-lindig>=0.1.3 (from jaxtyping->gpytorch>=1.11)
+  Downloading wadler_lindig-0.1.7-py3-none-any.whl.metadata (17 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in ./.venv/lib/python3.14/site-packages (from jinja2->torch>=2.0->linear_operator>=0.6->gpytorch>=1.11) (3.0.3)
+Requirement already satisfied: joblib>=1.3.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn->gpytorch>=1.11) (1.5.3)
+Requirement already satisfied: threadpoolctl>=3.2.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn->gpytorch>=1.11) (3.6.0)
+Downloading gpytorch-1.15.1-py3-none-any.whl (287 kB)
+Downloading linear_operator-0.6-py3-none-any.whl (176 kB)
+Downloading jaxtyping-0.3.9-py3-none-any.whl (56 kB)
+Downloading wadler_lindig-0.1.7-py3-none-any.whl (20 kB)
+Installing collected packages: wadler-lindig, jaxtyping, linear_operator, gpytorch
+
+Successfully installed gpytorch-1.15.1 jaxtyping-0.3.9 linear_operator-0.6 wadler-lindig-0.1.7
+"
+2026-02-24T12:01:06.728395Z	/Users/renatosocodato/thermocausality_mtce	install_retry:sbi>=0.22	fail	"s link arguments -Wl,-ld_classic: YES
+      Checking if ""-Wl,--version-script"" links: NO
+      Program pythran found: YES (/private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-2jf_n4zj/overlay/bin/pythran)
+      Found pkg-config: YES (/opt/homebrew/bin/pkg-config) 2.5.1
+      Found CMake: /opt/homebrew/bin/cmake (4.2.1)
+      Run-time dependency xsimd found: NO (tried pkgconfig, framework and cmake)
+      Run-time dependency threads found: YES
+      Library npymath found: YES
+      Library npyrandom found: YES
+      pybind11-config found: YES (/private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-2jf_n4zj/overlay/bin/pybind11-config) 2.11.2
+      Run-time dependency pybind11 found: YES 2.11.2
+      Run-time dependency scipy-openblas found: NO (tried pkgconfig)
+      Run-time dependency openblas found: NO (tried pkgconfig, framework and cmake)
+      Run-time dependency openblas found: NO (tried pkgconfig, framework and cmake)
+      
+      ../scipy/meson.build:169:9: ERROR: Dependency ""OpenBLAS"" not found, tried pkgconfig, framework and cmake
+      
+      A full log can be found at /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-install-xi_eaexg/scipy_e042836a51c945fea7dcd73b676fe117/.mesonpy-vc8m_58o/meson-logs/meson-log.txt
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> scipy
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+"
+2026-02-24T12:01:08.648497Z	/Users/renatosocodato/thermocausality_mtce	install_retry:geomstats>=2.6	ok	"equirement already satisfied: contourpy>=1.0.1 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (1.3.3)
+Requirement already satisfied: cycler>=0.10 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (4.61.1)
+Requirement already satisfied: kiwisolver>=1.3.1 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (1.4.9)
+Requirement already satisfied: packaging>=20.0 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (26.0)
+Requirement already satisfied: pillow>=8 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (12.1.1)
+Requirement already satisfied: pyparsing>=3 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (3.3.2)
+Requirement already satisfied: python-dateutil>=2.7 in ./.venv/lib/python3.14/site-packages (from matplotlib>=3.3.4->geomstats>=2.6) (2.9.0.post0)
+Requirement already satisfied: six>=1.5 in ./.venv/lib/python3.14/site-packages (from python-dateutil>=2.7->matplotlib>=3.3.4->geomstats>=2.6) (1.17.0)
+Requirement already satisfied: threadpoolctl>=3.2.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn>=0.22.1->geomstats>=2.6) (3.6.0)
+Downloading geomstats-2.8.0-py3-none-any.whl (10.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.5/10.5 MB 11.4 MB/s  0:00:00
+Installing collected packages: geomstats
+Successfully installed geomstats-2.8.0
+"
+2026-02-24T12:01:09.335538Z	/Users/renatosocodato/thermocausality_mtce	install_retry:gplearn>=0.4	ok	"Collecting gplearn>=0.4
+  Using cached gplearn-0.4.3-py3-none-any.whl.metadata (4.6 kB)
+Requirement already satisfied: joblib>=1.3.0 in ./.venv/lib/python3.14/site-packages (from gplearn>=0.4) (1.5.3)
+Requirement already satisfied: scikit-learn>=1.8.0 in ./.venv/lib/python3.14/site-packages (from gplearn>=0.4) (1.8.0)
+Requirement already satisfied: numpy>=1.24.1 in ./.venv/lib/python3.14/site-packages (from scikit-learn>=1.8.0->gplearn>=0.4) (2.4.2)
+Requirement already satisfied: scipy>=1.10.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn>=1.8.0->gplearn>=0.4) (1.17.1)
+Requirement already satisfied: threadpoolctl>=3.2.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn>=1.8.0->gplearn>=0.4) (3.6.0)
+Downloading gplearn-0.4.3-py3-none-any.whl (40 kB)
+Installing collected packages: gplearn
+Successfully installed gplearn-0.4.3
+"
+2026-02-24T12:01:11.493178Z	/Users/renatosocodato/thermocausality_mtce	install_retry:deap>=1.3	ok	"Collecting deap>=1.3
+  Using cached deap-1.4.3.tar.gz (1.1 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy in ./.venv/lib/python3.14/site-packages (from deap>=1.3) (2.4.2)
+Building wheels for collected packages: deap
+  Building wheel for deap (pyproject.toml): started
+  Building wheel for deap (pyproject.toml): finished with status 'done'
+  Created wheel for deap: filename=deap-1.4.3-cp314-cp314-macosx_26_0_arm64.whl size=104380 sha256=014574d042cdb98b6744998efd7ff3f887d5e32c557613b91721489f1a9135b3
+  Stored in directory: /Users/renatosocodato/Library/Caches/pip/wheels/85/9f/86/c25ad43d6b537b3ab52cf48a44b188a3fb9a78ace65f107d16
+Successfully built deap
+Installing collected packages: deap
+Successfully installed deap-1.4.3
+"
+2026-02-24T12:01:12.350454Z	/Users/renatosocodato/thermocausality_mtce	install_retry:pysindy>=1.7	ok	")
+Requirement already satisfied: scikit-learn!=1.5.0,!=1.6.0,!=1.7.1,>=1.1 in ./.venv/lib/python3.14/site-packages (from pysindy>=1.7) (1.8.0)
+Requirement already satisfied: numpy>=2.0 in ./.venv/lib/python3.14/site-packages (from pysindy>=1.7) (2.4.2)
+Collecting derivative>=0.6.2 (from pysindy>=1.7)
+  Downloading derivative-0.6.3-py3-none-any.whl.metadata (6.6 kB)
+Requirement already satisfied: scipy in ./.venv/lib/python3.14/site-packages (from pysindy>=1.7) (1.17.1)
+Requirement already satisfied: typing_extensions in ./.venv/lib/python3.14/site-packages (from pysindy>=1.7) (4.15.0)
+Collecting importlib-metadata>=7.1.0 (from derivative>=0.6.2->pysindy>=1.7)
+  Using cached importlib_metadata-8.7.1-py3-none-any.whl.metadata (4.7 kB)
+Requirement already satisfied: joblib>=1.3.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn!=1.5.0,!=1.6.0,!=1.7.1,>=1.1->pysindy>=1.7) (1.5.3)
+Requirement already satisfied: threadpoolctl>=3.2.0 in ./.venv/lib/python3.14/site-packages (from scikit-learn!=1.5.0,!=1.6.0,!=1.7.1,>=1.1->pysindy>=1.7) (3.6.0)
+Collecting zipp>=3.20 (from importlib-metadata>=7.1.0->derivative>=0.6.2->pysindy>=1.7)
+  Using cached zipp-3.23.0-py3-none-any.whl.metadata (3.6 kB)
+Downloading pysindy-2.1.0-py3-none-any.whl (123 kB)
+Downloading derivative-0.6.3-py3-none-any.whl (14 kB)
+Using cached importlib_metadata-8.7.1-py3-none-any.whl (27 kB)
+Using cached zipp-3.23.0-py3-none-any.whl (10 kB)
+Installing collected packages: zipp, importlib-metadata, derivative, pysindy
+
+Successfully installed derivative-0.6.3 importlib-metadata-8.7.1 pysindy-2.1.0 zipp-3.23.0
+"
+2026-02-24T12:01:12.592551Z	/Users/renatosocodato/thermocausality_mtce	install_retry:dowhy>=0.9	fail	"ERROR: Ignored the following versions that require a different python version: 0.10 Requires-Python >=3.8,<3.12; 0.10.1 Requires-Python >=3.8,<3.12; 0.11 Requires-Python >=3.8,<3.12; 0.11.1 Requires-Python >=3.8,<3.12; 0.12 Requires-Python >=3.8,<3.13; 0.13 Requires-Python >=3.8,<3.13; 0.14 Requires-Python >=3.9,<3.14; 0.9 Requires-Python >=3.8,<3.10; 0.9.1 Requires-Python >=3.8,<3.11
+ERROR: Could not find a version that satisfies the requirement dowhy>=0.9 (from versions: 0.1.1, 0.2, 0.4, 0.5, 0.5.1, 0.6, 0.7, 0.7.1, 0.8)
+ERROR: No matching distribution found for dowhy>=0.9
+"
+2026-02-24T12:01:12.836832Z	/Users/renatosocodato/thermocausality_mtce	install_retry:pyyaml	ok	"Requirement already satisfied: pyyaml in ./.venv/lib/python3.14/site-packages (6.0.3)
+"
+2026-02-24T12:01:14.345048Z	/Users/renatosocodato/thermocausality_mtce	install_retry:omegaconf	ok	"Collecting omegaconf
+  Downloading omegaconf-2.3.0-py3-none-any.whl.metadata (3.9 kB)
+Collecting antlr4-python3-runtime==4.9.* (from omegaconf)
+  Downloading antlr4-python3-runtime-4.9.3.tar.gz (117 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: PyYAML>=5.1.0 in ./.venv/lib/python3.14/site-packages (from omegaconf) (6.0.3)
+Downloading omegaconf-2.3.0-py3-none-any.whl (79 kB)
+Building wheels for collected packages: antlr4-python3-runtime
+  Building wheel for antlr4-python3-runtime (pyproject.toml): started
+  Building wheel for antlr4-python3-runtime (pyproject.toml): finished with status 'done'
+  Created wheel for antlr4-python3-runtime: filename=antlr4_python3_runtime-4.9.3-py3-none-any.whl size=144591 sha256=a61a3a1ad825ceaa20969cd75fdf83276f9190199f0033f09ef9a2963d86a551
+  Stored in directory: /Users/renatosocodato/Library/Caches/pip/wheels/ea/ca/a6/5ad163e6c66e23b25d4e6a81dba06bce77047ef6257d643728
+Successfully built antlr4-python3-runtime
+Installing collected packages: antlr4-python3-runtime, omegaconf
+
+Successfully installed antlr4-python3-runtime-4.9.3 omegaconf-2.3.0
+"
+2026-02-24T12:01:14.682837Z	/Users/renatosocodato/thermocausality_mtce	install_retry:tqdm	ok	"Collecting tqdm
+  Using cached tqdm-4.67.3-py3-none-any.whl.metadata (57 kB)
+Using cached tqdm-4.67.3-py3-none-any.whl (78 kB)
+Installing collected packages: tqdm
+Successfully installed tqdm-4.67.3
+"
+2026-02-24T12:01:18.106557Z	/Users/renatosocodato/thermocausality_mtce	install_retry:wandb	ok	"m requests<3,>=2.0.0->wandb) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./.venv/lib/python3.14/site-packages (from requests<3,>=2.0.0->wandb) (2.6.3)
+Requirement already satisfied: certifi>=2017.4.17 in ./.venv/lib/python3.14/site-packages (from requests<3,>=2.0.0->wandb) (2026.1.4)
+Collecting gitdb<5,>=4.0.1 (from gitpython!=3.1.29,>=1.0.0->wandb)
+  Downloading gitdb-4.0.12-py3-none-any.whl.metadata (1.2 kB)
+Collecting smmap<6,>=3.0.1 (from gitdb<5,>=4.0.1->gitpython!=3.1.29,>=1.0.0->wandb)
+  Downloading smmap-5.0.2-py3-none-any.whl.metadata (4.3 kB)
+Downloading wandb-0.25.0-py3-none-macosx_12_0_arm64.whl (23.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.3/23.3 MB 59.5 MB/s  0:00:00
+Downloading protobuf-6.33.5-cp39-abi3-macosx_10_9_universal2.whl (427 kB)
+Using cached pydantic-2.12.5-py3-none-any.whl (463 kB)
+Using cached pydantic_core-2.41.5-cp314-cp314-macosx_11_0_arm64.whl (1.9 MB)
+Using cached annotated_types-0.7.0-py3-none-any.whl (13 kB)
+Downloading gitpython-3.1.46-py3-none-any.whl (208 kB)
+Downloading gitdb-4.0.12-py3-none-any.whl (62 kB)
+Downloading smmap-5.0.2-py3-none-any.whl (24 kB)
+Downloading sentry_sdk-2.53.0-py2.py3-none-any.whl (437 kB)
+Using cached typing_inspection-0.4.2-py3-none-any.whl (14 kB)
+Installing collected packages: typing-inspection, smmap, sentry-sdk, pydantic-core, protobuf, annotated-types, pydantic, gitdb, gitpython, wandb
+
+Successfully installed annotated-types-0.7.0 gitdb-4.0.12 gitpython-3.1.46 protobuf-6.33.5 pydantic-2.12.5 pydantic-core-2.41.5 sentry-sdk-2.53.0 smmap-5.0.2 typing-inspection-0.4.2 wandb-0.25.0
+"

@@ -1,0 +1,26 @@
+target_path	basename	gse	gsm	working_url	detail	tried_n	candidate_url_n
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/GSE138852_Grubman_raw.rds	GSE138852_Grubman_raw.rds	GSE138852				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/GSE159812_SEAAD_raw.rds	GSE159812_SEAAD_raw.rds	GSE159812				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/GSE157827_Morabito_raw.rds	GSE157827_Morabito_raw.rds	GSE157827				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/GSE227223_ROSMAP_raw.rds	GSE227223_ROSMAP_raw.rds	GSE227223				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/data/GSE140511_ROSMAP_raw.rds	GSE140511_ROSMAP_raw.rds	GSE140511				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/geo_ad_cohorts/GSE214979/GSE214979_series_matrix.txt:!Sample_organism_ch1	GSE214979_series_matrix.txt:!Sample_organism_ch1	GSE214979;GSE214979				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/geo_ad_cohorts/GSE147528/GSE147528_series_matrix.txt:!Sample_source_name_ch1	GSE147528_series_matrix.txt:!Sample_source_name_ch1	GSE147528;GSE147528				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/metadata/GSE84422_sample_list.txt	GSE84422_sample_list.txt	GSE84422				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/metadata/GSE84422_series_matrix.txt.gz	GSE84422_series_matrix.txt.gz	GSE84422				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_family.soft.gz	GSE84422_family.soft.gz	GSE84422				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_sra_accessions.txt	GSE84422_sra_accessions.txt	GSE84422				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_files.txt	GSE84422_files.txt	GSE84422				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_alt/data_GSE84422.tar	data_GSE84422.tar	GSE84422;GSE84422				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE155613_alt/data_GSE155613.tar	data_GSE155613.tar	GSE155613;GSE155613				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_suppl/GSE84422_RAW.tar	GSE84422_RAW.tar	GSE84422;GSE84422		https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84422/suppl/GSE84422_RAW.tar	bytes_probe=1024	1	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE138852_alt/data_GSE138852.tar	data_GSE138852.tar	GSE138852;GSE138852				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE203258_alt/data_GSE203258.tar	data_GSE203258.tar	GSE203258;GSE203258				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE147528_alt/data_GSE147528.tar	data_GSE147528.tar	GSE147528;GSE147528				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE140511_alt/data_GSE140511.tar	data_GSE140511.tar	GSE140511;GSE140511				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_files/GSE84422_RAW.tar	GSE84422_RAW.tar	GSE84422;GSE84422		https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84422/suppl/GSE84422_RAW.tar	bytes_probe=1024	1	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE174367_alt/data_GSE174367.tar	data_GSE174367.tar	GSE174367;GSE174367				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE214979_alt/data_GSE214979.tar	data_GSE214979.tar	GSE214979;GSE214979				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE182185_alt/data_GSE182185.tar	data_GSE182185.tar	GSE182185;GSE182185				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/large_scrna/GSE138852_grubman/counts.csv.gz	counts.csv.gz	GSE138852				3	3
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/large_scrna/GSE138852/GSE138852_RAW.tar	GSE138852_RAW.tar	GSE138852;GSE138852				3	3

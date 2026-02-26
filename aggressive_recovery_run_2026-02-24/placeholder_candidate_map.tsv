@@ -1,0 +1,9 @@
+placeholder_path	candidate_path	method	score	exists	candidate_is_placeholder
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/deliverables/atp_budget_genotype.json	/Users/renatosocodato/thermocausality_mtce/deliverables/atp_budget_genotype.json	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/deliverables/atp_budget.json	/Users/renatosocodato/thermocausality_mtce/deliverables/atp_budget.json	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/provenance/LINEAGE.yml	/Users/renatosocodato/thermocausality_mtce/provenance/LINEAGE.yml	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/provenance/source_manifest.json	/Users/renatosocodato/thermocausality_mtce/provenance/source_manifest.json	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/provenance/transform_log.md	/Users/renatosocodato/thermocausality_mtce/provenance/transform_log.md	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/provenance/parsed_manifest.json	/Users/renatosocodato/thermocausality_mtce/provenance/parsed_manifest.json	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/provenance/derived_manifest.json	/Users/renatosocodato/thermocausality_mtce/provenance/derived_manifest.json	thermocausality_suffix_map	60	False	n/a
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/raw/corrected_cell_ids.txt	/Users/renatosocodato/thermocausality_mtce/raw/corrected_cell_ids.txt	thermocausality_suffix_map	60	False	n/a

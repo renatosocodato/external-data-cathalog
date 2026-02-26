@@ -1,0 +1,9 @@
+path	exists	type	size_human	file_count	symlink_count	placeholder_count	notes
+/Users/renatosocodato/Desktop/CDC42_microglia_paper	YES	dir	5.8G	7507	30	0	manuscript deep reconstruction pass complete; 531 target missing -> 0
+/Users/renatosocodato/RNAseq-redox-cytoskel	YES	dir	18G	19127	26	0	standalone root restored; non-venv data symlinks converted
+/Users/renatosocodato/thermocausality_mtce	YES	dir	27G	9064	0	0	local restored from mirror/snapshots; phase links removed
+/Users/renatosocodato/cyto_kb	YES	dir	8.9M	448	0	132	trace-rehydrated beyond skeleton; mixed payload+placeholders
+/Users/renatosocodato/redox-secretome-axis	YES	dir	5.2M	190	0	17	trace-rehydrated beyond skeleton; mixed payload+placeholders
+/Users/renatosocodato/PFn1 5xFAD	YES	dir	148K	28	1	23	trace-rehydrated skeleton+pathmap; no full archive copy found
+/Users/renatosocodato/cdc42_2p_fvsm_velocities	YES	dir	5.7G	6892	19	0	
+/Users/renatosocodato/kb_microglia_nexus	YES	dir	7.5G	268791	2	0	

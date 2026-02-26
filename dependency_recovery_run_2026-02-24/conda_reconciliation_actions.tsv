@@ -1,0 +1,54 @@
+timestamp_utc	root	action	status	detail
+2026-02-24T12:04:30.375887Z	/Users/renatosocodato/thermocausality_mtce	mamba_env_create_cpu_reconcile	fail	"nk(i, 0), &centers(j, 0), dim);
+            |                                                  ^
+      /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-zzfsj5lb/overlay/lib/python3.10/site-packages/deeptime/src/include/deeptime/clustering/bits/kmeans_bits.h:100:54: error: a template argument list is expected after a name prefixed by the template keyword [-Wmissing-template-arg-list-after-template-kw]
+        100 |                         T minDist = Metric::template compute(&chunk(i, 0), &centers(0, 0), dim);
+            |                                                      ^
+      /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-zzfsj5lb/overlay/lib/python3.10/site-packages/deeptime/src/include/deeptime/clustering/bits/kmeans_bits.h:102:58: error: a template argument list is expected after a name prefixed by the template keyword [-Wmissing-template-arg-list-after-template-kw]
+        102 |                             auto dist = Metric::template compute(&chunk(i, 0), &centers(j, 0), dim);
+            |                                                          ^
+      /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-zzfsj5lb/overlay/lib/python3.10/site-packages/deeptime/src/include/deeptime/clustering/bits/kmeans_bits.h:208:35: error: a template argument list is expected after a name prefixed by the template keyword [-Wmissing-template-arg-list-after-template-kw]
+        208 |         auto l = Metric::template compute(&data(i, 0), &centers(assignmentsPtr[i], 0), dim);
+            |                                   ^
+      In file included from pyemma/coordinates/clustering/src/clustering_module.cpp:7:
+      In file included from /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-zzfsj5lb/overlay/lib/python3.10/site-packages/deeptime/src/include/deeptime/clustering/register_clustering.h:5:
+      In file included from /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-zzfsj5lb/overlay/lib/python3.10/site-packages/deeptime/src/include/deeptime/clustering/regspace.h:38:
+      /private/var/folders/5b/7p27pl3x6nd_7f45f2m29ksr0000gn/T/pip-build-env-zzfsj5lb/overlay/lib/python3.10/site-packages/deeptime/src/include/deeptime/clustering/./bits/regspace_bits.h:38:39: error: a template argument list is expected after a name prefixed by the template keyword [-Wmissing-template-arg-list-after-template-kw]
+         38 |             auto d = Metric::template compute(data + i*dim, point, dim);
+            |                                       ^
+      6 errors generated.
+      error: command '/usr/bin/clang++' failed with exit code 1
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for pyemma
+error: failed-wheel-build-for-install
+
+× Failed to build installable wheels for some pyproject.toml based projects
+╰─> pyemma
+critical libmamba pip failed to install packages
+"
+2026-02-24T12:04:38.491973Z	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz	mamba_env_update_existing	ok	"conda-forge/noarch                                          Using cache
+conda-forge/osx-arm64                                       Using cache
+
+Transaction
+
+  Prefix: /opt/homebrew/Cellar/micromamba/2.5.0_1/envs/M2C2
+
+  All requested packages already installed
+
+
+Transaction starting
+
+Transaction finished
+
+
+Updating pip packages: git+https://github.com/gtluu/pyTDFSDK.git, pyimzml, tqdm, xgboost, shap
+warning  libmamba 'repo.anaconda.com', a commercial channel hosted by Anaconda.com, is used.
+    
+warning  libmamba Please make sure you understand Anaconda Terms of Services.
+    
+warning  libmamba See: https://legal.anaconda.com/policies/en/
+warning  libmamba You are using 'pip' as an additional package manager.
+    Be aware that packages installed with 'pip' are managed independently from 'conda-forge' channel.
+"

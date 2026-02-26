@@ -1,0 +1,6 @@
+phase	source	src_files	dst_files	status	notes
+phase22_thermodynamic_cost	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase22_thermodynamic_cost_omics_mirror	242	240	local_copy_partial	Converted to local dir with skipped files (2) due cloud stalls/timeouts
+phase23_collective_intelligence	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror	8313	8260	local_copy_partial	Converted to local dir with skipped files (53) due cloud stalls/timeouts
+phase24_thermo_invariants	(already_local)	-	-	already_local	No symlink present
+phase30_external_validation	(already_local)	-	-	already_local	No symlink present
+_summary_	-	-	-	remaining_symlinks	0

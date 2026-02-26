@@ -1,0 +1,784 @@
+path	payload_count	best_len
+/Users/renatosocodato/PFn1 5xFAD/DATA_MANIFEST_SUMMARY.md	1	7788
+/Users/renatosocodato/PFn1 5xFAD/DATA_README.md	1	7025
+/Users/renatosocodato/PFn1 5xFAD/EXTERNAL_DATA_CATALOG.md	3	29752
+/Users/renatosocodato/PFn1 5xFAD/README.md	3	15738
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/COMPUTATIONAL_MECHANISTIC_ANALYSES_PRIORITY.md	2	48001
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/DATA_ARCHIVE_MANIFEST.md	2	10782
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/DOCUMENTATION_GOVERNANCE.md	3	28352
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/DOCUMENTATION_STANDARD_PROPOSAL.md	2	28279
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/FIGURES_MULTIPANEL_COMPLETE_DESIGN.md	1	28924
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/MANUSCRIPT_COMPLETION_SUMMARY.md	1	29345
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/MANUSCRIPT_FRAMEWORK_COMPLETE_PREPHASEO_TO_PHASE14.md	3	49778
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/MANUSCRIPT_FRAMEWORK_PHASES_5-14.md	6	69583
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/MANUSCRIPT_FRAMEWORK_STATUS.md	1	14755
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/MANUSCRIPT_TITLE_OPTIONS.md	2	12901
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/METHODS_EXTERNAL_DATA_AUDIT.md	2	29554
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/METHODS_REVISED_COMPLETE_WITH_CITATIONS.md	1	58298
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/PHASE_15_CLINICAL_RELEVANCE_PLAN.md	1	34626
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/PHASE_CONNECTION_TABLE_COMPLETE.md	6	35930
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/README.md	9	39255
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/catalog/MULTIOMICS_DATA_CATALOG.md	1	13692
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/processed/phase2.5/rnaseq_pfn1_cko_clean.csv	1	8067
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/COMPLETE_ENHANCED_PHASES_RECONCILIATION.md	1	4134
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/COMPLETE_NARRATIVE_MINDMAP.md	1	18107
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/COMPREHENSIVE_PHASE_AUDIT_2026-01-31.md	6	42883
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/DATA_SOURCES.md	2	12409
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/DOCUMENTATION_FINAL_STATUS.md	1	7418
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/DOCUMENTATION_STATUS_PHASES_0-14.md	1	6627
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/FIRST_PASS_COMPLETION_SUMMARY.md	7	14729
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/MALDI_data_structure.md	1	660
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/MICROGLIAL_FRUSTRATED_SIGNATURE.md	1	6453
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE10_SUMMARY.md	2	7955
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE11_SUMMARY.md	2	13899
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE12_SUMMARY.md	2	12589
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE13_SUMMARY.md	3	14630
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE14_SUMMARY.md	3	11581
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE15_16_INTEGRATION_MAP.md	1	14212
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE15_SUMMARY.md	2	4844
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE16_SUMMARY.md	3	3313
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE1_PROVENANCE_REPORT.md	1	10282
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE2.5_SUMMARY.md	2	6429
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE2.5_SUMMARY_ENHANCED.md	1	4620
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE2_SUMMARY.md	2	3565
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE3_SUMMARY.md	3	14248
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE3_SUMMARY_ENHANCED.md	2	4539
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE4_SUMMARY.md	2	11417
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE4_SUMMARY_ENHANCED.md	1	4928
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE5_SUMMARY.md	2	17244
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE6_SUMMARY.md	1	3100
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE7_SPATIAL_TRANSCRIPTOMICS_PLAN.md	1	5457
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE7_SUMMARY.md	2	7914
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE8_SUMMARY.md	1	3854
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASE9_SUMMARY.md	2	3812
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASES_10-14_ADVANCED_SCAFFOLDING.md	2	25075
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PHASES_8-9_MFS_HUMAN_SCAFFOLDING.md	1	21907
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/docs/PROJECT_DOCUMENTATION_COMPLETE.md	1	1580
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/DATA_ACCESS_STATUS_TRACKER.md	1	9709
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/DATA_INTEGRITY_POLICY.md	2	10003
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/DOWNLOAD_STATUS_2026-01-31.md	1	7371
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/GWAS_DATA_ACCESS_REQUESTS.md	1	10049
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/IMMEDIATE_ACTIONS_REQUIRED.md	1	10997
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/IMMEDIATE_FIX_STATUS.md	1	9317
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/LINCS_DATA_ACCESS_REQUEST.md	1	11872
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/PHASES_13_14_FIX_SUMMARY.md	1	11973
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/governance/SIMULATED_DATA_AUDIT_2026-01-31.md	2	40132
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/enhanced_phase2.5/key_gene_scores.csv	1	252
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/enhanced_phase2.5/redteam_results.csv	1	6356
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/enhanced_phase3/redteam_results.csv	1	5831
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/enhanced_phase4/redteam_results.csv	1	5521
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/enhanced_phase4/single_lipid_lmm_results.csv	1	5094
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/tables/phase2.5/receptor_dependence_table.csv	1	464
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/tables/phase2.5/target_gene_expression.csv	1	2499
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/tables/phase3/model_performance.csv	1	176
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/tables/phase3/rf_top20_lipids.csv	1	730
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/tables/phase4/best_model_coefficients.csv	1	2269
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/output/tables/phase4/single_lipid_lmm_results.csv	1	7279
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase1/README.md	4	913
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase1/docs/PHASE1_COMPUTATIONAL_DETAILS.md	2	31310
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase1/docs/PHASE1_FINAL_SYNTHESIS_REPORT.md	2	1163
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase1/docs/PHASE1_METHODOLOGY.md	5	18555
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase1/docs/PHASE1_PROVENANCE_REPORT.md	2	649
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase1/docs/PHASE1_SUMMARY.md	5	7706
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/NAVIGATION_GUIDE.md	1	14795
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/README.md	4	5555
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/docs/PHASE10_COMPUTATIONAL_DETAILS.md	1	42717
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/docs/PHASE10_FINAL_SYNTHESIS_REPORT.md	1	15170
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/docs/PHASE10_METHODOLOGY.md	10	30278
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/docs/PHASE10_PROVENANCE_REPORT.md	1	20699
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/docs/PHASE10_SUMMARY.md	1	18044
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/output/PHASE10_AUDIT_REPORT.md	2	6731
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/output/PHASE10_DISCOVERY_SUMMARY.md	1	11896
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase10/output/cluster3_vulnerability_signature.csv	2	2390
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/NAVIGATION_GUIDE.md	4	11061
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/README.md	9	9435
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/docs/PHASE11_COMPUTATIONAL_DETAILS.md	1	25289
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/docs/PHASE11_FINAL_SYNTHESIS_REPORT.md	1	26085
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/docs/PHASE11_METHODOLOGY.md	8	25980
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/docs/PHASE11_PROVENANCE_REPORT.md	2	18854
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/docs/PHASE11_SUMMARY.md	8	20997
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/output/bifurcation_driver_genes.csv	4	24387
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/output/trajectory_pseudotime.csv	1	718
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/scripts/11a_monocle3_trajectory.R	1	5810
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/scripts/11b_bifurcation_analysis.R	1	5481
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase11/scripts/11c_pfn1_compensation_dynamics.R	1	3781
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/AUDIT_REPORT_v1.2.md	1	3834
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/NAVIGATION_GUIDE.md	1	13651
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/PHASE12_METHODS.md	1	3308
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/PHASE12_v1.3_FINAL_AUDIT_REPORT.md	1	17118
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/README.md	3	8697
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/docs/PHASE12_COMPUTATIONAL_DETAILS.md	1	52509
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/docs/PHASE12_FINAL_SYNTHESIS_REPORT.md	1	26340
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/docs/PHASE12_METHODOLOGY.md	2	24121
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/docs/PHASE12_METHODOLOGY_LYSOIP.md	1	30273
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/docs/PHASE12_PROVENANCE_REPORT.md	1	27324
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/docs/PHASE12_SUMMARY.md	1	13603
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase12/output/sem_path_coefficients.csv	1	1416
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/API_INTEGRATION_GUIDE.md	1	13022
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/COMPUTATIONAL_IMPROVEMENT_PLAN.md	1	50990
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/CRITICAL_IMPROVEMENTS_IMPLEMENTED.md	1	17953
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/CRITICAL_WEAKNESSES_AND_LIMITATIONS.md	3	31026
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/DOCUMENTATION_COMPLETION_REPORT.md	1	12782
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/IMPLEMENTATION_COMPLETE.md	1	13361
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/IMPROVEMENT_SUMMARY.md	1	4041
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/L1000CDS2_GENE_LISTS.txt	1	3729
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/L1000CDS2_MANUAL_QUERY_INSTRUCTIONS.md	1	10180
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/MANUAL_LINCS_QUERY_QUICKSTART.md	1	7858
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/NAVIGATION_GUIDE.md	1	17775
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_AUDIT_REPORT.md	2	15880
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_AUDIT_SECOND_PASS.md	1	18598
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_FINAL_STATUS.md	2	15874
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_IMPROVEMENT_SUMMARY.md	1	11424
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_METHODS.md	2	39119
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_METHODS_COMPREHENSIVE.md	2	14980
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_METHODS_V3_COMPLETE.md	1	51493
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PHASE13_V3_FINAL_STATUS.md	3	7921
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_2_FIXES_FINAL_REPORT.md	1	12312
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_3A_IMPACT_SUMMARY.md	1	13848
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_3A_PATHWAY_RESCUE_REPORT.md	1	11131
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_3B_LINCS_INTEGRATION_GUIDE.md	1	14104
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_3C_DRUGBANK_INTEGRATION_REPORT.md	2	21121
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_3_COMPLETE_SUMMARY.md	1	18284
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/PRIORITY_3_IMPLEMENTATION_PLAN.md	3	19196
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/QUICK_START_GUIDE.md	1	9099
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/README.md	14	21652
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/README_UPDATED.md	2	10200
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/VALIDATION_GATES_FINAL_REPORT.md	1	13652
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/VALIDATION_GATE_REVISION.md	1	17844
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/WEAKNESSES_STATUS_UPDATE.md	1	12704
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/data/LINCS_DATA_PROVENANCE.json	1	5167
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/data/lincs_signature_clue_format.txt	1	350
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/docs/PHASE13_COMPUTATIONAL_DETAILS.md	1	54800
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/docs/PHASE13_METHODOLOGY.md	6	68760
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/docs/PHASE13_PROVENANCE_REPORT.md	1	28668
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/docs/PHASE13_SUMMARY.md	1	21567
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/combination_strategies.csv	1	528
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/druggability_summary.csv	1	142
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/druggable_targets.csv	8	3430
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/druggable_targets_detailed.csv	2	3943
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/druggable_targets_tier2.csv	1	358
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/gap_analysis_pathways.csv	1	176
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/gap_analysis_undruggable.csv	1	96
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/lincs_signature_query.csv	1	2970
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/pathway_genes_rescuable.csv	1	153
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/robustness_checks.csv	1	143
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/validation_report.csv	1	650
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/output/validation_report_v2.csv	1	634
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/provenance/13a_druggability_provenance.json	3	1699
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/provenance/13a_provenance.json	1	5421
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/provenance/13b_provenance.json	1	3650
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/provenance/13c_provenance.json	1	4338
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13a_apoe_indirect_targeting.R	10	24655
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13a_druggability_assessment.R	40	31362
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13b_lincs_real_data_replacement.R	2	17883
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13b_lincs_signature_reversal.R	8	29433
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13b_process_lincs_local.R	2	18416
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13b_process_lincs_metadata.R	1	13695
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13c_network_combination_therapy.R	16	25498
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13d_drug_repurposing_integration.R	3	26625
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13e_phase13_validation.R	13	35207
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/13e_phase13_validation_v2.R	3	1793
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/bbb_prediction_enhanced.R	1	18747
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/dgidb_query.R	1	9545
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/inspect_pathway_genes.R	1	7199
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/l1000cds2_query.R	1	9228
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/manual_drug_curation.R	1	6111
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/process_l1000cds2_manual_results.R	1	15312
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase13/scripts/test_bbb_predictions.R	1	2570
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/AUDIT_COMPLETION_SUMMARY.md	1	6205
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/COMPREHENSIVE_AUDIT_PHASES_0-16_SECOND_PASS.md	1	30432
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/CROSS_DISORDER_VALIDATION_REPORT.md	1	12363
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/DETAILED_PHASE_BY_PHASE_AUDIT.md	1	27872
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/FINAL_REPLICATION_REPORT.md	1	12389
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/IMMEDIATE_TASKS_COMPLETE.md	1	9691
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/NAVIGATION_GUIDE.md	1	13372
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PFN1_DUAL_ROLE_CLARIFICATION.md	1	23210
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PFN1_FUNCTIONAL_ANNOTATION_MANUAL.md	1	10048
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PFN1_RESOLUTION_ADVANCED_OPTIONS.md	1	15387
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PFN1_RESOLUTION_COMPLETE_SUMMARY.md	1	14620
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_ALL_DATA_ACQUIRED.md	1	21096
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_DATA_ACQUISITION_COMPLETE.md	1	15079
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_DATA_CLARIFICATION.md	1	3303
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_EXECUTION_STATUS.md	1	5138
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_FINAL_PLAN.md	1	10862
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_FINAL_STATUS_REAL_DATA.md	3	10855
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_IMPLEMENTATION_SUMMARY.md	1	13391
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_INITIATION_SUMMARY.md	1	10946
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_RESULTS_SUMMARY.md	1	12778
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_REVISED_RESULTS_SUMMARY.md	1	18494
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/PHASE14_RUNNING_STATUS.md	1	6453
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/README.md	12	21477
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/REAL_GWAS_VALIDATION_REPORT.md	2	8432
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/DOWNLOAD_GTEX_EQTL.md	1	7721
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/MIGA_DATA_SOURCE.md	2	9879
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/bellenguez_2022_gwas/GCST90027158_buildGRCh38.tsv.gz-meta.yaml	1	1237
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/filter_eqtl_to_mfs_genes.R	1	7559
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/gwas_real/cross_disorder/DOWNLOAD_ALL_DISORDERS.sh	1	4434
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/gwas_real/cross_disorder/DOWNLOAD_AVAILABLE_DISORDERS.sh	1	6862
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/gwas_real/cross_disorder/DOWNLOAD_STATUS_AND_ALTERNATIVES.md	1	8320
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/preprocess_miga_eqtl.R	3	12863
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/data/trans_ethnic/african/api_response.json	1	10133
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/DATA_ACQUISITION_GUIDE.md	2	12658
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/PHASE14_COMPUTATIONAL_DETAILS.md	1	34963
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/PHASE14_FINAL_SYNTHESIS_REPORT.md	2	23920
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/PHASE14_METHODOLOGY.md	3	23090
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/PHASE14_METHODOLOGY_UPGRADED.md	1	29741
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/PHASE14_PROVENANCE_REPORT.md	2	21287
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/docs/PHASE14_SUMMARY.md	1	19567
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/ARCHIVE_CLEANUP_SUMMARY.txt	1	8708
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/COMPLETION_CERTIFICATE.md	1	17460
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/METHODS_DETAILED_HERO_ANALYSES.md	3	32772
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/PHASE14_GOLDEN_MANUSCRIPT_SUMMARY.md	1	16165
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/PHASE14_GOLDEN_V2_FINAL_REPORT.md	2	12244
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/PHASE14_PROVENANCE_COMPLETE.md	1	21831
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/PROVENANCE_GOLDEN_V2.md	2	19572
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/QUICKSTART_V2.md	1	3641
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/README_MASTER_INDEX.md	2	13950
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/REVISED_ANALYSES_README.md	1	6902
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/archive/ARCHIVE_LOG.md	1	10020
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/output/14G16_enrichment_REVISED.csv	1	3265
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/output/GOLDEN_V2_final_summary.json	1	468
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/output/GOLDEN_V2_results_table.csv	1	924
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/00_golden_all_revised_summary.R	2	13308
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/00_golden_final_summary.R	1	7986
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/00_golden_revised_summary.R	1	4670
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/00_golden_revised_summary_simple.R	1	6605
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/00_golden_v2_summary.R	1	10686
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/00_setup_golden_analysis.R	1	8326
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G01_cross_disorder_REVISED.R	1	10095
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G01_cross_disorder_V2.R	1	11864
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G01_cross_disorder_placeholder.R	1	1028
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G02_prs_REVISED.R	1	8992
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G02_prs_placeholder.R	1	1011
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G04_network_centrality.R	2	11362
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G04_network_centrality_REVISED.R	1	12330
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G05_expression_anticorrelation.R	2	9186
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G05_expression_anticorrelation_REVISED.R	1	9986
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G08_scrna_placeholder.R	1	1029
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G08_scrna_trajectory_REVISED.R	1	9657
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G09_magma_REVISED.R	1	8419
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G09_magma_placeholder.R	1	1044
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G16_pathway_enrichment.R	1	10959
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G16_pathway_enrichment_REVISED.R	1	11010
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G17_tf_networks.R	1	4979
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G17_tf_networks_REVISED.R	1	12180
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G18_drug_gene_network.R	2	11299
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G18_drug_gene_network_REVISED.R	1	11877
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G21_drug_repurposing_REVISED.R	1	12988
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/14G21_drug_repurposing_placeholder.R	1	1642
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/MASTER_RUN_ALL_REVISED.sh	1	3451
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/golden/scripts/MASTER_RUN_V2_ALL.sh	1	5694
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/output/14b_eqtl_colocalization.log	1	151
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/output/gwas_enrichment_test.csv	1	281
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/output/mfs_gwas_overlap.csv	1	4520
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/results_real_gwas_complete/4gene_meta_summary.txt	1	821
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/results_real_gwas_complete/all_analyses_summary.txt	1	595
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/results_real_gwas_complete/finngen_r12_replication.txt	1	479
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/00_verify_data.R	1	5980
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14a_gwas_enrichment.R	9	17566
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14a_gwas_enrichment_fast.R	1	12370
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14a_gwas_enrichment_parallel.R	1	17001
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14a_gwas_enrichment_refined.R	1	12114
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14a_gwas_strength_analysis.R	1	9791
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14b_eqtl_colocalization.R	4	19335
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14b_eqtl_colocalization_ALL_GENES.R	1	17100
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14b_eqtl_colocalization_miga.R	6	12226
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14c_mendelian_randomization.R	4	22118
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14c_mendelian_randomization_REVISED.R	1	23985
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14c_mendelian_randomization_miga.R	2	12247
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14d_genetic_target_prioritization.R	5	18731
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14d_genetic_target_prioritization_REVISED.R	5	16943
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14d_genetic_target_prioritization_simple.R	1	7929
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14e_phase14_validation.R	3	16810
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14e_validation_summary.R	1	8016
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/14e_validation_summary_REVISED.R	3	14820
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/COMPREHENSIVE_GENE_VALIDATION.R	1	14090
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/CROSS_DISORDER_META_ANALYSIS_REAL.R	3	14786
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/EXPANDED_GENE_VALIDATION.R	1	9452
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/FINNGEN_R12_REPLICATION_ANALYSIS.R	1	10321
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/GET_GENE_COORDINATES_BIOMART.R	1	4853
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/HARMONIZE_BELLENGUEZ_FINNGEN.R	1	12896
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/RERUN_WITH_REAL_GWAS.R	1	10765
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/RESOLVE_PFN1_INCONSISTENCY.R	1	11357
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/RUN_ALL_ANALYSES_REAL_DATA.R	1	15339
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/automated_functional_annotation.R	1	10794
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/create_locuszoom_plots.R	1	11005
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/create_publication_figures.R	3	11782
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/download_trans_ethnic_curl.sh	2	3701
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/download_trans_ethnic_gwas.sh	1	8792
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/download_trans_ethnic_gwas_FIXED.sh	1	14561
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/functional_annotation_pfn1.R	1	13995
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/install_dependencies.R	1	6781
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/meta_analysis_all_4_genes.R	1	13251
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/meta_analysis_pfn1.R	1	11701
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/query_ldlink_pfn1.R	1	8675
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase14/scripts/run_susie_pfn1.R	1	9134
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/ACTION_PLAN.md	1	7323
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/AGGRESSIVE_DATA_ACQUISITION_FINAL_REPORT.md	1	20912
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/AGGRESSIVE_DOWNLOAD_FINAL_REALITY.md	1	6886
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/ALTERNATIVE_DATA_SOURCES.md	1	14059
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/DATA_REQUIREMENTS.md	1	12916
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/DOWNLOAD_EXECUTION_SUMMARY.md	1	11662
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/EXTRACTED_DATA_SUMMARY.md	1	10276
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/FIGURE_7_FINAL_LEGEND.md	1	1997
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/FINAL_DATA_ACQUISITION_SUCCESS.md	2	8815
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/NAVIGATION_GUIDE.md	1	13640
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/OPEN_ACCESS_DATA_ACQUISITION_SUMMARY.md	1	18963
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/PHASE15_IMPLEMENTATION_STATUS.md	1	17118
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/PHASE_15-0_CROSS_COHORT_VALIDATION.md	1	26975
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/PHASE_15-0_IMPLEMENTATION_ROADMAP.md	1	18392
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/PHASE_15_COMPLETE_STRATEGY.md	1	13089
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/PHASE_15_FINAL_DATA_ACQUISITION_REPORT.md	2	25011
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/PHASE_15_OPEN_ACCESS_ONLY.md	1	18333
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/QUICK_START_ANALYSIS.md	1	1811
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/README.md	8	16802
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/ULTRA_AGGRESSIVE_FINAL_SUCCESS.md	1	13115
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/DATA_LOADING_SUMMARY.md	1	10025
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/FIGURE_7_LEGEND_DRAFT.md	2	15591
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_ADDITIONAL_VALIDATION_GSE140511.R	2	12457
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_ADDITIONAL_VALIDATION_MORABITO.R	1	11729
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_DATA_LOADING_COMPLETE.md	1	11473
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_DATA_LOADING_FINAL_STATUS.md	1	12597
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_FINAL_LOCKED.md	1	17378
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_FINAL_REPORT.md	6	25972
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_INEVITABILITY_DESIGN.md	1	17341
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_INEVITABILITY_RESULTS.md	1	15828
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_MFS_VALIDATION_PLAN.md	2	9635
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/PHASE15_SESSION_COMPLETE_SUMMARY.md	1	13007
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/SYNAPSE_DATA_ACCESS_REQUESTS.md	1	15889
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/check_all_datasets.R	1	1681
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/investigate_GSE140511.R	1	2016
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/investigate_GSE140511_genes.R	1	1629
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/results/clinical_outcomes/TRINITY_PANEL_P_SUMMARY.md	1	7082
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/results/clinical_outcomes/cox_regression_adjusted_results.csv	1	466
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/results/clinical_outcomes/cox_regression_results.csv	1	442
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/results/microglia/microglia_extraction_summary.csv	1	237
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/results/pathology_correlations/STRATIFICATION_ANALYSIS_SUMMARY.md	1	19879
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/final_load_all_corrected.sh	1	1704
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_grubman_test.R	1	5623
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_lau_gse147528.R	2	6128
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_mathys_rosmap.R	2	6729
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_morabito_gse157827.R	2	6495
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_rosmap_gse227223.R	1	6438
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_seaad_gse159812.R	2	6506
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_ssread_ad_cortex.R	1	6711
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/load_ssread_batch_optimized.R	1	7976
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/reload_all_fixed.sh	1	1311
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/1_loading/run_all_loading.sh	1	3304
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/3_microglia/extract_microglia.R	3	8765
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/4_mfs_testing/analyze_ad_stage_progression.R	1	12887
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/4_mfs_testing/investigate_disease_labels.R	1	2977
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/4_mfs_testing/meta_analysis_across_datasets.R	1	14042
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/4_mfs_testing/subpopulation_analysis.R	2	14498
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/4_mfs_testing/test_mfs_signature.R	1	17208
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/4_mfs_testing/test_mfs_signature_enhanced.R	2	15469
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/5_pathology_correlations/access_rosmap_clinical_data.R	1	11328
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/5_pathology_correlations/age_correlation_analysis.R	1	15135
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/5_pathology_correlations/comprehensive_stratification_analysis.R	1	23055
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/5_pathology_correlations/investigate_pathology_metadata.R	1	4635
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/6_clinical_outcomes/ML_classifier_diagnostic.R	1	16876
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/6_clinical_outcomes/ML_classifier_subject_level.R	1	20207
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/6_clinical_outcomes/bulk_deconvolution.R	1	14745
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/6_clinical_outcomes/drug_connectivity_mapping.R	1	16614
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/analysis/scripts/6_clinical_outcomes/survival_cognitive_prediction.R	1	15806
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/aggressive_download_log.txt	1	4536
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/geo_ad_cohorts/GSE138852/metadata_preview.txt	1	933
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/COMPLETE_SESSION_SUMMARY.md	2	7022
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/COMPREHENSIVE_SUBJECT_INVENTORY.md	1	11217
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/OPENNEURO_AND_ADDITIONAL_SOURCES_SUMMARY.md	1	9352
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/PHASE15_DATA_READY_FINAL_REPORT.md	2	16169
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/QUALITY_CHECK_AND_CLEANUP_PLAN.md	1	11362
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/metadata/GSE84422_metadata.txt	1	2717
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/openneuro_datasets/OPENNEURO_ASSESSMENT.md	2	5858
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/openneuro_datasets/ds004504_description.json	1	2209
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/scripts/parse_all_metadata.sh	1	8131
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/FINAL_SSREAD_RECOMMENDATION.md	1	7818
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/README.md	1	5040
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/SSREAD_DATASETS_ANALYSIS.md	5	12194
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/SSREAD_FINAL_RESULTS.md	1	8794
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/download_and_examine_ssread.R	1	6443
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/download_ssread_samples.sh	1	3539
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/examine_metadata.R	1	4311
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/parse_ssread.py	1	6254
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/parse_ssread_v2.py	1	10690
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/ssread_exploration/ssread_downloads.html	2	18609
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/docs/PHASE15_COMPUTATIONAL_DETAILS.md	4	23738
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/docs/PHASE15_FINAL_SYNTHESIS_REPORT.md	2	16389
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/docs/PHASE15_METHODOLOGY.md	15	34233
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/docs/PHASE15_PROVENANCE_REPORT.md	2	22961
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/docs/PHASE15_SUMMARY.md	3	15321
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/output/mathys_clinical_S1.csv	1	490
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/output/phase15_master_catalog.csv	1	2617
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/output/phase15_master_catalog.json	1	6828
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/15a_clinical_pathological_correlation.R	1	29733
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/15a_limited_clinical_validation.R	1	22482
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/15a_mathys_clinical_validation.R	1	17294
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/15a_rosmap_mathys_validation.R	1	10832
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/15b_biomarker_performance.R	1	25244
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/ADNI_AIBL_NACC_registration_templates.md	1	11495
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/aggressive_biomarker_fetch.sh	1	10831
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/aggressive_immediate_download.sh	1	11480
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/catalog_all_datasets.R	1	15541
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/check_seurat_metadata.R	1	895
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_all_geo_count_matrices.sh	1	5014
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_all_metadata_aggressive.sh	1	5341
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_biomarker_public_data.sh	1	6330
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_cellxgene_hca_datasets.sh	1	6117
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_from_publications.sh	1	6623
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_geo_ad_cohorts.sh	1	10159
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_individual_samples.sh	1	3207
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_large_scrna_datasets.sh	1	5693
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/download_public_ad_databases.sh	1	4905
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/extract_full_mathys_clinical.R	1	2930
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/fetch_biomarker_supplements.sh	1	10991
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/mega_geo_bulk_download.sh	1	6281
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/mine_sra_datasets.sh	1	2284
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/parse_all_downloaded_data.R	1	6750
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/parse_mathys_2019_metadata.R	1	11468
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/recursive_retry_all_methods.sh	1	8633
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/search_additional_repositories.sh	1	7163
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/search_expanded_geo_datasets.sh	1	5614
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/search_pubmed_biomarker_datasets.sh	1	6842
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/ultra_aggressive_biomarker_hunt.sh	1	10354
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/ultra_aggressive_cloud_storage.sh	1	7019
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/scripts/ultra_aggressive_github_scrape.sh	1	3096
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/ANALYSIS_2_METABOLOMICS_INTEGRATION.md	1	22409
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/ANALYSIS_STATUS_RUNNING.md	1	4815
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/BIFURCATION_FIX_SUMMARY.md	2	9032
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/COMPREHENSIVE_ANALYSES_STATUS.md	1	10825
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/COMPREHENSIVE_DEEP_AUDIT_PHASES_6-16.md	14	55675
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/COMPREHENSIVE_DEEP_AUDIT_PRE-PHASE0_PHASES_0-5.md	10	62502
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/COMPREHENSIVE_FINAL_STATUS.md	1	12040
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DETAILED_METRICS_ASSESSMENT.md	1	11074
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_AUDIT_FINAL_LAST_PASS.md	5	39479
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_AUDIT_FIRST_PASS.md	2	39922
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_AUDIT_SECOND_PASS.md	4	36513
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_AUDIT_THIRD_PASS_FINAL.md	6	46175
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_FINAL_GAP_ANALYSIS_AND_RESOLUTION.md	1	40049
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_PROOFREAD_REPORT.md	2	17622
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_REVISION_COMPLETION_REPORT.md	2	21246
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_REVISION_FINAL_REPORT.md	3	25557
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/DOCUMENTATION_REVISION_REPORT.md	2	26374
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/EXECUTIVE_SUMMARY_GAP_ANALYSIS.md	1	10156
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/FINAL_100_PERCENT_CERTIFICATION.md	4	21218
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/FINAL_COMPLETION_STATUS.md	1	13080
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/FINAL_METRICS_ACHIEVEMENT_REPORT.md	1	18650
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/FINAL_METRICS_CERTIFICATION.md	1	10307
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/FINAL_PROOFREAD_IMPROVEMENTS_APPLIED.md	1	11794
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/IMMEDIATE_ACTION_NEEDED.md	1	4867
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/METABOLOMICS_13C_FLUX_INTEGRATION_PLAN.md	1	16959
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/METABOLOMICS_EXTERNAL_DATA_PLAN.md	2	13971
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/NAVIGATION_GUIDE.md	2	18576
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PERFECT_100_ACHIEVEMENT_SUMMARY.md	1	9006
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PHASE16_EXECUTION_STATUS.md	1	7680
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PHASE16_MECHANISTIC_PRIORITY_RANKING.md	1	24295
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PHASE16_PRIORITIES_UPDATED.md	1	9455
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PHASE16_SESSION_SUMMARY.md	1	10294
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PHASE16_TIER1_RESULTS_SUMMARY.md	1	12312
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PRECISION_POLISH_EXECUTION_COMPLETE.md	1	16680
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PRECISION_POLISH_EXECUTIVE_SUMMARY.md	1	5589
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/PRECISION_POLISH_FINAL_REPORT.md	1	35286
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/README.md	3	15754
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/RESOLUTION_PROGRESS_TRACKER.md	1	9558
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/TIER1_ANALYSES_RUNNING.md	1	6006
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/TIER1_CURRENT_STATUS.md	1	6586
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/TIER1_EXECUTION_SUMMARY.md	1	7738
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/TIER1_FINAL_RESULTS.md	2	11238
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/1_bifurcation_triggers/1_segmented_regression_bifurcation.R	8	19770
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/1_bifurcation_triggers/1_segmented_regression_bifurcation_FIXED.R	5	17976
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/1_bifurcation_triggers/2_decisive_bifurcation_analysis.R	1	16412
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/1_bifurcation_triggers/DECISIVE_BIFURCATION_CONCLUSION.md	2	13113
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/1_bifurcation_triggers/decisive_bifurcation_rerun.log	1	2617
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/1_bifurcation_triggers/results/bifurcation_all_genes.csv	2	5177
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/1_metabolic_pathway_enrichment.R	4	12378
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/2_calculate_metabolic_module_scores.R	4	14536
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/3_save_module_score_results.R	1	4886
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/4_calculate_13C_flux_indices.R	1	15479
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/COMPREHENSIVE_METABOLIC_DEEPDIVE_PLAN.md	1	10645
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/METABOLOMICS_INTEGRATION_SUMMARY.md	1	14267
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/OXPHOS_validation_ROSMAP_stratified.R	3	13354
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/OXPHOS_validation_external_cohorts.R	1	19664
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/1_download_all_metabolomics_data.sh	1	7680
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/2_parse_and_integrate_metabolomics.R	1	14188
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/3_MFS_metabolic_stratification.R	4	16330
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/4_mechanistic_deep_dives.R	1	25346
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/5_calculate_13C_flux_indices.R	1	14925
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/6_multi_omics_integration.R	1	13359
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/MECHANISTIC_DEEP_DIVES_REPORT.md	1	20063
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/MFS_METABOLIC_SIGNATURE_REPORT.md	2	20992
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/results_mechanistic_deep_dives/OXPHOS_subunit_MFS_correlations.csv	1	8339
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/results_mechanistic_deep_dives/TCA_enzyme_MFS_correlations.csv	1	4537
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/results_mechanistic_deep_dives/beta_oxidation_enzyme_MFS_correlations.csv	1	4038
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/results_mfs_stratification/pathway_MFS_correlations.csv	2	3550
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/comprehensive_metabolomics/results_mfs_stratification/pathway_scores_by_MFS_quartile.csv	1	303
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/2_metabolomics_integration/results/ST002451_inflammation_effects.csv	1	725
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/analysis/scripts/integrate_phase11_pseudotime.R	1	7141
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/docs/PHASE16_COMPUTATIONAL_DETAILS.md	3	40406
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/docs/PHASE16_FINAL_SYNTHESIS_REPORT.md	4	8451
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/docs/PHASE16_METHODOLOGY.md	14	26907
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/docs/PHASE16_METHODOLOGY_UPGRADE.md	1	29681
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/docs/PHASE16_PROVENANCE_REPORT.md	1	17175
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/docs/PHASE16_SUMMARY.md	1	17712
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase16/scripts/apply_clarity_improvements.py	1	11400
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/IMPLEMENTATION_BLUEPRINT.md	6	18332
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/PHASE17_DESIGN_STATE_MACHINE_MODELING.md	5	26359
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/PHASE17_REVISION_IMPLEMENTATION_ROADMAP.md	8	24501
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/PHASE17_SCAFFOLD_COMPLETION_SUMMARY.md	1	13359
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/PHASE17_SCAFFOLD_CONSISTENCY_REVISION.md	3	12894
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/README.md	16	14490
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/SCAFFOLD_STATUS.md	7	12259
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/docs/PHASE17_COMPUTATIONAL_DETAILS.md	2	49594
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/docs/PHASE17_METHODOLOGY.md	2	43139
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/docs/PHASE17_METHODOLOGY_REVISED.md	2	41094
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/docs/PHASE17_MODELING_REVISIONS_CRITIQUE.md	1	27058
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/docs/PHASE17_SUMMARY.md	4	37815
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/00_prepare_data.R	1	7568
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/00_run_full_pipeline.R	1	27921
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/01_state_space_definition/01a_define_state_thresholds.R	3	14052
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/01_state_space_definition/01b_diffusion_map_clustering.R	1	16440
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/01_state_space_definition/01c_state_occupancy_calculation.R	1	11836
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/01_state_space_definition/01d_rna_velocity_validation.R	1	14320
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/01_state_space_definition/01e_waddington_landscape.R	1	14441
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/02_parameter_estimation/02a_extract_multiomics_features.R	2	13533
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/02_parameter_estimation/state_machine_model.stan	2	14838
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/03_ode_modeling/03a_define_ode_system.R	1	17313
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase17/scripts/README.md	2	12099
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2.5/README.md	3	1202
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2.5/docs/PHASE2.5_COMPUTATIONAL_DETAILS.md	3	26901
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2.5/docs/PHASE2.5_FINAL_SYNTHESIS_REPORT.md	2	1770
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2.5/docs/PHASE2.5_METHODOLOGY.md	12	21176
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2.5/docs/PHASE2.5_PROVENANCE_REPORT.md	1	1093
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2.5/docs/PHASE2.5_SUMMARY.md	2	12893
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2/README.md	3	870
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2/docs/PHASE2_COMPUTATIONAL_DETAILS.md	2	38021
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2/docs/PHASE2_FINAL_SYNTHESIS_REPORT.md	1	1131
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2/docs/PHASE2_METHODOLOGY.md	7	24613
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase2/docs/PHASE2_SUMMARY.md	2	10974
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase3/README.md	3	904
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase3/docs/PHASE3_COMPUTATIONAL_DETAILS.md	1	26239
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase3/docs/PHASE3_FINAL_SYNTHESIS_REPORT.md	1	913
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase3/docs/PHASE3_METHODOLOGY.md	5	26314
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase3/docs/PHASE3_SUMMARY.md	1	15543
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase4/README.md	3	886
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase4/docs/PHASE4_COMPUTATIONAL_DETAILS.md	1	34956
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase4/docs/PHASE4_FINAL_SYNTHESIS_REPORT.md	2	1113
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase4/docs/PHASE4_METHODOLOGY.md	6	25509
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase4/docs/PHASE4_PROVENANCE_REPORT.md	1	756
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase4/docs/PHASE4_SUMMARY.md	1	14484
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/README.md	6	4413
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/docs/PHASE5_COMPUTATIONAL_DETAILS.md	1	40057
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/docs/PHASE5_FINAL_SYNTHESIS_REPORT.md	2	1883
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/docs/PHASE5_METHODOLOGY.md	3	40285
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/docs/PHASE5_SUMMARY.md	1	22772
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/reports/REDTEAM_CONSOLIDATED_REPORT.md	2	7446
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/scripts/05b_subphase_5.1.R	1	3418
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/scripts/05c_subphase_5.2.R	1	3490
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase5/scripts/05i_master_redteam.R	1	6055
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/README.md	5	4286
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/docs/PHASE6_COMPUTATIONAL_DETAILS.md	3	43600
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/docs/PHASE6_FINAL_SYNTHESIS_REPORT.md	1	11751
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/docs/PHASE6_METHODOLOGY.md	18	11228
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/docs/PHASE6_METHODOLOGY_UPGRADE.md	1	40867
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/docs/PHASE6_SUMMARY.md	5	12383
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/output/redteam_results.csv	1	4824
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/scripts/06a_process_lysoip_data.R	2	14651
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase6/scripts/06c_regime_detection.R	2	22533
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/GOVERNANCE_FRAMEWORK.md	4	5053
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/NAVIGATION_GUIDE.md	1	8570
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/README.md	4	5640
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/data/SPATIAL_DATASETS_SCOUTING.md	1	5973
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/data/external/spatial/ARCHIVED_TO_GDRIVE.md	1	524
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/docs/PHASE7_COMPUTATIONAL_DETAILS.md	1	39397
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/docs/PHASE7_FINAL_SYNTHESIS_REPORT.md	1	17573
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/docs/PHASE7_METHODOLOGY.md	7	42259
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/docs/PHASE7_SUMMARY.md	1	17003
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/output/PFN1_SPECIFICITY_VALIDATION_REPORT.md	3	8567
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/output/PHASE7_PROVENANCE_REPORT.md	2	7490
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/output/redteam_results.csv	1	5127
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase7/scripts/07b_mfs_spatial_scoring.R	2	5631
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/NAVIGATION_GUIDE.md	1	11278
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/README.md	4	5889
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/data/HUMAN_MICROGLIA_DATASETS_SCOUTING.md	2	10547
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/data/external/ARCHIVED_TO_GDRIVE.md	2	787
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/docs/PHASE8_COMPUTATIONAL_DETAILS.md	2	41970
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/docs/PHASE8_FINAL_SYNTHESIS_REPORT.md	1	17359
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/docs/PHASE8_METHODOLOGY.md	11	6259
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/docs/PHASE8_SUMMARY.md	1	13141
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/human_cluster_mfs_summary.csv	1	758
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/human_condition_mfs_summary.csv	1	446
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/human_dataset_mfs_summary.csv	1	379
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/human_mfs_gene_panel.csv	2	2148
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/human_microglia_mfs_scores.csv	2	19727
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/mfs_orthology_mapping.csv	1	4521
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/output/redteam_results.csv	1	6022
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/scripts/08a_orthology_mapping.R	2	3785
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase8/scripts/08b_human_microglia_integration.R	1	30068
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/NAVIGATION_GUIDE.md	1	15041
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/README.md	5	7057
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/docs/DEMOTED_ANALYSES.md	1	7006
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/docs/PHASE9_COMPUTATIONAL_DETAILS.md	1	47014
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/docs/PHASE9_FINAL_SYNTHESIS_REPORT.md	2	17773
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/docs/PHASE9_METHODOLOGY.md	6	8061
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/docs/PHASE9_PROVENANCE_REPORT.md	1	17223
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/docs/PHASE9_SUMMARY.md	1	14929
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/output/pfn1_loss_predictions.csv	1	247
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/output/redteam_results.csv	1	5892
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/output/revised_pfn1_summary.csv	1	187
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/output/therapeutic_targets.csv	1	553
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/output/validation_summary.csv	1	683
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09a_ml_training_prediction.R	3	12858
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09b_phase9_redteam.R	1	3780
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09c_synergy_brutal_validation.R	1	6022
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09d_synergy_validation_v2.R	2	11247
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09e_synergy_hypothesis_revision.R	1	6240
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09f_revised_pfn1_model.R	1	5945
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09g_final_validation_report.R	2	11093
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09j_rosmap_ground_truth.R	1	8259
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase9/scripts/09k_rosmap_deep_findings.R	1	7564
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/NAVIGATION_GUIDE.md	1	992
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/README.md	4	1494
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/docs/PRE_PHASE0_COMPUTATIONAL_DETAILS.md	5	37535
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/docs/PRE_PHASE0_FINAL_SYNTHESIS_REPORT.md	2	1499
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/docs/PRE_PHASE0_METHODOLOGY.md	12	50546
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/docs/PRE_PHASE0_PROVENANCE_REPORT.md	3	1072
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/pre-phase0/docs/PRE_PHASE0_SUMMARY.md	8	27007
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/scripts/02.5_enhanced_redteam.R	1	50657
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/scripts/02_enhanced_redteam.R	1	55394
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/scripts/03_enhanced_redteam.R	1	19383
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/zenodo/CROSS_PROJECT_DATA_REGISTRY.md	1	6375
+/Users/renatosocodato/cyto_kb/.governance/GOVERNANCE.md	1	4323
+/Users/renatosocodato/cyto_kb/Q_A_metrics.md	1	5963
+/Users/renatosocodato/cyto_kb/README.md	1	25562
+/Users/renatosocodato/cyto_kb/config/models.yaml	1	2735
+/Users/renatosocodato/cyto_kb/config/parsers.yaml	2	16353
+/Users/renatosocodato/cyto_kb/config/priors.yaml	2	6075
+/Users/renatosocodato/cyto_kb/config/regimes.yaml	1	3222
+/Users/renatosocodato/cyto_kb/requirements.txt	1	17
+/Users/renatosocodato/cyto_kb/scripts/derive_crosstalk_inference.py	1	11721
+/Users/renatosocodato/cyto_kb/scripts/derive_thermocausality_velocity_metrics.py	2	3517
+/Users/renatosocodato/cyto_kb/scripts/derive_xy_extension_retraction.py	3	22962
+/Users/renatosocodato/cyto_kb/scripts/kb_agent_v3_wired.py	5	5897
+/Users/renatosocodato/cyto_kb/scripts/parse_elife82094_track_speed.py	1	2750
+/Users/renatosocodato/cyto_kb/scripts/parse_mt_direction_metrics.py	2	3011
+/Users/renatosocodato/cyto_kb/scripts/parse_mt_intensity_if_metrics.py	1	4543
+/Users/renatosocodato/cyto_kb/scripts/parse_thermocausality_active_matter.py	1	2743
+/Users/renatosocodato/cyto_kb/source_data/external/thermocausality_mtce/README.md	1	1457
+/Users/renatosocodato/cyto_kb/source_data/parsed/normalized/7fb997e2ea30eb39_lamellipodia_params.csv	2	642
+/Users/renatosocodato/cyto_kb/source_data/parsed/src_152000dc_ggosti/maxIntensityRadialProfile.csv	1	76
+/Users/renatosocodato/cyto_kb/source_data/parsed/src_4676f6a8_maxadrian/mg-segmentation.csv	1	67
+/Users/renatosocodato/cyto_kb/source_data/parsed/src_a31ff2c2_imagescience/MTrackJ.csv	1	64
+/Users/renatosocodato/redox-secretome-axis/GOVERNANCE.md	1	3414
+/Users/renatosocodato/redox-secretome-axis/README.md	1	891
+/Users/renatosocodato/redox-secretome-axis/outputs/phase1_contrast-map_rr-vs-fadp/exports/phase1_primary_overlap_genes.csv	1	1365
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/FIGURE_PANELS_SUMMARY.md	1	8996
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/QUICK_REFERENCE.md	1	7314
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/common_pathology_signature.csv	1	2684
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/metadata/direction_concordance_qc.csv	2	133
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/metadata/phase2_metadata_summary.csv	1	116
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/reversal_candidates_rr_down_fadp_up.csv	2	1710
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/reversal_candidates_rr_fadp_only_summary.csv	1	170
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/reversal_candidates_rr_up_fadp_down.csv	2	1590
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/build_axis_summary.R	1	1052
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/build_complete_axis_summary.R	1	2216
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/build_panel_contribution.R	1	1330
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M10.R	1	2705
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M11.R	1	2744
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M12.R	1	2804
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M13.R	1	3014
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M14.R	1	3285
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M15.R	1	3134
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M16.R	1	5325
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_M9.R	1	4570
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_S10.R	1	2791
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_S11.R	1	3108
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_S12.R	1	3125
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_S13.R	1	2464
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_S14.R	2	4246
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/render_panel_S15.R	1	3720
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/scripts/run_all_phase2_rendering.sh	1	3017
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/secretome_candidates_primary.csv	2	4162
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/secretome_panels_primary.csv	1	1675
+/Users/renatosocodato/redox-secretome-axis/outputs/phase2_secretome-bridge/secretome_reversal_index.csv	2	2684
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/CONTRASTS.md	1	1100
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/SCRIPTS_GENERATED_SUMMARY.md	1	14945
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/TERMS_GLOSSARY.md	1	942
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/FIGURE_ARCHITECTURE_GATE_LOG.md	1	6448
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/FIGURE_DESIGN_INDEX.md	1	15314
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/FIGURE_DESIGN_SCAFFOLD.md	1	25603
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/FIGURE_DESIGN_SUMMARY.md	1	10596
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/FIGURE_ITERATION_ACTION_PLAN.md	1	12943
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/PHASE1_COMPARISON_SCAFFOLD.md	1	1564
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/PHASE1_METRICS.md	1	1666
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/PLAN.md	1	1477
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/analysis/R_PANEL_FORGE_GATE_LOG.md	1	5776
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/docs/DE_LIST_LOCK.md	1	1910
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/docs/DE_SWEEP_PROTOCOL.md	1	1586
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/.figure_architecture/panel_candidates.csv	1	7591
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/DESIGN_REVISION_SUMMARY.md	1	13893
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/FIGURE_ARCHITECTURE.md	2	14801
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/FIGURE_DEPENDENCY.graphml	2	6212
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/FIGURE_GATES.md	2	13949
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/FIGURE_IMPLEMENTATION_GUIDE.md	1	15614
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/FIGURE_PANELS.csv	2	3072
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/FIGURE_VISUAL_OVERVIEW.md	1	13176
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/PANEL_TEMPLATES/A_panel.md	1	184
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/SUPPLEMENTARY_MAP.csv	2	4047
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/panels/metadata/M1_metadata.csv	1	418
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/figures/panels/metadata/M8_metadata.csv	1	412
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/README_SCRIPTS.md	1	16328
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_correlation_data.R	2	3176
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_direction_concordance.py	1	3628
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_parameters_table.py	1	6449
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_provenance_table.py	1	5897
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_stability_comparison.py	2	3866
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_stability_histogram.R	1	2331
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/build_variant_effects.py	1	4856
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_A.R	7	7885
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_B.R	3	3566
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_C.R	3	4041
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_D.R	1	3802
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_E.R	3	4315
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_F.R	2	4358
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_G.R	1	3026
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_H.R	1	3124
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S1.R	1	3467
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S2.R	1	1921
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S3.R	1	1939
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S4.R	1	2041
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S5.R	1	1643
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S6.R	1	2261
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S7.R	1	1874
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S8.R	1	2455
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/render_panel_S9.R	1	2480
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/run_all_data_prep.sh	1	2364
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/run_all_rendering.sh	1	1177
+/Users/renatosocodato/redox-secretome-axis/phase1_contrast-map_rr-vs-fadp/scripts/subset_top_genes.R	2	6808
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/analysis/PLAN.md	1	1794
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/COMMON_PATHOLOGY_SIGNATURE.md	1	288
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/INTEGRATION_SOCKETS.md	1	831
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/PHASE2_BLUEPRINT.md	1	1107
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/PHASE2_GATES.md	1	1066
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/PHASE2_OUTPUTS.md	1	325
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/PHASE2_RUNBOOK.md	1	1955
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/RESCUE_PATHOLOGY_AXIS.md	1	508
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/SECRETOME_RULESET.md	1	714
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/docs/SOURCES.md	1	1526
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/figures/LEGEND_M10.txt	1	5088
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/figures/LEGEND_M11.txt	1	6954
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/figures/LEGEND_M12.txt	1	9278
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/figures/LEGEND_M9.txt	1	4636
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/figures/data/DATA_MANIFEST.csv	1	1103
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/figures/data/README.md	1	3882
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/schemas/integration_socket_registry.csv	1	558
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/generate_source_data.R	1	10814
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_all_supplementary.sh	1	2668
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M10.R	2	3918
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M11.R	1	3471
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M12.R	1	3475
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M13.R	1	3693
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M14.R	1	3584
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M15.R	1	3598
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M16.R	1	6102
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/render_panel_M9.R	1	4734
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/run_phase2_secretome.py	1	8835
+/Users/renatosocodato/redox-secretome-axis/phase2_secretome-bridge/scripts/theme_phase2.R	1	3407

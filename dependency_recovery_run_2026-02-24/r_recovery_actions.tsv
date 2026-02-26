@@ -1,0 +1,14 @@
+timestamp_utc	root	manager	action	status	detail
+2026-02-24T11:56:58.976837Z	/Users/renatosocodato/Desktop/CDC42_microglia_paper	R	renv_restore	noop	renv/library already present
+2026-02-24T11:57:05.639197Z	/Users/renatosocodato/Desktop/CDC42_microglia_paper_RECOVERY_WORK/repo_from_bundle	R	renv_restore	ok	"# Bootstrapping renv 1.1.5 ---------------------------------------------------
+- Downloading renv ... OK
+- Installing renv  ... OK
+
+- The library is already synchronized with the lockfile.
+"
+2026-02-24T11:57:12.001237Z	/Users/renatosocodato/cdc42_2p_fvsm_velocities	R	renv_restore	ok	"# Bootstrapping renv 1.1.5 ---------------------------------------------------
+- Downloading renv ... OK
+- Installing renv  ... OK
+
+- The library is already synchronized with the lockfile.
+"

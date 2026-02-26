@@ -1,0 +1,25 @@
+timestamp_utc	context	module	status	detail
+2026-02-24T12:08:38.848598Z	thermocausality_.venv	sbi	fail	"Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+    import importlib,sys;importlib.import_module('sbi');print('ok')
+                         ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File ""/opt/homebrew/Cellar/python@3.14/3"
+2026-02-24T12:08:38.882825Z	thermocausality_.venv	dowhy	fail	"Traceback (most recent call last):
+  File ""<string>"", line 1, in <module>
+    import importlib,sys;importlib.import_module('dowhy');print('ok')
+                         ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File ""/opt/homebrew/Cellar/python@3."
+2026-02-24T12:08:47.471757Z	thermocausality_.venv	deepxde	ok	"ok
+Using backend: pytorch
+Other supported backends: tensorflow.compat.v1, tensorflow, jax, paddle.
+paddle supports more examples now and is recommended."
+2026-02-24T12:08:55.494261Z	thermocausality_.venv	jax	ok	ok
+2026-02-24T12:08:56.282417Z	thermocausality_.venv	torch	ok	ok
+2026-02-24T12:08:56.528063Z	thermocausality_conda	sbi	ok	ok
+2026-02-24T12:08:59.650214Z	thermocausality_conda	dowhy	ok	ok
+2026-02-24T12:09:02.945035Z	thermocausality_conda	deepxde	ok	"ok
+Using backend: pytorch
+Other supported backends: tensorflow.compat.v1, tensorflow, jax, paddle.
+paddle supports more examples now and is recommended."
+2026-02-24T12:09:03.808596Z	thermocausality_conda	jax	ok	ok
+2026-02-24T12:09:04.790962Z	thermocausality_conda	torch	ok	ok
