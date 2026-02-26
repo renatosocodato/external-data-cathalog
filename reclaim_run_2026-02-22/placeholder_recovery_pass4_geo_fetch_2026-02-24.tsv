@@ -1,0 +1,38 @@
+placeholder_path	url	status	detail
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/large_scrna/GSE138852/GSE138852_RAW.tar	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE138nnn/GSE138852/suppl/GSE138852_RAW.tar	skipped	deferred_large_raw_tar
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data_centralized/metadata/GSE84422_series_matrix.txt.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84422/matrix/GSE84422_series_matrix.txt.gz	failed	"% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404"
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/geo_full_datasets/GSE157827/GSM4775561_AD1_genes.tsv.gz.Z	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4775nnn/GSM4775561/suppl/GSM4775561_AD1_genes.tsv.gz.Z	failed	"% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404"
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/phase15/data/geo_full_datasets/GSE157827/GSM4775561_AD1_features.tsv.gz.Z	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4775nnn/GSM4775561/suppl/GSM4775561_AD1_features.tsv.gz.Z	failed	"% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (22) The requested URL returned error: 404"
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_suppl/GSE84422_RAW.tar	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84422/suppl/GSE84422_RAW.tar	skipped	deferred_large_raw_tar
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/recursive_retry/GSE84422_files/GSE84422_RAW.tar	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84422/suppl/GSE84422_RAW.tar	skipped	deferred_large_raw_tar
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432644/GSM4432644_SFG10_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432644/suppl/GSM4432644_SFG10_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432643/GSM4432643_SFG8_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432643/suppl/GSM4432643_SFG8_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432642/GSM4432642_SFG9_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432642/suppl/GSM4432642_SFG9_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432639/GSM4432639_SFG6_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432639/suppl/GSM4432639_SFG6_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432637/GSM4432637_SFG3_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432637/suppl/GSM4432637_SFG3_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432636/GSM4432636_SFG1_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432636/suppl/GSM4432636_SFG1_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432638/GSM4432638_SFG4_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432638/suppl/GSM4432638_SFG4_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432640/GSM4432640_SFG7_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432640/suppl/GSM4432640_SFG7_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE147528_samples/GSM4432641/GSM4432641_SFG5_raw_gene_bc_matrices_h5.h5	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4432nnn/GSM4432641/suppl/GSM4432641_SFG5_raw_gene_bc_matrices_h5.h5	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE140511_samples/GSM4160644/GSM4160644_Trem2_KO_Cor_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4160nnn/GSM4160644/suppl/GSM4160644_Trem2_KO_Cor_matrix.mtx.gz	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE140511_samples/GSM4160646/GSM4160646_Trem2_KO_5XFAD_Cor_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4160nnn/GSM4160646/suppl/GSM4160646_Trem2_KO_5XFAD_Cor_matrix.mtx.gz	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE140511_samples/GSM4160645/GSM4160645_WT_5XFAD_Cor_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4160nnn/GSM4160645/suppl/GSM4160645_WT_5XFAD_Cor_matrix.mtx.gz	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE140511_samples/GSM4160649/GSM4160649_WT_5XFAD_Hip_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4160nnn/GSM4160649/suppl/GSM4160649_WT_5XFAD_Hip_matrix.mtx.gz	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE140511_samples/GSM4160650/GSM4160650_Trem2_KO_5XFAD_Hip_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4160nnn/GSM4160650/suppl/GSM4160650_Trem2_KO_5XFAD_Hip_matrix.mtx.gz	success	sample
+/Users/renatosocodato/PFn1 5xFAD/spatial_integration/data/individual_samples/GSE140511_samples/GSM4160648/GSM4160648_Trem2_KO_Hip_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4160nnn/GSM4160648/suppl/GSM4160648_Trem2_KO_Hip_matrix.mtx.gz	success	sample

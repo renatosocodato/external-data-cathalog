@@ -1,0 +1,12 @@
+# Strict Placeholder vs Real Content (Pass7)
+
+| Root | Total files | Placeholders | Real files | Placeholder fraction |
+|---|---:|---:|---:|---:|
+| /Users/renatosocodato/Desktop/CDC42_microglia_paper | 45280 | 0 | 45280 | 0.000000 |
+| /Users/renatosocodato/RNAseq-redox-cytoskel | 19173 | 0 | 19173 | 0.000000 |
+| /Users/renatosocodato/thermocausality_mtce | 119464 | 0 | 119464 | 0.000000 |
+| /Users/renatosocodato/cyto_kb | 8966 | 74 | 8892 | 0.008253 |
+| /Users/renatosocodato/redox-secretome-axis | 190 | 12 | 178 | 0.063158 |
+| /Users/renatosocodato/PFn1 5xFAD | 10243 | 824 | 9419 | 0.080445 |
+| /Users/renatosocodato/cdc42_2p_fvsm_velocities | 44127 | 0 | 44127 | 0.000000 |
+| /Users/renatosocodato/kb_microglia_nexus | 268707 | 0 | 268707 | 0.000000 |

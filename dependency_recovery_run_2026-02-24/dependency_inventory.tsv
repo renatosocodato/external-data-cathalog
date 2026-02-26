@@ -1,0 +1,24 @@
+root	mf_requirements.txt	mf_requirements-dev.txt	mf_pyproject.toml	mf_Pipfile	mf_environment.yml	mf_environment.yaml	mf_package.json	mf_package-lock.json	mf_pnpm-lock.yaml	mf_yarn.lock	mf_renv.lock	mf_DESCRIPTION	mf_Cargo.toml	mf_go.mod	env_.venv	env_venv	env_node_modules	env_renv_library	nested_manifest_count	nested_manifest_examples
+/Users/renatosocodato/.claude/plugins/cache/claude-plugins-official/circleback/1.0.0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/.claude/plugins/marketplaces/claude-plugins-official	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/.claude/plugins/marketplaces/claude-scientific-skills	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/.claude/plugins/marketplaces/claude-scientific-writer	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/.codex/vendor_imports/skills	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/.pyenv/plugins/pyenv-update	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Desktop/CDC42_microglia_paper	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	True	0	
+/Users/renatosocodato/Desktop/CDC42_microglia_paper_RECOVERY_WORK/repo_from_bundle	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Library/Application Support/r-reticulate/pyenv	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Library/Application Support/r-reticulate/pyenv/plugins/pyenv-doctor	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Library/Application Support/r-reticulate/pyenv/plugins/pyenv-update	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Library/Application Support/r-reticulate/pyenv/plugins/pyenv-virtualenv	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/_disk_reclaim_archive_2026-02-22/phase3_pilot_RNAseq-redox-cytoskel	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/maldi2alz/MALDI2Alz	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	1	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/maldi2alz/MALDI2Alz/pyImagingMSpec/requirements.txt
+/Users/renatosocodato/PFn1 5xFAD	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/RNAseq-redox-cytoskel	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/cdc42_2p_fvsm_velocities	True	False	False	False	False	False	False	False	False	False	True	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/cyto_kb	True	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0	
+/Users/renatosocodato/external data_cathalog	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/kb_microglia_nexus	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/redox-secretome-axis	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0	
+/Users/renatosocodato/thermocausality_mtce	True	False	False	False	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0	
+/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz	False	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	1	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz/pyImagingMSpec/requirements.txt

@@ -1,0 +1,4 @@
+project	files	dirs	size_human	placeholder_files	notes
+redox-secretome-axis	190	48	5.2M	17	rehydrated from session traces; payload where available + placeholders
+cyto_kb	1622	132	23M	132	rehydrated from session traces; payload where available + placeholders
+PFn1 5xFAD	1902	726	2.2G	1203	standalone root + spatial_integration local copy + trace placeholders

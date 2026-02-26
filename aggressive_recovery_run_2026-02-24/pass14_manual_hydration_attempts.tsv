@@ -1,0 +1,15 @@
+target	url	status	bytes	content_type	note
+corpus/papers/9a0ccc1f8eac6803_elife-107650-v1.pdf	https://elifesciences.org/reviewed-preprints/107650.pdf	200	3748908	application/octet-stream	valid
+corpus/papers/b561f859cd8f95f2_1-s2-0-s2211124723014596-main.pdf	https://ars.els-cdn.com/content/image/1-s2.0-S2211124723014596-mmc1.pdf	200	1830045	application/pdf	valid
+corpus/papers/cd6e780b7f6b9879_1-s2-0-s2211124719306217-main.pdf	https://www.sciencedirect.com/science/article/pii/S2211124719306217/pdfft	ERR	0		HTTPError
+corpus/papers/cd6e780b7f6b9879_1-s2-0-s2211124719306217-main.pdf	https://ars.els-cdn.com/content/image/1-s2.0-S2211124719306217-mmc1.pdf	200	546525	application/pdf	valid
+corpus/papers/d0b2b2d1dbaf63c9_12974-2025-article-3588.pdf	https://link.springer.com/content/pdf/10.1186/s12974-025-03588-0.pdf	ERR	0		HTTPError
+corpus/papers/d0b2b2d1dbaf63c9_12974-2025-article-3588.pdf	https://jneuroinflammation.biomedcentral.com/counter/pdf/10.1186/s12974-025-03588-0.pdf	ERR	0		HTTPError
+corpus/papers/2c2c4cbc52bd8138_pnas-2007-footer-actin-force.pdf	https://www.pnas.org/doi/pdf/10.1073/pnas.0704157104	ERR	0		HTTPError
+corpus/papers/2c2c4cbc52bd8138_pnas-2007-footer-actin-force.pdf	https://www.pnas.org/doi/epdf/10.1073/pnas.0704157104	200	60430	text/html;charset=UTF-8	invalid_magic
+corpus/papers/5824da4f4b8165a0_jcb-1991-gelation-solation.pdf	https://rupress.org/jcb/article-pdf/115/6/1629/1261449/1629.pdf	ERR	0		HTTPError
+corpus/papers/5824da4f4b8165a0_jcb-1991-gelation-solation.pdf	https://rupress.org/jcb/article-pdf/115/6/1629/1261449/1629.pdf	ERR	0		HTTPError
+corpus/quarantine/invalid_pdfs/2500e1ee46ed79c6_10-1074-jbc-m002377200.pdf	https://www.jbc.org/article/S0021-9258(20)54951-4/pdf	ERR	0		HTTPError
+corpus/quarantine/invalid_pdfs/2500e1ee46ed79c6_10-1074-jbc-m002377200.pdf	https://www.jbc.org/article/S0021-9258(20)54951-4/fulltext	ERR	0		HTTPError
+corpus/supplements/0144bf71fc61c952_pnas.1204205109_SI.pdf	https://www.pnas.org/doi/suppl/10.1073/pnas.1204205109/suppl_file/pnas.1204205109.sapp.pdf	200	60430	text/html;charset=UTF-8	invalid_magic
+corpus/supplements/0144bf71fc61c952_pnas.1204205109_SI.pdf	https://www.pnas.org/doi/suppl/10.1073/pnas.1204205109/suppl_file/pnas.1204205109_DCSupplemental.pdf	200	60430	text/html;charset=UTF-8	invalid_magic

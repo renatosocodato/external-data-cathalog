@@ -1,0 +1,7 @@
+step	description	started_at_utc
+P0	Load unresolved placeholders + previous dependency status	2026-02-24T12:16:45Z
+P1	Build local non-placeholder candidate index from project/mirror roots	2026-02-24T12:16:45Z
+P2	Replace placeholders using priority rules + candidate map + basename search	2026-02-24T12:16:45Z
+P3	Run upstream fetch for queued accession URLs	2026-02-24T12:16:45Z
+P4	Hydrate missing dependencies in thermocausality .venv	2026-02-24T12:16:45Z
+P5	Recompute strict placeholder diffs and produce summary	2026-02-24T12:16:45Z

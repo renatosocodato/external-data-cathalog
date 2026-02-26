@@ -1,0 +1,3 @@
+root	env	requirement	installed_version	status	detail
+/Users/renatosocodato/thermocausality_mtce	.venv	sbi>=0.22		missing	MISSING:ModuleNotFoundError
+/Users/renatosocodato/thermocausality_mtce	.venv	dowhy>=0.9		missing	MISSING:ModuleNotFoundError

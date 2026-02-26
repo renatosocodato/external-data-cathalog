@@ -1,0 +1,31 @@
+metric	value
+actions_total	697
+recovered_total	13
+unresolved_total	1112
+geo_attempts	4
+geo_successes	4
+geo_failed	0
+/Users/renatosocodato/Desktop/CDC42_microglia_paper::baseline_placeholders	0
+/Users/renatosocodato/Desktop/CDC42_microglia_paper::final_placeholders	0
+/Users/renatosocodato/Desktop/CDC42_microglia_paper::net_reduction	0
+/Users/renatosocodato/RNAseq-redox-cytoskel::baseline_placeholders	0
+/Users/renatosocodato/RNAseq-redox-cytoskel::final_placeholders	0
+/Users/renatosocodato/RNAseq-redox-cytoskel::net_reduction	0
+/Users/renatosocodato/thermocausality_mtce::baseline_placeholders	0
+/Users/renatosocodato/thermocausality_mtce::final_placeholders	0
+/Users/renatosocodato/thermocausality_mtce::net_reduction	0
+/Users/renatosocodato/cyto_kb::baseline_placeholders	111
+/Users/renatosocodato/cyto_kb::final_placeholders	218
+/Users/renatosocodato/cyto_kb::net_reduction	-107
+/Users/renatosocodato/redox-secretome-axis::baseline_placeholders	12
+/Users/renatosocodato/redox-secretome-axis::final_placeholders	12
+/Users/renatosocodato/redox-secretome-axis::net_reduction	0
+/Users/renatosocodato/PFn1 5xFAD::baseline_placeholders	574
+/Users/renatosocodato/PFn1 5xFAD::final_placeholders	882
+/Users/renatosocodato/PFn1 5xFAD::net_reduction	-308
+/Users/renatosocodato/cdc42_2p_fvsm_velocities::baseline_placeholders	0
+/Users/renatosocodato/cdc42_2p_fvsm_velocities::final_placeholders	0
+/Users/renatosocodato/cdc42_2p_fvsm_velocities::net_reduction	0
+/Users/renatosocodato/kb_microglia_nexus::baseline_placeholders	0
+/Users/renatosocodato/kb_microglia_nexus::final_placeholders	0
+/Users/renatosocodato/kb_microglia_nexus::net_reduction	0

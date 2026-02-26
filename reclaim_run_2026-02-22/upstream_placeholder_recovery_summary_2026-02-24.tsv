@@ -1,0 +1,9 @@
+metric	value
+targeted_candidates	75
+replaced_local_canonical	0
+replaced_upstream	0
+replaced_rolled_back_mismatch	8
+upstream_fetch_attempts	25
+unresolved_after_attempts	17
+queue_rows	9
+attempt_rows	25

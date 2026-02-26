@@ -1,0 +1,16 @@
+metric	value
+actions_total	838
+recovered_total	60
+unresolved_total	616
+geo_attempts	21
+geo_successes	15
+geo_skipped	3
+baseline_placeholder_/Users/renatosocodato/cyto_kb	116
+final_placeholder_/Users/renatosocodato/cyto_kb	111
+net_reduction_/Users/renatosocodato/cyto_kb	5
+baseline_placeholder_/Users/renatosocodato/redox-secretome-axis	12
+final_placeholder_/Users/renatosocodato/redox-secretome-axis	12
+net_reduction_/Users/renatosocodato/redox-secretome-axis	0
+baseline_placeholder_/Users/renatosocodato/PFn1 5xFAD	662
+final_placeholder_/Users/renatosocodato/PFn1 5xFAD	574
+net_reduction_/Users/renatosocodato/PFn1 5xFAD	88

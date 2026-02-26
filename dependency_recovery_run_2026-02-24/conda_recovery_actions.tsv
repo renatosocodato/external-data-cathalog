@@ -1,0 +1,223 @@
+timestamp_utc	root	manager	action	status	detail
+2026-02-24T11:58:12.850765Z	/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/maldi2alz/MALDI2Alz	mamba	env_create_from_yml	ok	"5.2.0-hcbb3090_18
+Linking libtiff-4.7.1-h4030677_1
+Linking libfreetype6-2.14.1-h6da58f4_0
+Linking krb5-1.22.2-h385eeb1_0
+Linking xz-5.8.2-hd0f0c4f_0
+Linking brotli-bin-1.2.0-hc919400_1
+Linking libxml2-2.15.1-h762f11a_1
+Linking libgfortran5-15.2.0-hdae7583_18
+Linking openjpeg-2.5.4-hbfb3c88_0
+Linking lcms2-2.18-hdfa7624_0
+Linking libfreetype-2.14.1-hce30654_0
+Linking libcurl-8.18.0-hd5a2499_1
+Linking python-3.8.20-h7d35d02_2_cpython
+Linking brotli-1.2.0-h7d5ae5b_1
+Linking libhwloc-2.12.2-default_ha3cc4f2_1000
+Linking libgfortran-15.2.0-h07b0088_18
+Linking freetype-2.14.1-hce30654_0
+Linking tbb-2022.3.0-h4ddebb9_2
+Linking hdf5-1.14.3-nompi_ha698983_109
+Linking libopenblas-0.3.25-openmp_h6c19121_0
+Linking libblas-3.9.0-20_osxarm64_openblas
+Linking libcblas-3.9.0-20_osxarm64_openblas
+Linking liblapack-3.9.0-20_osxarm64_openblas
+Linking wheel-0.45.1-pyhd8ed1ab_0
+Linking setuptools-75.3.0-pyhd8ed1ab_0
+Linking pip-24.3.1-pyh8b19718_0
+Linking hyperframe-6.0.1-pyhd8ed1ab_0
+Linking hpack-4.0.0-pyh9f0ad1d_0
+Linking pycparser-2.22-pyhd8ed1ab_0
+Linking pysocks-1.7.1-pyha2e5f31_6
+Linking idna-3.10-pyhd8ed1ab_0
+Linking charset-normalizer-3.4.0-pyhd8ed1ab_0
+Linking colorama-0.4.6-pyhd8ed1ab_0
+Linking cached_property-1.5.2-pyha770c72_1
+Linking zipp-3.21.0-pyhd8ed1ab_0
+Linking platformdirs-4.3.6-pyhd8ed1ab_0
+Linking six-1.16.0-pyh6c4a22f_0
+Linking networkx-3.1-pyhd8ed1ab_0
+Linking natsort-8.4.0-pyhd8ed1ab_0
+Linking legacy-api-wrap-1.4-pyhd8ed1ab_1
+Linking stdlib-list-0.11.0-pyhd8ed1ab_0
+Linking munkres-1.1.4-pyh9f0ad1d_0
+Linking pyparsing-3.1.4-pyhd8ed1ab_0
+Linking packaging-26.0-pyhcf101f3_0
+Linking cycler-0.12.1-pyhd8ed1ab_0
+Linking certifi-2024.8.30-pyhd8ed1ab_0
+Linking pytz-2024.2-pyhd8ed1ab_0
+Linking python-tzdata-2024.2-pyhd8ed1ab_0
+Linking threadpoolctl-3.5.0-pyhc1e730c_0
+Linking joblib-1.4.2-pyhd8ed1ab_0
+Linking get-annotations-0.1.2-pyhd8ed1ab_0
+Linking h2-4.1.0-pyhd8ed1ab_0
+Linking tqdm-4.67.1-pyhd8ed1ab_0
+Linking cached-property-1.5.2-hd8ed1ab_1
+Linking importlib-metadata-8.5.0-pyha770c72_0
+Linking importlib_resources-6.4.5-pyhd8ed1ab_0
+Linking python-dateutil-2.9.0-pyhd8ed1ab_0
+Linking session-info-1.0.0-pyhd8ed1ab_0
+Linking importlib-resources-6.4.5-pyhd8ed1ab_0
+Linking brotli-python-1.0.9-py38h2b1e499_8
+Linking llvmlite-0.41.1-py38hbed3d3f_0
+Linking unicodedata2-15.1.0-py38hb192615_0
+Linking tornado-6.4.1-py38h3237794_0
+Linking pillow-10.4.0-py38h2c6aaed_0
+Linking kiwisolver-1.4.5-py38h9afee92_1
+Linking numpy-1.24.4-py38ha84db1f_0
+Linking cffi-1.17.0-py38h858044d_0
+Linking fonttools-4.53.1-py38h3237794_0
+Linking numba-0.58.1-py38hbe32c8a_0
+Linking h5py-3.11.0-nompi_py38h70800c8_102
+Linking contourpy-1.1.1-py38h9afee92_1
+Linking pandas-2.0.3-py38hefb543e_1
+Linking zstandard-0.19.0-py38hb991d35_0
+Linking matplotlib-base-3.7.3-py38hef9d0d7_0
+Linking matplotlib-3.7.3-py38h150bfb4_0
+Linking patsy-0.5.6-pyhd8ed1ab_0
+Linking urllib3-2.2.3-pyhd8ed1ab_0
+Linking requests-2.32.3-pyhd8ed1ab_0
+Linking pooch-1.8.2-pyhd8ed1ab_0
+Linking scipy-1.10.1-py38h038e806_3
+Linking statsmodels-0.14.1-py38hd97cf01_0
+Linking scikit-learn-1.3.2-py38he1bc1c9_2
+Linking anndata-0.9.2-pyhd8ed1ab_0
+Linking seaborn-base-0.13.2-pyhd8ed1ab_2
+Linking pynndescent-0.5.13-pyhff2d567_0
+Linking seaborn-0.13.2-hd8ed1ab_2
+Linking umap-learn-0.5.6-py38h10201cd_1
+Linking scanpy-1.10.2-pyhd8ed1ab_0
+
+Transaction finished
+
+
+To activate this environment, use:
+
+    mamba activate M2C2
+
+Or to execute a single command in this environment, use:
+
+    mamba run -n M2C2 mycommand
+
+
+Installing pip packages: git+https://github.com/gtluu/pyTDFSDK.git, pyimzml, tqdm, xgboost, shap
+warning  libmamba 'repo.anaconda.com', a commercial channel hosted by Anaconda.com, is used.
+    
+warning  libmamba Please make sure you understand Anaconda Terms of Services.
+    
+warning  libmamba See: https://legal.anaconda.com/policies/en/
+warning  libmamba You are using 'pip' as an additional package manager.
+    Be aware that packages installed with 'pip' are managed independently from 'conda-forge' channel.
+"
+2026-02-24T11:59:11.588277Z	/Users/renatosocodato/external data_cathalog	mamba	env_create_from_yml	ok	"-r43hc72bb7e_0
+Linking r-callr-3.7.6-r43hc72bb7e_1
+Linking r-blob-1.2.4-r43hc72bb7e_2
+Linking r-pillar-1.11.0-r43hc72bb7e_0
+Linking r-tidyselect-1.2.1-r43hc72bb7e_1
+Linking r-stringr-1.5.2-r43h785f33e_0
+Linking r-hms-1.1.3-r43hc72bb7e_2
+Linking urllib3-2.6.3-pyhd8ed1ab_0
+Linking jinja2-3.1.6-pyhcf101f3_1
+Linking referencing-0.37.0-pyhcf101f3_0
+Linking terminado-0.18.1-pyhc90fa1f_1
+Linking jupyter_client-8.8.0-pyhcf101f3_0
+Linking send2trash-2.1.0-pyh5552912_1
+Linking argon2-cffi-25.1.0-pyhd8ed1ab_0
+Linking r-shiny-1.11.1-r43h785f33e_0
+Linking r-rmarkdown-2.29-r43hc72bb7e_0
+Linking r-repr-1.1.7-r43h785f33e_1
+Linking r-selectr-0.4_2-r43hc72bb7e_4
+Linking r-progress-1.2.3-r43hc72bb7e_1
+Linking requests-2.32.5-pyhcf101f3_1
+Linking jsonschema-specifications-2025.9.1-pyhcf101f3_0
+Linking jupyter_server_terminals-0.5.4-pyhcf101f3_0
+Linking ipykernel-7.2.0-pyh5552912_1
+Linking r-htmlwidgets-1.6.4-r43h785f33e_3
+Linking r-reprex-2.1.1-r43hc72bb7e_1
+Linking r-irdisplay-1.1-r43hd8ed1ab_3
+Linking jsonschema-4.26.0-pyhcf101f3_0
+Linking r-irkernel-1.3.2-r43h785f33e_2
+Linking nbformat-5.10.4-pyhd8ed1ab_1
+Linking jsonschema-with-format-nongpl-4.26.0-hcf101f3_0
+Linking nbclient-0.10.4-pyhd8ed1ab_0
+Linking jupyter_events-0.12.0-pyhe01879c_0
+Linking nbconvert-core-7.17.0-pyhcf101f3_0
+Linking jupyter_server-2.17.0-pyhcf101f3_0
+Linking jupyter-lsp-2.3.0-pyhcf101f3_0
+Linking notebook-shim-0.2.4-pyhd8ed1ab_1
+Linking jupyterlab_server-2.28.0-pyhcf101f3_0
+Linking jupyterlab-4.5.5-pyhd8ed1ab_0
+Linking notebook-7.5.3-pyhcf101f3_0
+Linking r-tibble-3.3.0-r43h570997c_0
+Linking r-pryr-0.1.6-r43hd76f289_2
+Linking r-reshape2-1.4.4-r43h088c9a0_5
+Linking r-vroom-1.6.5-r43hd76f289_1
+Linking r-dplyr-1.1.4-r43hd76f289_1
+Linking r-readr-2.1.5-r43hd76f289_1
+Linking r-tidyr-1.3.1-r43hd76f289_1
+Linking r-rematch2-2.1.2-r43hc72bb7e_4
+Linking r-hardhat-1.4.2-r43hc72bb7e_0
+Linking r-googledrive-2.1.2-r43hc72bb7e_0
+Linking r-cellranger-1.1.0-r43hc72bb7e_1007
+Linking r-rvest-1.0.5-r43hc72bb7e_0
+Linking r-ggplot2-3.5.2-r43hc72bb7e_0
+Linking r-forcats-1.0.0-r43hc72bb7e_2
+Linking r-gistr-0.9.0-r43hc72bb7e_3
+Linking r-dtplyr-1.3.2-r43hc72bb7e_0
+Linking r-dbplyr-2.5.1-r43hc72bb7e_0
+Linking r-googlesheets4-1.1.2-r43h785f33e_0
+Linking r-broom-1.0.9-r43hc72bb7e_0
+Linking r-rbokeh-0.5.2-r43hc72bb7e_4
+Linking r-modelr-0.1.11-r43hc72bb7e_2
+Linking r-readxl-1.4.5-r43he03dc4e_0
+Linking r-prodlim-2025.04.28-r43h31118f2_0
+Linking r-haven-2.5.5-r43hd67c4e2_0
+Linking r-ipred-0.9_15-r43h07cda29_1
+Linking r-tidyverse-2.0.0-r43h785f33e_2
+Linking r-recipes-1.3.1-r43hc72bb7e_0
+Linking r-caret-6.0_94-r43h07cda29_2
+Linking r-essentials-4.3-r43hd8ed1ab_2005
+
+Transaction finished
+
+
+To activate this environment, use:
+
+    mamba activate external-data-cathalog
+
+Or to execute a single command in this environment, use:
+
+    mamba run -n external-data-cathalog mycommand
+
+
+Installing pip packages: pandas>=2.0, pyyaml>=6.0, requests>=2.28
+warning  libmamba 'repo.anaconda.com', a commercial channel hosted by Anaconda.com, is used.
+    
+warning  libmamba Please make sure you understand Anaconda Terms of Services.
+    
+warning  libmamba See: https://legal.anaconda.com/policies/en/
+warning  libmamba [gfortran_impl_osx-arm64-14.3.0-h969232b_1] The following files were already present in the environment:
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/include/ISO_Fortran_binding.h
+warning  libmamba [gfortran_osx-arm64-14.3.0-h3c33bd0_0] The following files were already present in the environment:
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/ar
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/as
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/clang
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/ld
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/nm
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/ranlib
+    - lib/gcc/arm64-apple-darwin20.0.0/14.3.0/strip
+warning  libmamba You are using 'pip' as an additional package manager.
+    Be aware that packages installed with 'pip' are managed independently from 'conda-forge' channel.
+"
+2026-02-24T11:59:16.088497Z	/Users/renatosocodato/thermocausality_mtce	mamba	env_create_from_yml	fail	"conda-forge/noarch                                          Using cache
+conda-forge/osx-arm64                                       Using cache
+
+error    libmamba Could not solve for environment specs
+    The following package could not be installed
+    └─ pytorch-cuda =11.8 * is not installable because it requires
+       └─ cuda =11.8 *, which does not exist (perhaps a missing channel).
+critical libmamba Could not solve for environment specs
+"
+2026-02-24T11:59:16.114283Z	/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz	mamba	env_create_from_yml	fail	"Found conda-prefix at '/opt/homebrew/Cellar/micromamba/2.5.0_1/envs/M2C2'. Overwrite?: [y/N] Aborted.
+critical libmamba Aborting.
+"

@@ -1,0 +1,10 @@
+root	has_requirements	has_pyproject	has_renv	has_env_yml	manifests
+/Users/renatosocodato/.claude/plugins/marketplaces/claude-scientific-writer	False	True	False	False	pyproject.toml
+/Users/renatosocodato/Desktop/CDC42_microglia_paper	True	False	True	False	renv.lock;requirements.txt
+/Users/renatosocodato/Desktop/CDC42_microglia_paper_RECOVERY_WORK/repo_from_bundle	True	False	True	False	renv.lock;requirements.txt
+/Users/renatosocodato/Library/CloudStorage/GoogleDrive-renato.socodato@gmail.com/My Drive/thermocausality_mtce_omics_mirror_2026-02-04/phase23_collective_intelligence_omics_mirror/maldi2alz/MALDI2Alz	False	False	False	True	environment.yml
+/Users/renatosocodato/cdc42_2p_fvsm_velocities	True	False	True	False	renv.lock;requirements.txt
+/Users/renatosocodato/cyto_kb	True	False	False	False	requirements.txt
+/Users/renatosocodato/external data_cathalog	True	False	False	True	environment.yml;requirements.txt
+/Users/renatosocodato/thermocausality_mtce	True	False	False	True	environment.yml;requirements.txt
+/Users/renatosocodato/thermocausality_mtce/phase23_collective_intelligence/maldi2alz/MALDI2Alz	False	False	False	True	environment.yml
