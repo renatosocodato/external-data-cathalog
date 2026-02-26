@@ -33,3 +33,8 @@ dist/
 
 # Logs and transient outputs
 *.log
+
+# Deterministic packaging outputs
+artifacts/
+*.tar.gz
+*.sha256
