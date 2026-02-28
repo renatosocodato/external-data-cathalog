@@ -38,5 +38,9 @@ jobs:
           git remote remove gitlab || true
           git remote add gitlab "https://oauth2:${GITLAB_TOKEN}@${GITLAB_HOST}/${GITLAB_PROJECT_PATH}"
           git remote -v
-          git push --prune gitlab --all
+          if [ "${GITHUB_REF_NAME}" != "main" ]; then
+            echo "Skipping non-main branch ${GITHUB_REF_NAME} mirroring to GitLab (main only)."
+            exit 0
+          fi
+          git push gitlab main
           git push gitlab --tags
