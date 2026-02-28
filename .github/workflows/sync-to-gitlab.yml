@@ -38,5 +38,5 @@ jobs:
           git remote remove gitlab || true
           git remote add gitlab "https://oauth2:${GITLAB_TOKEN}@${GITLAB_HOST}/${GITLAB_PROJECT_PATH}"
           git remote -v
-          git push --force --prune gitlab --all
-          git push --force gitlab --tags
+          git push --prune gitlab --all
+          git push gitlab --tags
