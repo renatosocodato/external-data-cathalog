@@ -1,0 +1,48 @@
+name: Mirror to GitLab
+
+on:
+  push:
+  workflow_dispatch:
+
+concurrency:
+  group: mirror-to-gitlab-${{ github.repository }}
+  cancel-in-progress: true
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+          fetch-tags: true
+          persist-credentials: false
+
+      - name: Push mirror to GitLab
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          GITLAB_HOST: ${{ secrets.GITLAB_HOST }}
+          GITLAB_PROJECT_PATH: ${{ secrets.GITLAB_PROJECT_PATH }}
+        run: |
+          if [ -z "$GITLAB_TOKEN" ] || [ -z "$GITLAB_HOST" ] || [ -z "$GITLAB_PROJECT_PATH" ]; then
+            echo "Missing GITLAB_TOKEN, GITLAB_HOST, or GITLAB_PROJECT_PATH secret." >&2
+            exit 1
+          fi
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote remove gitlab || true
+          git remote add gitlab "https://oauth2:${GITLAB_TOKEN}@${GITLAB_HOST}/${GITLAB_PROJECT_PATH}"
+          git remote -v
+          if [ "${GITHUB_REF_NAME}" != "main" ]; then
+            echo "Skipping non-main branch ${GITHUB_REF_NAME} mirroring to GitLab (main only)."
+            exit 0
+          fi
+          git config lfs.allowincompletepush true
+          git push gitlab main
+          git push gitlab --tags
