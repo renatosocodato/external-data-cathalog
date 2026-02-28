@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          lfs: true
           fetch-tags: true
           persist-credentials: false
 
@@ -42,5 +43,6 @@ jobs:
             echo "Skipping non-main branch ${GITHUB_REF_NAME} mirroring to GitLab (main only)."
             exit 0
           fi
+          git config lfs.allowincompletepush true
           git push gitlab main
           git push gitlab --tags
